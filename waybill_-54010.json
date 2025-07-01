@@ -1,0 +1,413 @@
+{
+  "salesWaybillId": -54010,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54010,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": null,
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-06-30T14:13:21",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 7,
+    "description": "Apumanque",
+    "address": "Av. Manquehue Sur N°31 Local 391",
+    "city": "Santiago",
+    "county": "Las Condes",
+    "zipCode": "",
+    "state": "",
+    "country": "Chile"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10936081642",
+    "documentStatus": "0",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-06-30T17:57:32"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-06-30T14:13:43",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "MALL APUMANQUE"
+  },
+  "items": [
+    {
+      "itemId": 447679,
+      "itemOrder": 447679,
+      "product": {
+        "productId": 7161,
+        "sku": "TL-CH-0001",
+        "description": "TELA GENERO CHINA BLANCA 1.25 CM (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 24.0,
+      "originalUnitPrice": 513.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 513.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512600,
+          "fromStep": "O",
+          "fromId": 84761
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447680,
+      "itemOrder": 447680,
+      "product": {
+        "productId": 1893,
+        "sku": "TL-CH-0002",
+        "description": "TELA GENERO CHINA BLANCA 2.5 CM (ENVIAR CAJA x 6 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitPrice": 772.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 772.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512601,
+          "fromStep": "O",
+          "fromId": 84762
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447681,
+      "itemOrder": 447681,
+      "product": {
+        "productId": 1757,
+        "sku": "TL-CH-0003",
+        "description": "TELA GENERO CHINA BLANCA 5 CM (ENVIAR CAJA x 6 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitPrice": 1382.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1382.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512602,
+          "fromStep": "O",
+          "fromId": 84763
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447682,
+      "itemOrder": 447682,
+      "product": {
+        "productId": 3087,
+        "sku": "BI-GO-0001",
+        "description": "CANULA NASAL OXIGENO ADULTO GHC (REF. 63-445)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 40.0,
+      "originalUnitPrice": 313.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 313.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512603,
+          "fromStep": "O",
+          "fromId": 84764
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447683,
+      "itemOrder": 447683,
+      "product": {
+        "productId": 914,
+        "sku": "CA-JO-0036",
+        "description": "CALCETA ULTRASHEER 15-20 PUNTA CERRADA HONEY S JOBST (REF. 75165-21)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 13056.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 13056.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512604,
+          "fromStep": "O",
+          "fromId": 84765
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447684,
+      "itemOrder": 447684,
+      "product": {
+        "productId": 15106,
+        "sku": "AA-AA-0277",
+        "description": "COJIN LUMBAR VISCOELASTICO BLUNDING (REF. BCU-14)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 11864.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 11864.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512605,
+          "fromStep": "O",
+          "fromId": 84767
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447685,
+      "itemOrder": 447685,
+      "product": {
+        "productId": 15821,
+        "sku": "IB-CA-0013",
+        "description": "CALCETA REPOMEN COTTON NEGRO M IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 16500.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 16500.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512606,
+          "fromStep": "O",
+          "fromId": 84769
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447686,
+      "itemOrder": 447686,
+      "product": {
+        "productId": 376,
+        "sku": "PA-AB-0033",
+        "description": "PAÑAL APOSITO ABENA SAN 3 PREMIUM (x 28 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 9818.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 9818.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512607,
+          "fromStep": "O",
+          "fromId": 84771
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447687,
+      "itemOrder": 447687,
+      "product": {
+        "productId": 670,
+        "sku": "SA-BA-0004",
+        "description": "SABANILLA PROTECTORA CAMA 90x60 CM HIGIECLIN (x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 8.0,
+      "originalUnitPrice": 3497.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3497.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512608,
+          "fromStep": "O",
+          "fromId": 84772
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447688,
+      "itemOrder": 447688,
+      "product": {
+        "productId": 16603,
+        "sku": "CC-CC-0598",
+        "description": "SILLA DE RUEDA ALUMINIO STRATTO M.D (REF. ST-0043)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 106507.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 106507.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512609,
+          "fromStep": "O",
+          "fromId": 84773
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447689,
+      "itemOrder": 447689,
+      "product": {
+        "productId": 16602,
+        "sku": "CC-CC-0597",
+        "description": "SILLA DE RUEDA ESTANDAR ACERO STRATTO M.D (REF. ST-0042)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 72195.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 72195.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512610,
+          "fromStep": "O",
+          "fromId": 84774
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

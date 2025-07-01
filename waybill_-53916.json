@@ -1,0 +1,147 @@
+{
+  "salesWaybillId": -53916,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53916,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": null,
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "006",
+    "name": "BODEGA WEB (PRODUCTOS MUEBLE)"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-06-19T15:20:17",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 6,
+    "description": "INTERNET",
+    "address": "LOS APOSTOLES 3580",
+    "city": "SANTIAGO",
+    "county": "MACUL",
+    "zipCode": "",
+    "state": "",
+    "country": "CHILE"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10912286182",
+    "documentStatus": "0",
+    "uploadStatus": "",
+    "sentToCustomerAt": null
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-06-23T15:20:58",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "WEB"
+  },
+  "items": [
+    {
+      "itemId": 446286,
+      "itemOrder": 446286,
+      "product": {
+        "productId": 16655,
+        "sku": "CC-CC-0636",
+        "description": "APOSITO SUPER ABSORBENTE NO ADHESIVO CONVAMAX 10x10 CM CONVATEC (REF. 422567) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 1894.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1894.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": null,
+      "customFields": {}
+    },
+    {
+      "itemId": 446287,
+      "itemOrder": 446287,
+      "product": {
+        "productId": 14679,
+        "sku": "PL-CA-0022",
+        "description": "PLACA FLEXIBLE STOMAHESIVE SURFIT NATURA 57 MM OPACA CONVATEC (REF. 125265) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 3348.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3348.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": null,
+      "customFields": {}
+    },
+    {
+      "itemId": 446288,
+      "itemOrder": 446288,
+      "product": {
+        "productId": 14644,
+        "sku": "BO-CO-0022",
+        "description": "BOLSA DRENABLE CON FILTRO NATURA 57 MM OPACA CONVATEC (REF. 416420) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 2146.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2146.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": null,
+      "customFields": {}
+    }
+  ]
+}

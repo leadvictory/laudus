@@ -1,0 +1,602 @@
+{
+  "salesWaybillId": -54011,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54011,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 3,
+    "name": "OS ÑUÑOA"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-06-30T16:21:46",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 1,
+    "description": "Ñuñoa",
+    "address": "Irarrazaval 3101",
+    "city": "SANTIAGO",
+    "county": "ÑUÑOA",
+    "zipCode": "",
+    "state": "",
+    "country": ""
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10936900680",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-06-30T17:57:47"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-06-30T16:22:21",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "ÑUÑOA"
+  },
+  "items": [
+    {
+      "itemId": 447690,
+      "itemOrder": 447690,
+      "product": {
+        "productId": 15779,
+        "sku": "CC-CC-0041",
+        "description": "HIDROGEL 15 GR CRANBERRY (REF. AAPHID01) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 825.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 825.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512611,
+          "fromStep": "O",
+          "fromId": 84470
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447691,
+      "itemOrder": 447691,
+      "product": {
+        "productId": 9259,
+        "sku": "FR-AS-0001",
+        "description": "FRASCO EXAMEN ORINA 150 ML",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 50.0,
+      "originalUnitPrice": 306.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 306.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512612,
+          "fromStep": "O",
+          "fromId": 84471
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447692,
+      "itemOrder": 447692,
+      "product": {
+        "productId": 7135,
+        "sku": "BR-AN-0005",
+        "description": "BRANULA SAFELET 22G x 1' NIPRO (ENVIAR CAJA x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 50.0,
+      "originalUnitPrice": 487.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 487.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512613,
+          "fromStep": "O",
+          "fromId": 84472
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447693,
+      "itemOrder": 447693,
+      "product": {
+        "productId": 16752,
+        "sku": "CC-CC-0722",
+        "description": "ADHESIVO CRUZ DE MALTA (INTERIOR)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 687.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 687.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512614,
+          "fromStep": "O",
+          "fromId": 84473
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447694,
+      "itemOrder": 447694,
+      "product": {
+        "productId": 8537,
+        "sku": "BL-TO-0002",
+        "description": "TOBILLERA ESTABILIZADORA CON BARRAS LATERALES M BLUNDING (REF. MI-123)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 17801.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 17801.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512615,
+          "fromStep": "O",
+          "fromId": 84474
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447695,
+      "itemOrder": 447695,
+      "product": {
+        "productId": 16761,
+        "sku": "CC-CC-0731",
+        "description": "CLORURO DE SODIO 0,9% 5 ML VITAFARMA (ENVIAR CAJA x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 300.0,
+      "originalUnitPrice": 220.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 220.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512616,
+          "fromStep": "O",
+          "fromId": 84475
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447696,
+      "itemOrder": 447696,
+      "product": {
+        "productId": 3917,
+        "sku": "SU-EC-0004",
+        "description": "CLORURO DE SODIO 0.9% 1 LT BBRAUN (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitPrice": 1455.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1455.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512617,
+          "fromStep": "O",
+          "fromId": 84476
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447697,
+      "itemOrder": 447697,
+      "product": {
+        "productId": 14945,
+        "sku": "AA-AA-0133",
+        "description": "TUBO EXTRACCION SANGRE CELESTE 2.7 ML",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 185.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 185.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512618,
+          "fromStep": "O",
+          "fromId": 84477
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447698,
+      "itemOrder": 447698,
+      "product": {
+        "productId": 8167,
+        "sku": "JE-RI-0019",
+        "description": "JERINGA LUER LOCK 5 ML CRANBERRY (21G x 1 1/2\") (REF. AAJECR05) (ENVIAR CAJA x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 100.0,
+      "originalUnitPrice": 44.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 44.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512619,
+          "fromStep": "O",
+          "fromId": 84478
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447699,
+      "itemOrder": 447699,
+      "product": {
+        "productId": 9995,
+        "sku": "PR-EP-0345",
+        "description": "TOALLITAS ANTISEPTICAS CON ALCOHOL 70% DIFEMPHARMA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 1248.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1248.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512620,
+          "fromStep": "O",
+          "fromId": 84479
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447700,
+      "itemOrder": 447700,
+      "product": {
+        "productId": 11603,
+        "sku": "PE-RA-0006",
+        "description": "PERA LAVADO GOMA N8 CRANBERRY (REF. AAPERA08)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 2038.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2038.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512621,
+          "fromStep": "O",
+          "fromId": 84480
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447701,
+      "itemOrder": 447701,
+      "product": {
+        "productId": 4643,
+        "sku": "PE-RA-0005",
+        "description": "PERA LAVADO GOMA N6 CRANBERRY (REF. AAPERA06)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 975.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 975.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512622,
+          "fromStep": "O",
+          "fromId": 84481
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447702,
+      "itemOrder": 447702,
+      "product": {
+        "productId": 6079,
+        "sku": "PE-RA-0004",
+        "description": "PERA LAVADO GOMA N4 CRANBERRY (REF. AAPERA04)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 838.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 838.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512623,
+          "fromStep": "O",
+          "fromId": 84482
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447704,
+      "itemOrder": 447704,
+      "product": {
+        "productId": 16237,
+        "sku": "CC-CC-0299",
+        "description": "SEPARADOR 5 DEDOS SUSIE´S GADGETS (REF. 97321)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 689.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 689.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512625,
+          "fromStep": "O",
+          "fromId": 84485
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447705,
+      "itemOrder": 447705,
+      "product": {
+        "productId": 11519,
+        "sku": "PI-CE-0003",
+        "description": "PICARON D21 8 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 2325.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2325.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512626,
+          "fromStep": "O",
+          "fromId": 84486
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447706,
+      "itemOrder": 447706,
+      "product": {
+        "productId": 11707,
+        "sku": "SU-EC-0003",
+        "description": "CLORURO DE SODIO 0.9% 500 ML BBRAUN (ENVIAR CAJA x 24 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 24.0,
+      "originalUnitPrice": 1106.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1106.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512627,
+          "fromStep": "O",
+          "fromId": 84519
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447707,
+      "itemOrder": 447707,
+      "product": {
+        "productId": 4341,
+        "sku": "SO-NS-0005",
+        "description": "SONDA NASOGASTRICA SILICONA 16",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 7375.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 7375.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512628,
+          "fromStep": "O",
+          "fromId": 84520
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

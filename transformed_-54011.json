@@ -1,0 +1,381 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54011,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "004",
+    "name": "ÑUÑOA"
+  },
+  "issuedDate": "2025-06-30T16:21:46",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "CC-CC-0041",
+        "description": "HIDROGEL 15 GR CRANBERRY (REF. AAPHID01) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 825.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 825.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "FR-AS-0001",
+        "description": "FRASCO EXAMEN ORINA 150 ML",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 306.0
+      },
+      "itemDescription": "",
+      "quantity": 50,
+      "originalUnitCost": 306.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BR-AN-0005",
+        "description": "BRANULA SAFELET 22G x 1' NIPRO (ENVIAR CAJA x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 487.0
+      },
+      "itemDescription": "",
+      "quantity": 50,
+      "originalUnitCost": 487.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0722",
+        "description": "ADHESIVO CRUZ DE MALTA (INTERIOR)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 687.0
+      },
+      "itemDescription": "",
+      "quantity": 20,
+      "originalUnitCost": 687.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-TO-0002",
+        "description": "TOBILLERA ESTABILIZADORA CON BARRAS LATERALES M BLUNDING (REF. MI-123)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 17801.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 17801.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0731",
+        "description": "CLORURO DE SODIO 0,9% 5 ML VITAFARMA (ENVIAR CAJA x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 220.0
+      },
+      "itemDescription": "",
+      "quantity": 300,
+      "originalUnitCost": 220.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "SU-EC-0004",
+        "description": "CLORURO DE SODIO 0.9% 1 LT BBRAUN (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1455.0
+      },
+      "itemDescription": "",
+      "quantity": 12,
+      "originalUnitCost": 1455.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0133",
+        "description": "TUBO EXTRACCION SANGRE CELESTE 2.7 ML",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 185.0
+      },
+      "itemDescription": "",
+      "quantity": 20,
+      "originalUnitCost": 185.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "JE-RI-0019",
+        "description": "JERINGA LUER LOCK 5 ML CRANBERRY (21G x 1 1/2\") (REF. AAJECR05) (ENVIAR CAJA x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 44.0
+      },
+      "itemDescription": "",
+      "quantity": 100,
+      "originalUnitCost": 44.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PR-EP-0345",
+        "description": "TOALLITAS ANTISEPTICAS CON ALCOHOL 70% DIFEMPHARMA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1248.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 1248.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PE-RA-0006",
+        "description": "PERA LAVADO GOMA N8 CRANBERRY (REF. AAPERA08)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2038.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 2038.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PE-RA-0005",
+        "description": "PERA LAVADO GOMA N6 CRANBERRY (REF. AAPERA06)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 975.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 975.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PE-RA-0004",
+        "description": "PERA LAVADO GOMA N4 CRANBERRY (REF. AAPERA04)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 838.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 838.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0299",
+        "description": "SEPARADOR 5 DEDOS SUSIE´S GADGETS (REF. 97321)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 689.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 689.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PI-CE-0003",
+        "description": "PICARON D21 8 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2325.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 2325.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "SU-EC-0003",
+        "description": "CLORURO DE SODIO 0.9% 500 ML BBRAUN (ENVIAR CAJA x 24 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1106.0
+      },
+      "itemDescription": "",
+      "quantity": 24,
+      "originalUnitCost": 1106.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "SO-NS-0005",
+        "description": "SONDA NASOGASTRICA SILICONA 16",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 7375.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 7375.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    }
+  ]
+}

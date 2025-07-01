@@ -1,0 +1,41 @@
+{
+    "docType": {
+        "docTypeId": 52,
+        "name": "Guía de Despacho Electrónica"
+    },
+    "docNumber": 53883,
+    "description": "",
+    "supplier": {
+        "supplierId": 1,
+        "name": "IMPORTADORA NECGROUP SPA",
+        "legalName": "IMPORTADORA NECGROUP SPA",
+        "VATId": "76.278.745-8"
+    },
+    "warehouse": {
+    "warehouseId": "005",
+    "name": "MALL QUILIN"
+    },
+    "issuedDate": "2025-06-27T04:59:59.671Z",
+    "nullDoc": false,
+    "notes": "",
+    "isSale": false,
+    "items": [
+    {
+    "product": {
+        "sku": "AA-AA-0024",
+        "description": "SUSPENSOR ESCROTAL S",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 500
+    },
+        "itemDescription": "Producto ejemplo",
+        "quantity": 10,
+        "originalUnitCost": 500,
+        "currencyCode": "CLP",
+        "parityToMainCurrency": 1,
+        "unitCost": 500
+    }
+]
+}

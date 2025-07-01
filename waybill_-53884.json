@@ -1,0 +1,537 @@
+{
+  "salesWaybillId": -53884,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53884,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": null,
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-06-19T11:47:39",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 7,
+    "description": "Apumanque",
+    "address": "Av. Manquehue Sur N°31 Local 391",
+    "city": "Santiago",
+    "county": "Las Condes",
+    "zipCode": "",
+    "state": "",
+    "country": "Chile"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10903504216",
+    "documentStatus": "0",
+    "uploadStatus": "",
+    "sentToCustomerAt": null
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-06-19T11:48:42",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "LAS CONDES"
+  },
+  "items": [
+    {
+      "itemId": 445836,
+      "itemOrder": 445836,
+      "product": {
+        "productId": 15778,
+        "sku": "CC-CC-0040",
+        "description": "SPRAY PELICULA PROTECTORA PIEL 28 ML CRANBERRY (REF. AAPELIH1) (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitPrice": 4625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4625.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506334,
+          "fromStep": "O",
+          "fromId": 82953
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445837,
+      "itemOrder": 445837,
+      "product": {
+        "productId": 1180,
+        "sku": "AD-AP-0004",
+        "description": "APOSITO NO ADHERENTE ADAPTIC 7.6x20.3 CM  (REF. 2015) (ENVIAR CAJA x 24 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 24.0,
+      "originalUnitPrice": 825.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 825.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506335,
+          "fromStep": "O",
+          "fromId": 82954
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445838,
+      "itemOrder": 445838,
+      "product": {
+        "productId": 240,
+        "sku": "VA-QQ-0156",
+        "description": "CALCETA VARIMED 500 MICRO PUNTA ABIERTA C/CALZADOR BEIGE T02 (REF. 9046)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 20438.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 20438.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506336,
+          "fromStep": "O",
+          "fromId": 82955
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445839,
+      "itemOrder": 445839,
+      "product": {
+        "productId": 242,
+        "sku": "VA-QQ-0166",
+        "description": "CALCETA VARIMED 500 MICRO PUNTA ABIERTA C/CALZADOR BEIGE T03 (REF. 9046)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 20438.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 20438.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506337,
+          "fromStep": "O",
+          "fromId": 82956
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445840,
+      "itemOrder": 445840,
+      "product": {
+        "productId": 244,
+        "sku": "VA-QQ-0176",
+        "description": "CALCETA VARIMED 500 MICRO PUNTA ABIERTA C/CALZADOR BEIGE T04 (REF. 9046)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 20438.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 20438.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506338,
+          "fromStep": "O",
+          "fromId": 82957
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445841,
+      "itemOrder": 445841,
+      "product": {
+        "productId": 246,
+        "sku": "VA-QQ-0186",
+        "description": "CALCETA VARIMED 500 MICRO PUNTA ABIERTA C/CALZADOR BEIGE T05 (REF. 9046)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 20438.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 20438.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506339,
+          "fromStep": "O",
+          "fromId": 82958
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445842,
+      "itemOrder": 445842,
+      "product": {
+        "productId": 7135,
+        "sku": "BR-AN-0005",
+        "description": "BRANULA SAFELET 22G x 1' NIPRO (ENVIAR CAJA x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 50.0,
+      "originalUnitPrice": 487.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 487.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506340,
+          "fromStep": "O",
+          "fromId": 82959
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445843,
+      "itemOrder": 445843,
+      "product": {
+        "productId": 13062,
+        "sku": "AP-GS-1100",
+        "description": "APOSITO GASA NO TEJIDO 10x10 CM MEDICPRO (ENVIAR BOLSA x 25 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 50.0,
+      "originalUnitPrice": 82.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 82.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506341,
+          "fromStep": "O",
+          "fromId": 82961
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445844,
+      "itemOrder": 445844,
+      "product": {
+        "productId": 2465,
+        "sku": "SU-EA-0001",
+        "description": "CLORURO DE SODIO 0,9% 10 ML VITAFARMA (ENVIAR CAJA x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 50.0,
+      "originalUnitPrice": 250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506342,
+          "fromStep": "O",
+          "fromId": 82962
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445845,
+      "itemOrder": 445845,
+      "product": {
+        "productId": 3251,
+        "sku": "SU-EA-0002",
+        "description": "CLORURO DE SODIO 0,9% 20 ML VITAFARMA (ENVIAR CAJA x 40 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 40.0,
+      "originalUnitPrice": 400.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 400.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506343,
+          "fromStep": "O",
+          "fromId": 82963
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445846,
+      "itemOrder": 445846,
+      "product": {
+        "productId": 2409,
+        "sku": "TP-AM-0001",
+        "description": "TAPA OBTURACION CATETER AMARILLA HEPARINIZADA KDL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 50.0,
+      "originalUnitPrice": 67.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 67.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506344,
+          "fromStep": "O",
+          "fromId": 82964
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445847,
+      "itemOrder": 445847,
+      "product": {
+        "productId": 14868,
+        "sku": "AA-AA-0068",
+        "description": "TOBILLERA COMPRESION CON TIRAS EN 8 M DMORE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 6113.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6113.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506345,
+          "fromStep": "O",
+          "fromId": 82965
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445848,
+      "itemOrder": 445848,
+      "product": {
+        "productId": 14869,
+        "sku": "AA-AA-0069",
+        "description": "TOBILLERA COMPRESION CON TIRAS EN 8 L DMORE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 6113.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6113.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506346,
+          "fromStep": "O",
+          "fromId": 82966
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445849,
+      "itemOrder": 445849,
+      "product": {
+        "productId": 5615,
+        "sku": "PI-TU-0043",
+        "description": "TUBO RECORTABLE TEJIDO 1-15 MM LENOX (REF. 8026)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 3674.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3674.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506347,
+          "fromStep": "O",
+          "fromId": 82967
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445850,
+      "itemOrder": 445850,
+      "product": {
+        "productId": 13550,
+        "sku": "CR-PH-0001",
+        "description": "CREMA HUMECTANTE PH 5.5 340 ML DIFEMCARE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 5654.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5654.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506348,
+          "fromStep": "O",
+          "fromId": 82968
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

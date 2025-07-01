@@ -1,0 +1,531 @@
+{
+  "salesWaybillId": -54005,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54005,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": null,
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-06-30T11:08:33",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 2000000001,
+    "description": "General",
+    "address": "VIC. MACKENNA PONIENTE 7287 L 3",
+    "city": "Santiago",
+    "county": "La Florida",
+    "zipCode": "",
+    "state": "",
+    "country": ""
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10934887276",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": null
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-06-30T11:09:46",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "VICUÑA"
+  },
+  "items": [
+    {
+      "itemId": 447614,
+      "itemOrder": 447614,
+      "product": {
+        "productId": 9097,
+        "sku": "AC-AN-0007",
+        "description": "GONIOMETRO PLASTICO",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 2521.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2521.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512538,
+          "fromStep": "O",
+          "fromId": 84628
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447615,
+      "itemOrder": 447615,
+      "product": {
+        "productId": 9091,
+        "sku": "CA-LI-0002",
+        "description": "CALIPER PLASTICO BLANCO",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 2704.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2704.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512539,
+          "fromStep": "O",
+          "fromId": 84629
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447616,
+      "itemOrder": 447616,
+      "product": {
+        "productId": 12341,
+        "sku": "CA-JO-0096",
+        "description": "CALCETA ULTRASHEER 20-30 PUNTA CERRADA HONEY L JOBST (REF. 75203-15)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 14330.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 14330.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512540,
+          "fromStep": "O",
+          "fromId": 84630
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447617,
+      "itemOrder": 447617,
+      "product": {
+        "productId": 5645,
+        "sku": "AU-DI-0401",
+        "description": "AUDIFONO SOUND AMPLIFIER HAP-20 VOHOM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 22375.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 22375.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512541,
+          "fromStep": "O",
+          "fromId": 84631
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447619,
+      "itemOrder": 447619,
+      "product": {
+        "productId": 11399,
+        "sku": "IN-MU-0003",
+        "description": "ORTESIS MUÑECA AMBIDIESTRA CON FERULA L",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 8750.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 8750.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512543,
+          "fromStep": "O",
+          "fromId": 84633
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447620,
+      "itemOrder": 447620,
+      "product": {
+        "productId": 11403,
+        "sku": "MU-BD-0033",
+        "description": "ORTESIS MUÑECA AMBIDIESTRA CON FERULA S",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 8750.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 8750.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512544,
+          "fromStep": "O",
+          "fromId": 84634
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447621,
+      "itemOrder": 447621,
+      "product": {
+        "productId": 11405,
+        "sku": "MU-BD-0034",
+        "description": "ORTESIS MUÑECA AMBIDIESTRA CON FERULA XL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 8750.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 8750.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512545,
+          "fromStep": "O",
+          "fromId": 84635
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447622,
+      "itemOrder": 447622,
+      "product": {
+        "productId": 11401,
+        "sku": "MU-BD-0233",
+        "description": "ORTESIS MUÑECA AMBIDIESTRA CON FERULA M",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 8750.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 8750.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512546,
+          "fromStep": "O",
+          "fromId": 84636
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447624,
+      "itemOrder": 447624,
+      "product": {
+        "productId": 1775,
+        "sku": "CU-TI-0001",
+        "description": "GASA ANTIMICROBIANA CUTIMED SORBACT 7x9 CM BSN (REF. 72165-14) (ENVIAR x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 6775.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6775.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512548,
+          "fromStep": "O",
+          "fromId": 84638
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447625,
+      "itemOrder": 447625,
+      "product": {
+        "productId": 15543,
+        "sku": "BL-KH-0005",
+        "description": "INMOVILIZADOR HOMBRO PEDIATRICO VERDE 8-10 BLUNDING (REF. BK-07)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 6639.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6639.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512549,
+          "fromStep": "O",
+          "fromId": 84639
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447626,
+      "itemOrder": 447626,
+      "product": {
+        "productId": 11865,
+        "sku": "SO-AS-0010",
+        "description": "SONDA ASPIRACION 12",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 100.0,
+      "originalUnitPrice": 162.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 162.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512550,
+          "fromStep": "O",
+          "fromId": 84640
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447627,
+      "itemOrder": 447627,
+      "product": {
+        "productId": 14739,
+        "sku": "PL-AP-1080",
+        "description": "PLACA BASE CON BORDE PROXIMA 2+ 80 MM (12-75 MM) BBRAUN (REF. 76080A) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 30.0,
+      "originalUnitPrice": 4987.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4987.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512551,
+          "fromStep": "O",
+          "fromId": 84641
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447628,
+      "itemOrder": 447628,
+      "product": {
+        "productId": 5397,
+        "sku": "ES-PU-0804",
+        "description": "APOSITO ESPUMA HIDROFILICA 10x10 CM FIRSTCARE (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 40.0,
+      "originalUnitPrice": 1225.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1225.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512552,
+          "fromStep": "O",
+          "fromId": 84642
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447629,
+      "itemOrder": 447629,
+      "product": {
+        "productId": 11083,
+        "sku": "PA-ST-0053",
+        "description": "CORTADOR PASTILLAS BH (REF. 3553) (ENVIAR PAQUETE x 6 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 1608.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1608.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512553,
+          "fromStep": "O",
+          "fromId": 84643
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447632,
+      "itemOrder": 447632,
+      "product": {
+        "productId": 16425,
+        "sku": "CC-CC-0436",
+        "description": "TEST EMBARAZO TIPO LAPIZ BABY TEST",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 456.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 456.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": null,
+      "customFields": {}
+    }
+  ]
+}

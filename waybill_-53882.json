@@ -1,0 +1,354 @@
+{
+  "salesWaybillId": -53882,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53882,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 5,
+    "name": "OS QUILIN"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-06-19T10:29:09",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 4,
+    "description": "Mall Quilin",
+    "address": "Mar Tirreno 3349 Local 1069",
+    "city": "SANTIAGO",
+    "county": "PEÑALOLEN",
+    "zipCode": "",
+    "state": "",
+    "country": ""
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10903054328",
+    "documentStatus": "0",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-06-24T11:41:45"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-06-19T10:29:58",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "QUILIN"
+  },
+  "items": [
+    {
+      "itemId": 445810,
+      "itemOrder": 445810,
+      "product": {
+        "productId": 15491,
+        "sku": "AA-AA-0321",
+        "description": "APOSITO ADHESIVO TRANSPARENTE 10x12 CM CRANBERRY (REF. AAAPTRA1) (ENVIAR CAJA x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 100.0,
+      "originalUnitPrice": 201.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 201.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506306,
+          "fromStep": "O",
+          "fromId": 82943
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445812,
+      "itemOrder": 445812,
+      "product": {
+        "productId": 16449,
+        "sku": "CC-CC-0454",
+        "description": "JERINGA INSULINA 29G x 1/2' CRANBERRY (REF. AAJECIN3) (ENVIAR CAJA x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 100.0,
+      "originalUnitPrice": 59.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 59.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506308,
+          "fromStep": "O",
+          "fromId": 82945
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445813,
+      "itemOrder": 445813,
+      "product": {
+        "productId": 7725,
+        "sku": "LE-UK-0002",
+        "description": "CINTA ADHESIVA INELASTICA LEUKOTAPE CLASSIC 3.75 CM x 10 M BSN (REF. 47109-00) (SIN CAJA)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitPrice": 5667.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5667.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506309,
+          "fromStep": "O",
+          "fromId": 82946
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445814,
+      "itemOrder": 445814,
+      "product": {
+        "productId": 15815,
+        "sku": "CC-CC-0068",
+        "description": "BAÑO PORTATIL PLEGABLE STRATTO M.D",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": true,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 34605.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 34605.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506310,
+          "fromStep": "O",
+          "fromId": 82947
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445815,
+      "itemOrder": 445815,
+      "product": {
+        "productId": 15307,
+        "sku": "MU-LE-0003",
+        "description": "MULETA PAR BLUNDING (REF. AD-15)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 14239.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 14239.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506311,
+          "fromStep": "O",
+          "fromId": 82948
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445816,
+      "itemOrder": 445816,
+      "product": {
+        "productId": 8545,
+        "sku": "PA-AB-0005",
+        "description": "PAÑAL ABENA SLIP M4 PREMIUM (x 21 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 26731.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 26731.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506312,
+          "fromStep": "O",
+          "fromId": 82949
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445817,
+      "itemOrder": 445817,
+      "product": {
+        "productId": 15098,
+        "sku": "AA-AA-0272",
+        "description": "MASCARILLA 3 PLIEGUES BLANCA CRANBERRY (REF. AAMASDES) (x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 1087.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1087.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506313,
+          "fromStep": "O",
+          "fromId": 82950
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445818,
+      "itemOrder": 445818,
+      "product": {
+        "productId": 11171,
+        "sku": "NE-BU-0265",
+        "description": "NEBULIZADOR ADULTO OMRON (REF. NE-C801)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 47613.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 47613.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506314,
+          "fromStep": "O",
+          "fromId": 82951
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445819,
+      "itemOrder": 445819,
+      "product": {
+        "productId": 13332,
+        "sku": "NE-BU-0056",
+        "description": "NEBULIZADOR AIRE COMPRIMIDO BLUNDING (REF. BEQ-09)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": true,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 28500.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 28500.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506315,
+          "fromStep": "O",
+          "fromId": 82952
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

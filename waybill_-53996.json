@@ -1,0 +1,602 @@
+{
+  "salesWaybillId": -53996,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53996,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 4,
+    "name": "OS PUENTE"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-06-30T10:47:57",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 3,
+    "description": "Puente Alto",
+    "address": "Paseo Manuel Rodriguez 46 local 42",
+    "city": "SANTIAGO",
+    "county": "Puente Alto",
+    "zipCode": "",
+    "state": "",
+    "country": "CHILE"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10934741562",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": null
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-06-30T10:48:49",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "PUENTE ALTO"
+  },
+  "items": [
+    {
+      "itemId": 447473,
+      "itemOrder": 447473,
+      "product": {
+        "productId": 14849,
+        "sku": "AA-AA-0049",
+        "description": "PARCHE CURITA ESTANDAR ALL (REF. HY1086B) (x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 1049.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1049.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512400,
+          "fromStep": "O",
+          "fromId": 84523
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447474,
+      "itemOrder": 447474,
+      "product": {
+        "productId": 7067,
+        "sku": "BE-TO-0111",
+        "description": "TOALLITAS HUMEDAS COMODITY CARE (x 45 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitPrice": 1725.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1725.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512401,
+          "fromStep": "O",
+          "fromId": 84524
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447475,
+      "itemOrder": 447475,
+      "product": {
+        "productId": 13330,
+        "sku": "PA-NA-8001",
+        "description": "PAÑAL COMODITY PANTS G (x 8 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": true,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 4359.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4359.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512402,
+          "fromStep": "O",
+          "fromId": 84525
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447476,
+      "itemOrder": 447476,
+      "product": {
+        "productId": 16245,
+        "sku": "CC-CC-0302",
+        "description": "CINTA PROTECTORA PIEL SUSIE´S GADGETS (REF. 98050)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitPrice": 2010.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2010.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512403,
+          "fromStep": "O",
+          "fromId": 84526
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447477,
+      "itemOrder": 447477,
+      "product": {
+        "productId": 12609,
+        "sku": "CO-UÑ-0003",
+        "description": "CORTAUÑAS GRANDE TRIM (REF. 00212)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 1867.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1867.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512404,
+          "fromStep": "O",
+          "fromId": 84527
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447478,
+      "itemOrder": 447478,
+      "product": {
+        "productId": 6985,
+        "sku": "CH-AP-0003",
+        "description": "CHATA OVALADA PLASTICA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 5613.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5613.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512405,
+          "fromStep": "O",
+          "fromId": 84528
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447479,
+      "itemOrder": 447479,
+      "product": {
+        "productId": 12744,
+        "sku": "CH-PL-1000",
+        "description": "CHATA PLANA PLASTICA CON MANGO Y TAPA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 5250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512406,
+          "fromStep": "O",
+          "fromId": 84529
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447480,
+      "itemOrder": 447480,
+      "product": {
+        "productId": 15647,
+        "sku": "AA-AA-0473",
+        "description": "BOTA ORTOPEDICA PREMIUM S BLUNDING (REF. MI-150)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 20000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 20000.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512407,
+          "fromStep": "O",
+          "fromId": 84530
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447481,
+      "itemOrder": 447481,
+      "product": {
+        "productId": 10199,
+        "sku": "BL-RE-0006",
+        "description": "RODILLERA POLICENTRICA M BLUNDING (REF. MI-47)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 16495.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 16495.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512408,
+          "fromStep": "O",
+          "fromId": 84531
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447482,
+      "itemOrder": 447482,
+      "product": {
+        "productId": 10203,
+        "sku": "BL-RE-0008",
+        "description": "RODILLERA POLICENTRICA XL BLUNDING (REF. MI-47)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 16495.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 16495.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512409,
+          "fromStep": "O",
+          "fromId": 84532
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447484,
+      "itemOrder": 447484,
+      "product": {
+        "productId": 10099,
+        "sku": "BA-DI-0090",
+        "description": "PESA ANALOGA PERSONENWAAGE BEN KORONA (REF. 76640)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 15339.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 15339.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512411,
+          "fromStep": "O",
+          "fromId": 84534
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447485,
+      "itemOrder": 447485,
+      "product": {
+        "productId": 15803,
+        "sku": "CC-CC-0060",
+        "description": "ROLLATOR STRATTO M.D (REF. ST-0011)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 71113.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 71113.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512412,
+          "fromStep": "O",
+          "fromId": 84535
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447486,
+      "itemOrder": 447486,
+      "product": {
+        "productId": 15846,
+        "sku": "CC-CC-0081",
+        "description": "SILLA DUCHA CON APOYA BRAZOS STRATTO M.D (REF. ST-0051)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 30089.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 30089.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512413,
+          "fromStep": "O",
+          "fromId": 84536
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447487,
+      "itemOrder": 447487,
+      "product": {
+        "productId": 2201,
+        "sku": "TE-NS-0245",
+        "description": "ELECTRODO CUBIERTO CON GEL 50x50 MM BLUNDING (REF. BEQ-R02) (x 4 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 1625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1625.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512414,
+          "fromStep": "O",
+          "fromId": 84537
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447488,
+      "itemOrder": 447488,
+      "product": {
+        "productId": 13223,
+        "sku": "TE-NS-0246",
+        "description": "ELECTRODO CUBIERTO CON GEL 40x40 MM BLUNDING (REF. BEQ-R01) (x 4 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": true,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 1625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1625.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512415,
+          "fromStep": "O",
+          "fromId": 84538
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447489,
+      "itemOrder": 447489,
+      "product": {
+        "productId": 7489,
+        "sku": "FA-RM-0001",
+        "description": "VENDA GASA NO TEJIDA ADHESIVA FARMATNT 10 CM x10 M MED´S (REF. 1701321010M)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 6125.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6125.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512416,
+          "fromStep": "O",
+          "fromId": 84539
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447490,
+      "itemOrder": 447490,
+      "product": {
+        "productId": 9279,
+        "sku": "FI-XO-0001",
+        "description": "VENDA GASA NO TEJIDA ADHESIVA FIXOMULL STRETCH 10 CM x 10 M BSN (REF.02037-00)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 10548.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10548.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512417,
+          "fromStep": "O",
+          "fromId": 84540
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

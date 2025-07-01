@@ -1,0 +1,93 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54008,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "002",
+    "name": "VICUÑA"
+  },
+  "issuedDate": "2025-06-30T11:12:14",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "AA-AA-0277",
+        "description": "COJIN LUMBAR VISCOELASTICO BLUNDING (REF. BCU-14)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 11864.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 11864.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": [
+          "00B"
+        ],
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0337",
+        "description": "TOMA PRESION DIGITAL DE BRAZO OMRON (REF. HEM-7142)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 34987.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 34987.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": [
+          "00B"
+        ],
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0041",
+        "description": "HIDROGEL 15 GR CRANBERRY (REF. AAPHID01) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 825.0
+      },
+      "itemDescription": "",
+      "quantity": 20,
+      "originalUnitCost": 825.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": [
+          "00B"
+        ],
+        "name": "VICUÑA"
+      },
+      "lot": null
+    }
+  ]
+}

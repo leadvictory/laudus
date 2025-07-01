@@ -1,0 +1,297 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54000,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "MALL QUILIN"
+  },
+  "issuedDate": "2025-06-30T11:02:53",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "CO-MP-0002",
+        "description": "COMPRESA FRIO CALOR REUTILIZABLE GRANDE 33x25 CM ISB",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4987.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 4987.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TN-NS-0001",
+        "description": "VENDA ELASTICA ADHESIVA TENSOPLAST 10 CM x 4.5 M BSN (REF. 71547-00)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 7867.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 7867.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TM-PR-1000",
+        "description": "TOMA PRESION DIGITAL DE BRAZO DMORE (REF. AS-35A)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 18738.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 18738.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0356",
+        "description": "OXIMETRO PULSO INFANTIL K1 YONKER",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 25262.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 25262.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0195",
+        "description": "GASA NO ESTERIL EN GALLETA 5x5 CM CRANBERRY (REF. AACOGA22) (x 200 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1099.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 1099.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "MA-CA-0002",
+        "description": "MASCARILLA KN95 YWSH (REF. SH-ZK12) (x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3125.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 3125.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0101",
+        "description": "TOBILLERA ESTABILIZADORA CON CORDONES T.2 ACTIUS (REF. ACE903)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2500.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 2500.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0095",
+        "description": "BASTON CODERA MOVIL STRATTO M.D (REF. ST-0001)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 8235.0
+      },
+      "itemDescription": "",
+      "quantity": 8,
+      "originalUnitCost": 8235.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "FI-XO-0001",
+        "description": "VENDA GASA NO TEJIDA ADHESIVA FIXOMULL STRETCH 10 CM x 10 M BSN (REF.02037-00)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10548.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 10548.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AL-ZI-0001",
+        "description": "ALGODON ZIG ZAG 100 GR FAMILY SET",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 910.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 910.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PA-NA-0989",
+        "description": "SABANILLA MATI SUPER ULTRA 60x90 CM NATEEN (x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3962.0
+      },
+      "itemDescription": "",
+      "quantity": 16,
+      "originalUnitCost": 3962.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PA-AB-0049",
+        "description": "PAÑAL ABENA PANTS M3 PREMIUM (x 15 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 23050.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 23050.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0842",
+        "description": "BASTON CODERA FIJA PLATEADO",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4148.0
+      },
+      "itemDescription": "",
+      "quantity": 8,
+      "originalUnitCost": 4148.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53988,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "MALL QUILIN"
+  },
+  "issuedDate": "2025-06-24T15:52:15",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": false,
+  "items": [
+    {
+      "product": {
+        "sku": "BI-VI-0003",
+        "description": "BIBERON DE VIDRIO 160 ML SOFTOUCH PIGEON (REF. 00885)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6859.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 6859.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "BO-CO-0006",
+        "description": "APOSITO ESPUMA ADHESIVO SILICONA FOAMLITE 10x10 CM CONVATEC (REF. 421559) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2129.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 2129.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "TL-AT-0001",
+        "description": "TALONERA ANTIESCARAS D21",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5171.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 5171.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "PL-CA-0022",
+        "description": "PLACA FLEXIBLE STOMAHESIVE SURFIT NATURA 57 MM OPACA CONVATEC (REF. 125265) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3348.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 3348.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "BO-UR-0098",
+        "description": "BOLSA UROSTOMIA SURFIT NATURA 57 MM TRANSPARENTE CONVATEC (REF. 401545) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2865.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 2865.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0006",
+        "description": "SPRAY SKIN BARRIER ESENTA 50 ML CONVATEC (REF. 423288)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 15956.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 15956.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0331",
+        "description": "SPRAY LAVADO HERIDAS PRONTOSAN 75 ML BBRAUN (REF. 400565)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5000.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 5000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    }
+  ]
+}

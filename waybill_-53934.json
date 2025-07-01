@@ -1,0 +1,571 @@
+{
+  "salesWaybillId": -53934,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53934,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 2,
+    "name": "OS FLORIDA"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-06-25T12:25:15",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 2000000002,
+    "description": "Facturación",
+    "address": "VIC. MACKENNA PONIENTE 7287 L 3",
+    "city": "Santiago",
+    "county": "La Florida",
+    "zipCode": "",
+    "state": "",
+    "country": ""
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10919668472",
+    "documentStatus": "0",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-06-25T12:25:59"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-06-25T12:25:42",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "LA FLORIDA"
+  },
+  "items": [
+    {
+      "itemId": 446553,
+      "itemOrder": 446553,
+      "product": {
+        "productId": 4307,
+        "sku": "ZA-DI-0906",
+        "description": "ZAPATO DESCARGA ANTEPIE ABIERTO M BLUNDING (REF. MI-18)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 13755.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 13755.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510587,
+          "fromStep": "O",
+          "fromId": 83634
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446554,
+      "itemOrder": 446554,
+      "product": {
+        "productId": 14679,
+        "sku": "PL-CA-0022",
+        "description": "PLACA FLEXIBLE STOMAHESIVE SURFIT NATURA 57 MM OPACA CONVATEC (REF. 125265) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 80.0,
+      "originalUnitPrice": 3348.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3348.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510588,
+          "fromStep": "O",
+          "fromId": 83635
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446555,
+      "itemOrder": 446555,
+      "product": {
+        "productId": 7711,
+        "sku": "TL-MI-0002",
+        "description": "CINTA PAPEL BLANCA 2.5 CM GHC (CARRETE CALIPSO) (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 120.0,
+      "originalUnitPrice": 526.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 526.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510589,
+          "fromStep": "O",
+          "fromId": 83636
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446556,
+      "itemOrder": 446556,
+      "product": {
+        "productId": 16772,
+        "sku": "CC-CC-0742",
+        "description": "VENDA AUTOADHESIVA BEIGE 5 CM x 4.5  M",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 1216.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1216.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510590,
+          "fromStep": "O",
+          "fromId": 83637
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446557,
+      "itemOrder": 446557,
+      "product": {
+        "productId": 14880,
+        "sku": "AA-AA-0072",
+        "description": "VENDA AUTOADHESIVA BEIGE 7.5 CM x 4.5 M ALL (REF. VEN1002)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 977.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 977.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510591,
+          "fromStep": "O",
+          "fromId": 83638
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446558,
+      "itemOrder": 446558,
+      "product": {
+        "productId": 15734,
+        "sku": "AA-AA-1006",
+        "description": "VENDA AUTOADHESIVA NEGRA 10 CM x 4.5 M ALL (REF. VEN1003)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 1101.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1101.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510592,
+          "fromStep": "O",
+          "fromId": 83639
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446559,
+      "itemOrder": 446559,
+      "product": {
+        "productId": 13717,
+        "sku": "AL-CO-0041",
+        "description": "ALCOHOL ANTIBACTERIAL SPRAY 70° 1 LT ECOSAFE (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 24.0,
+      "originalUnitPrice": 2292.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2292.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510593,
+          "fromStep": "O",
+          "fromId": 83640
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446560,
+      "itemOrder": 446560,
+      "product": {
+        "productId": 11229,
+        "sku": "TL-MI-0003",
+        "description": "CINTA PAPEL BLANCA 5 CM GHC (CARRETE CALIPSO) (ENVIAR CAJA x 6 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 30.0,
+      "originalUnitPrice": 1052.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1052.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510594,
+          "fromStep": "O",
+          "fromId": 83642
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446561,
+      "itemOrder": 446561,
+      "product": {
+        "productId": 14909,
+        "sku": "AL-GO-0004",
+        "description": "ALGODON PRENSADO 250 GR FAMILY SET",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 15.0,
+      "originalUnitPrice": 2389.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2389.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510595,
+          "fromStep": "O",
+          "fromId": 83644
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446562,
+      "itemOrder": 446562,
+      "product": {
+        "productId": 11241,
+        "sku": "TO-BE-0003",
+        "description": "TOBILLERA ELASTICADA NEGRA M BIONIC (ENVIAR PAQUETE x 2 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 8.0,
+      "originalUnitPrice": 2526.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2526.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510596,
+          "fromStep": "O",
+          "fromId": 83645
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446563,
+      "itemOrder": 446563,
+      "product": {
+        "productId": 13688,
+        "sku": "PA-TE-0003",
+        "description": "TENA PANTS ULTRAPROTECT M (x 16 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitPrice": 10313.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10313.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510597,
+          "fromStep": "O",
+          "fromId": 83646
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446564,
+      "itemOrder": 446564,
+      "product": {
+        "productId": 13689,
+        "sku": "PA-TE-0004",
+        "description": "TENA PANTS ULTRAPROTECT L (x 16 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitPrice": 10313.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10313.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510598,
+          "fromStep": "O",
+          "fromId": 83647
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446565,
+      "itemOrder": 446565,
+      "product": {
+        "productId": 15904,
+        "sku": "CC-CC-0130",
+        "description": "TERMOMETRO DIGITAL MEDTECH (REF. TMP-03)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 1087.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1087.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510599,
+          "fromStep": "O",
+          "fromId": 83648
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446566,
+      "itemOrder": 446566,
+      "product": {
+        "productId": 15896,
+        "sku": "CC-CC-0125",
+        "description": "TERMOMETRO DIGITAL FLEXIBLE CRANBERRY (REF.AATERDFL)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 1887.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1887.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510600,
+          "fromStep": "O",
+          "fromId": 83649
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446567,
+      "itemOrder": 446567,
+      "product": {
+        "productId": 13036,
+        "sku": "TE-PF-1000",
+        "description": "TERMOMETRO PUNTA FLEXIBLE BLUNDING (REF.BEQ-02)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 2731.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2731.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510601,
+          "fromStep": "O",
+          "fromId": 83650
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446568,
+      "itemOrder": 446568,
+      "product": {
+        "productId": 13040,
+        "sku": "GU-TE-1001",
+        "description": "GUATERO SIN FUNDA 2 L THERMICA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 3567.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3567.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510602,
+          "fromStep": "O",
+          "fromId": 83651
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

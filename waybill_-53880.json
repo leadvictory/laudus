@@ -1,0 +1,94 @@
+{
+  "salesWaybillId": -53880,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53880,
+  "customer": {
+    "customerId": 765,
+    "name": "BLUNDING S A",
+    "legalName": "BLUNDING S A",
+    "VATId": "79.744.580-0",
+    "email": ""
+  },
+  "contact": null,
+  "salesman": null,
+  "dealer": null,
+  "carrier": null,
+  "priceList": null,
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": null,
+  "branch": null,
+  "issuedDate": "2025-06-19T09:49:32",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 2000000002,
+    "description": "Facturación",
+    "address": "LAS DALIAS 2465",
+    "city": "SANTIAGO",
+    "county": "MACUL",
+    "zipCode": "",
+    "state": "",
+    "country": "CHILE"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "FALTA TAPA",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": {
+    "code": "02",
+    "description": "DEVOLUCION"
+  },
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10902849106",
+    "documentStatus": "0",
+    "uploadStatus": "",
+    "sentToCustomerAt": null
+  },
+  "isSale": false,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-06-19T09:51:30",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "NO"
+  },
+  "items": [
+    {
+      "itemId": 445806,
+      "itemOrder": 445806,
+      "product": {
+        "productId": 16566,
+        "sku": "CC-CC-0562",
+        "description": "SILLA BAÑO 3 EN 1 PLEGABLE BLUNDING (AB-19)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 27500.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 27500.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": null,
+      "customFields": {}
+    }
+  ]
+}

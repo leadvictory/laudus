@@ -1,0 +1,596 @@
+{
+  "salesWaybillId": -54012,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54012,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 3,
+    "name": "OS ÑUÑOA"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-06-30T16:22:33",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 1,
+    "description": "Ñuñoa",
+    "address": "Irarrazaval 3101",
+    "city": "SANTIAGO",
+    "county": "ÑUÑOA",
+    "zipCode": "",
+    "state": "",
+    "country": ""
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10936907760",
+    "documentStatus": "0",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-06-30T16:23:32"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-06-30T16:23:14",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "ÑUÑOA"
+  },
+  "items": [
+    {
+      "itemId": 447708,
+      "itemOrder": 447708,
+      "product": {
+        "productId": 10123,
+        "sku": "PI-CE-0102",
+        "description": "PICARON D21 6 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 903.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 903.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512629,
+          "fromStep": "O",
+          "fromId": 84506
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447709,
+      "itemOrder": 447709,
+      "product": {
+        "productId": 15740,
+        "sku": "CC-CC-0009",
+        "description": "PICARON D21 CON FUNDA 8 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 7500.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 7500.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512630,
+          "fromStep": "O",
+          "fromId": 84507
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447710,
+      "itemOrder": 447710,
+      "product": {
+        "productId": 6067,
+        "sku": "CO-JF-0001",
+        "description": "PICARON ESPUMA INYECTADA CON FUNDA 8 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 11250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 11250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512631,
+          "fromStep": "O",
+          "fromId": 84508
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447711,
+      "itemOrder": 447711,
+      "product": {
+        "productId": 14944,
+        "sku": "PI-CA-5006",
+        "description": "PICARON ESPUMA INYECTADA 5 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 5125.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5125.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512632,
+          "fromStep": "O",
+          "fromId": 84509
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447712,
+      "itemOrder": 447712,
+      "product": {
+        "productId": 9905,
+        "sku": "PR-ON-0002",
+        "description": "GEL LAVADO HERIDAS PRONTOSAN 30 ML BBRAUN (REF. 400590)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 18625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 18625.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512633,
+          "fromStep": "O",
+          "fromId": 84510
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447713,
+      "itemOrder": 447713,
+      "product": {
+        "productId": 9927,
+        "sku": "PA-RC-0217",
+        "description": "APOSITO ALGINATO CALCIO 10x10 CM CRANBERRY (REF. AAAACA10) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 897.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 897.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512634,
+          "fromStep": "O",
+          "fromId": 84511
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447714,
+      "itemOrder": 447714,
+      "product": {
+        "productId": 16261,
+        "sku": "CC-CC-0319",
+        "description": "SOLUCION LAVADO HERIDAS 300 ML  ACTIMARIS (REF. 30350)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 14875.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 14875.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512635,
+          "fromStep": "O",
+          "fromId": 84512
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447715,
+      "itemOrder": 447715,
+      "product": {
+        "productId": 8533,
+        "sku": "BL-LS-0004",
+        "description": "FAJA LUMBOSACRAL XL BLUNDING (REF. CC-610)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 17218.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 17218.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512636,
+          "fromStep": "O",
+          "fromId": 84513
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447716,
+      "itemOrder": 447716,
+      "product": {
+        "productId": 13444,
+        "sku": "ES-HI-0001",
+        "description": "APOSITO ESPUMA HIDROFILICA 10x10 CM CRANBERRY (REF. AAAPES10) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 662.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 662.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512637,
+          "fromStep": "O",
+          "fromId": 84514
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447717,
+      "itemOrder": 447717,
+      "product": {
+        "productId": 15734,
+        "sku": "AA-AA-1006",
+        "description": "VENDA AUTOADHESIVA NEGRA 10 CM x 4.5 M ALL (REF. VEN1003)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 1101.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1101.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512638,
+          "fromStep": "O",
+          "fromId": 84515
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447718,
+      "itemOrder": 447718,
+      "product": {
+        "productId": 13779,
+        "sku": "CO-PR-0003",
+        "description": "COMPRESA FRIO CALOR SPORT 28x13 CM BLUNDING (REF. PK-51)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 6687.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6687.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512639,
+          "fromStep": "O",
+          "fromId": 84516
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447720,
+      "itemOrder": 447720,
+      "product": {
+        "productId": 4763,
+        "sku": "CL-OR-0003",
+        "description": "JABON LIQUIDO DICHLOREXAN 2% 340 ML DIFEMPHARMA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 5018.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5018.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512641,
+          "fromStep": "O",
+          "fromId": 84518
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447722,
+      "itemOrder": 447722,
+      "product": {
+        "productId": 14688,
+        "sku": "PL-NA-0003",
+        "description": "PLACA FLEXIBLE STOMAHESIVE SURFIT NATURA 45 MM OPACA CONVATEC (REF. 125264) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 3348.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3348.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512643,
+          "fromStep": "O",
+          "fromId": 84522
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447723,
+      "itemOrder": 447723,
+      "product": {
+        "productId": 13211,
+        "sku": "PA-BA-0018",
+        "description": "PAÑAL DELTAFORM XL2 (x 15 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": true,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 15862.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 15862.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512644,
+          "fromStep": "O",
+          "fromId": 84559
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447724,
+      "itemOrder": 447724,
+      "product": {
+        "productId": 16275,
+        "sku": "CC-CC-0327",
+        "description": "MEDIA ANTIEMBOLICA TROMBIMED S BLUNDING (REF. E-701)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 4625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4625.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512645,
+          "fromStep": "O",
+          "fromId": 84560
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447725,
+      "itemOrder": 447725,
+      "product": {
+        "productId": 15320,
+        "sku": "PA-NA-0420",
+        "description": "PAÑAL COMODITY PANTS M (x 8 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 4359.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4359.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512646,
+          "fromStep": "O",
+          "fromId": 84561
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447726,
+      "itemOrder": 447726,
+      "product": {
+        "productId": 10155,
+        "sku": "BA-SU-0003",
+        "description": "BAJADA SUERO MACROGOTA 20 GOTAS / 1 ML CRANBERRY (REF. AAEQSUER) (ENVIAR CAJA x 25 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 50.0,
+      "originalUnitPrice": 282.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 282.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": null,
+      "customFields": {}
+    }
+  ]
+}

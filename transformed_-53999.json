@@ -1,0 +1,339 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53999,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "003",
+    "name": "PUENTE ALTO"
+  },
+  "issuedDate": "2025-06-30T10:50:31",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "TM-PR-1000",
+        "description": "TOMA PRESION DIGITAL DE BRAZO DMORE (REF. AS-35A)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 18738.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 18738.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0612",
+        "description": "TOMA PRESION DIGITAL DE BRAZO BLUNDING (REF. BEQ-22)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 22562.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 22562.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0298",
+        "description": "JUANETERA CON SEPARADOR SUSIE´S GADGETS (REF. 01676)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 674.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 674.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PA-NA-0991",
+        "description": "PAÑAL NATEEN COMBI ULTRA L (x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10000.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 10000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "SA-BA-0017",
+        "description": "SABANILLA PAPEL 50 MT (ENVIAR PAQUETE x 2 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2313.0
+      },
+      "itemDescription": "",
+      "quantity": 12,
+      "originalUnitCost": 2313.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BO-IN-0290",
+        "description": "BOLSA TERMICA PARA INSULINA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 744.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 744.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AD-AP-0002",
+        "description": "APOSITO NO ADHERENTE ADAPTIC 7.6x7.6 CM  (REF. 2012) (ENVIAR x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 392.0
+      },
+      "itemDescription": "",
+      "quantity": 50,
+      "originalUnitCost": 392.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AD-AP-0004",
+        "description": "APOSITO NO ADHERENTE ADAPTIC 7.6x20.3 CM  (REF. 2015) (ENVIAR CAJA x 24 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 825.0
+      },
+      "itemDescription": "",
+      "quantity": 24,
+      "originalUnitCost": 825.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "SU-EA-0001",
+        "description": "CLORURO DE SODIO 0,9% 10 ML VITAFARMA (ENVIAR CAJA x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 275.0
+      },
+      "itemDescription": "",
+      "quantity": 500,
+      "originalUnitCost": 275.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0094",
+        "description": "AEROCAMARA ADULTO CON MASCARILLA 175 ML GLOBAL WELLNESS",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4375.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 4375.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "JE-RI-0019",
+        "description": "JERINGA LUER LOCK 5 ML CRANBERRY (21G x 1 1/2\") (REF. AAJECR05) (ENVIAR CAJA x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 44.0
+      },
+      "itemDescription": "",
+      "quantity": 300,
+      "originalUnitCost": 44.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0787",
+        "description": "PLANTILLA ORTOPEDICA PIE PLANO 36-40 DEROYAL (REF. 04343)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2010.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 2010.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0788",
+        "description": "PLANTILLA ORTOPEDICA ANTIBACTERIAS 32-45 DEROYAL (REF. 000483)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2010.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 2010.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0520",
+        "description": "JERINGA LUER LOCK 10 ML CRANBERRY (21G x 1 1/2') (REF. AAJECR10) (ENVIAR CAJA x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 69.0
+      },
+      "itemDescription": "",
+      "quantity": 200,
+      "originalUnitCost": 69.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TI-RA-0001",
+        "description": "TIRAS REACTIVAS SINOCARE (x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10000.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 10000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    }
+  ]
+}

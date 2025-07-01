@@ -1,0 +1,172 @@
+{
+  "salesWaybillId": -53889,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53889,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": null,
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-06-19T12:03:33",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 7,
+    "description": "Apumanque",
+    "address": "Av. Manquehue Sur N°31 Local 391",
+    "city": "Santiago",
+    "county": "Las Condes",
+    "zipCode": "",
+    "state": "",
+    "country": "Chile"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10903600684",
+    "documentStatus": "0",
+    "uploadStatus": "",
+    "sentToCustomerAt": null
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-06-19T12:05:19",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "LAS CONDES"
+  },
+  "items": [
+    {
+      "itemId": 445911,
+      "itemOrder": 445911,
+      "product": {
+        "productId": 4337,
+        "sku": "SO-NS-0003",
+        "description": "SONDA NASOGASTRICA SILICONA 12",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 7375.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 7375.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": null,
+      "customFields": {}
+    },
+    {
+      "itemId": 445912,
+      "itemOrder": 445912,
+      "product": {
+        "productId": 4339,
+        "sku": "SO-NS-0004",
+        "description": "SONDA NASOGASTRICA SILICONA 14",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 7375.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 7375.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": null,
+      "customFields": {}
+    },
+    {
+      "itemId": 445913,
+      "itemOrder": 445913,
+      "product": {
+        "productId": 4341,
+        "sku": "SO-NS-0005",
+        "description": "SONDA NASOGASTRICA SILICONA 16",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 7375.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 7375.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": null,
+      "customFields": {}
+    },
+    {
+      "itemId": 445914,
+      "itemOrder": 445914,
+      "product": {
+        "productId": 1881,
+        "sku": "SO-NA-0004",
+        "description": "SONDA NASOGASTRICA LEVIN 12",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 275.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 275.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": null,
+      "customFields": {}
+    }
+  ]
+}

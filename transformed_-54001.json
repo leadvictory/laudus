@@ -1,0 +1,213 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54001,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "MALL QUILIN"
+  },
+  "issuedDate": "2025-06-30T11:04:13",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "BI-GO-0001",
+        "description": "CANULA NASAL OXIGENO ADULTO GHC (REF. 63-445)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 313.0
+      },
+      "itemDescription": "",
+      "quantity": 20,
+      "originalUnitCost": 313.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0125",
+        "description": "TERMOMETRO DIGITAL FLEXIBLE CRANBERRY (REF.AATERDFL)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1887.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 1887.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-SE-0003",
+        "description": "SUSPENSOR ESCROTAL S BLUNDING (REF. TA-417)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6056.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 6056.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "JE-RI-0026",
+        "description": "JERINGA TUBERCULINA 1 ML CRANBERRY (27G x 1/2')",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 46.0
+      },
+      "itemDescription": "",
+      "quantity": 200,
+      "originalUnitCost": 46.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TR-IF-0001",
+        "description": "EJERCITADOR PULMONAR 3 ESFERAS SPIN MEDICAL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2862.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 2862.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AL-TO-0090",
+        "description": "TORULAS ALGODON GRANDE CRANBERRY (REF. AATOAL35) (BOLSA 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3675.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 3675.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "ES-HI-0001",
+        "description": "APOSITO ESPUMA HIDROFILICA 10x10 CM CRANBERRY (REF. AAAPES10) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 662.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 662.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TI-RA-0001",
+        "description": "TIRAS REACTIVAS SINOCARE (x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10000.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 10000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0530",
+        "description": "KIT CURACION N°1 CRANBERRY (REF. AAKITCU1)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1500.0
+      },
+      "itemDescription": "",
+      "quantity": 50,
+      "originalUnitCost": 1500.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    }
+  ]
+}

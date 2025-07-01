@@ -1,0 +1,630 @@
+{
+  "salesWaybillId": -53888,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53888,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": null,
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-06-19T11:54:08",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 8,
+    "description": "INDEPENDENCIA",
+    "address": "CARLOS LORCA TOBAR 1080 LOCAL 3102-B",
+    "city": "SANTIAGO",
+    "county": "INDEPENDENCIA",
+    "zipCode": "",
+    "state": "METROPOLITANA",
+    "country": "CHILE"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10903539916",
+    "documentStatus": "0",
+    "uploadStatus": "",
+    "sentToCustomerAt": null
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-06-19T11:54:55",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "INDEPENDENCIA"
+  },
+  "items": [
+    {
+      "itemId": 445890,
+      "itemOrder": 445890,
+      "product": {
+        "productId": 1090,
+        "sku": "IB-ME-0002",
+        "description": "CALCETA SEGRETA 140 N.36 T02 IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 10875.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10875.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506388,
+          "fromStep": "O",
+          "fromId": 82996
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445891,
+      "itemOrder": 445891,
+      "product": {
+        "productId": 304,
+        "sku": "BL-CP-0005",
+        "description": "COLLAR CERVICAL FILADELFIA S-M I-M (REF. OH-005)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 13613.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 13613.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506389,
+          "fromStep": "O",
+          "fromId": 82997
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445892,
+      "itemOrder": 445892,
+      "product": {
+        "productId": 15073,
+        "sku": "AA-AA-0247",
+        "description": "CALIPER SLIM GUIDE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 6400.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6400.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506390,
+          "fromStep": "O",
+          "fromId": 82998
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445893,
+      "itemOrder": 445893,
+      "product": {
+        "productId": 12593,
+        "sku": "TL-DP-0002",
+        "description": "TELA SEDA DURAPORE 5 CM 3M (REF. 1538-2) (ENVIAR CAJA x 6 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 3400.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3400.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506391,
+          "fromStep": "O",
+          "fromId": 82999
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445894,
+      "itemOrder": 445894,
+      "product": {
+        "productId": 16343,
+        "sku": "CC-CC-0381",
+        "description": "GUANTES COMPRESIVOS CON FIBRA DE COBRE S STRATTO M.D",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 6123.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6123.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506392,
+          "fromStep": "O",
+          "fromId": 83000
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445895,
+      "itemOrder": 445895,
+      "product": {
+        "productId": 13380,
+        "sku": "UR-SC-0035",
+        "description": "APOSITO HIDROCOLOIDE ALGOPLAQUE SACRUM 14x16 CM URGO (REF. 502973) (ENVIAR x 8 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 4956.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4956.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506393,
+          "fromStep": "O",
+          "fromId": 83001
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445896,
+      "itemOrder": 445896,
+      "product": {
+        "productId": 11107,
+        "sku": "PR-OT-0002",
+        "description": "PROTECTOR YESO BRAZO DESECHABLE IL-LA (ENVIAR BOLSA x 5 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 15.0,
+      "originalUnitPrice": 467.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 467.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506394,
+          "fromStep": "O",
+          "fromId": 83002
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445897,
+      "itemOrder": 445897,
+      "product": {
+        "productId": 14842,
+        "sku": "AA-AA-0042",
+        "description": "VENDA COMPRESION 15 CM I-M",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 2487.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2487.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506395,
+          "fromStep": "O",
+          "fromId": 83003
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445898,
+      "itemOrder": 445898,
+      "product": {
+        "productId": 3617,
+        "sku": "AG-BI-0003",
+        "description": "AGUA BIDESTILADA INYECTABLE 1 LT BBRAUN (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitPrice": 1218.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1218.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506396,
+          "fromStep": "O",
+          "fromId": 83004
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445899,
+      "itemOrder": 445899,
+      "product": {
+        "productId": 16670,
+        "sku": "CC-CC-0648",
+        "description": "GUANTES LATEX BLANCO LIBRE POLVO S TRESOR (REF. ACGESPT2) (CAJA x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 3713.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3713.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506397,
+          "fromStep": "O",
+          "fromId": 83005
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445900,
+      "itemOrder": 445900,
+      "product": {
+        "productId": 350,
+        "sku": "BL-MD-0004",
+        "description": "ORTESIS MUÑECA CON DEDO PULGAR DERECHA S BLUNDING (REF. HM-172)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 10462.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10462.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506398,
+          "fromStep": "O",
+          "fromId": 83007
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445901,
+      "itemOrder": 445901,
+      "product": {
+        "productId": 13831,
+        "sku": "GE-CA-0001",
+        "description": "HIDROGEL ANTIMICROBIANO CON PLATA CAVIDAGEL AG 15 GR PHARMAPLAST (REF. CAVITAG15)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 2500.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2500.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506399,
+          "fromStep": "O",
+          "fromId": 83008
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445902,
+      "itemOrder": 445902,
+      "product": {
+        "productId": 7039,
+        "sku": "FI-GE-0001",
+        "description": "FERULA DEDO MALLET FINGER 1 BLUNDING (REF. HM-160)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 2008.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2008.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506400,
+          "fromStep": "O",
+          "fromId": 83010
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445903,
+      "itemOrder": 445903,
+      "product": {
+        "productId": 12003,
+        "sku": "GO-RO-0006",
+        "description": "GORRO CLIP BLANCO TRESOR (REF. AAGORROJ) (BOLSA 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 1775.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1775.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506401,
+          "fromStep": "O",
+          "fromId": 83012
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445904,
+      "itemOrder": 445904,
+      "product": {
+        "productId": 7155,
+        "sku": "PR-ES-0004",
+        "description": "ESTUCHE PENEAL XL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 313.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 313.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506402,
+          "fromStep": "O",
+          "fromId": 83013
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445905,
+      "itemOrder": 445905,
+      "product": {
+        "productId": 4693,
+        "sku": "BL-ID-0003",
+        "description": "ORTESIS DEDO PULGAR DERECHO M BLUNDING (REF. HM-0127)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 6520.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6520.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506403,
+          "fromStep": "O",
+          "fromId": 83016
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445906,
+      "itemOrder": 445906,
+      "product": {
+        "productId": 4323,
+        "sku": "BL-FP-0004",
+        "description": "FAJA POST PARTO CON PROTECCION XL BLUNDING (REF. G-310)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 9489.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 9489.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506404,
+          "fromStep": "O",
+          "fromId": 83017
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445907,
+      "itemOrder": 445907,
+      "product": {
+        "productId": 3061,
+        "sku": "BL-MU-0003",
+        "description": "MUSLERA SPORT L BLUNDING (REF. MI-50)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 5106.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5106.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506405,
+          "fromStep": "O",
+          "fromId": 83018
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

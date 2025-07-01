@@ -1,0 +1,258 @@
+{
+  "salesWaybillId": -53954,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53954,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": null,
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-06-26T13:12:53",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 8,
+    "description": "INDEPENDENCIA",
+    "address": "CARLOS LORCA TOBAR 1080 LOCAL 3102-B",
+    "city": "SANTIAGO",
+    "county": "INDEPENDENCIA",
+    "zipCode": "",
+    "state": "METROPOLITANA",
+    "country": "CHILE"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10923996894",
+    "documentStatus": "0",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-06-26T13:13:52"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-06-26T13:13:20",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "INDEPENDENCIA"
+  },
+  "items": [
+    {
+      "itemId": 446844,
+      "itemOrder": 446844,
+      "product": {
+        "productId": 3245,
+        "sku": "JE-RI-0004",
+        "description": "JERINGA ALIMENTACION 60 ML PUNTA CATETER CRANBERRY (REF. AAJECR61) (ENVIAR CAJA x 25 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 25.0,
+      "originalUnitPrice": 197.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 197.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510876,
+          "fromStep": "O",
+          "fromId": 83986
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446845,
+      "itemOrder": 446845,
+      "product": {
+        "productId": 11947,
+        "sku": "FA-OS-0002",
+        "description": "FAJA COLOSTOMIA 3 BANDAS BEIGE M",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 6250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510877,
+          "fromStep": "O",
+          "fromId": 83987
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446846,
+      "itemOrder": 446846,
+      "product": {
+        "productId": 11865,
+        "sku": "SO-AS-0010",
+        "description": "SONDA ASPIRACION 12",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 200.0,
+      "originalUnitPrice": 162.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 162.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510878,
+          "fromStep": "O",
+          "fromId": 83988
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446847,
+      "itemOrder": 446847,
+      "product": {
+        "productId": 16750,
+        "sku": "CC-CC-0720",
+        "description": "BOLSA DRENABLE RECORTABLE ESTEEM+ FLEX CONVEX 20-43 MM OPACA CONVATEC (REF. 421615) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 30.0,
+      "originalUnitPrice": 5616.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5616.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510879,
+          "fromStep": "O",
+          "fromId": 83989
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446849,
+      "itemOrder": 446849,
+      "product": {
+        "productId": 16363,
+        "sku": "CC-CC-0401",
+        "description": "RODILLERA PARA MENISCOS STRATTO M.D",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 6402.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6402.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510881,
+          "fromStep": "O",
+          "fromId": 83991
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446850,
+      "itemOrder": 446850,
+      "product": {
+        "productId": 16140,
+        "sku": "CC-CC-0232",
+        "description": "OXIMETRO PULSO INFANTIL PANDA CHOICEMMED (REF. MD300C55)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 17500.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 17500.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510882,
+          "fromStep": "O",
+          "fromId": 83992
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

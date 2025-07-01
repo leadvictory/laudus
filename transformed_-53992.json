@@ -1,0 +1,279 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53992,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "006",
+    "name": "WEB"
+  },
+  "issuedDate": "2025-06-26T16:02:25",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": false,
+  "items": [
+    {
+      "product": {
+        "sku": "SE-DE-0063",
+        "description": "SEPARADOR GEL DOBLE ANILLO FOOTCARE (REF. 300)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2076.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 2076.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 2076.0
+    },
+    {
+      "product": {
+        "sku": "PI-SE-0053",
+        "description": "SEPARADOR PRIMER DEDO GEL M LENOX (REF. 8010)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 857.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 857.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 857.0
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0213",
+        "description": "SEPARADOR DEDOS ANILLO S-M FOOTCARE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2487.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 2487.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 2487.0
+    },
+    {
+      "product": {
+        "sku": "SE-PA-0009",
+        "description": "SEPARADOR CON BANDA AYUMED",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1939.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 1939.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 1939.0
+    },
+    {
+      "product": {
+        "sku": "BT-FI-0002",
+        "description": "BASTON CANADIENSE CODERA FIJA AZUL (REF. 121)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 7375.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 7375.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 7375.0
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0186",
+        "description": "COMPRESA FRIO CALOR RODILLA BLUNDING (REF. PK-550)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 13656.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 13656.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 13656.0
+    },
+    {
+      "product": {
+        "sku": "PR-ON-0002",
+        "description": "GEL LAVADO HERIDAS PRONTOSAN 30 ML BBRAUN (REF. 400590)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 18625.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 18625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 18625.0
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0160",
+        "description": "GEL ULTRASONIDO DIECO 250 ML DIFEMPHARMA (REF. 2400158)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1738.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 1738.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 1738.0
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0594",
+        "description": "PANTUFLAS VISCOELASTICAS THERAFLY M THERAMART (TM 1102-M)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10136.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 10136.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 10136.0
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0154",
+        "description": "PARCHE ESPUMA PLANTAR AYUMED (REF. 193) (x 4 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1224.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 1224.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 1224.0
+    },
+    {
+      "product": {
+        "sku": "ZA-PA-0020",
+        "description": "ZAPATO DESCARGA ANTEPIE ABIERTO/CERRADO M BLUNDING (REF. MI-17)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 13755.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 13755.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 13755.0
+    },
+    {
+      "product": {
+        "sku": "GE-CA-0001",
+        "description": "HIDROGEL ANTIMICROBIANO CON PLATA CAVIDAGEL AG 15 GR PHARMAPLAST (REF. CAVITAG15)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1969.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 1969.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 1969.0
+    },
+    {
+      "product": {
+        "sku": "BL-FC-0009",
+        "description": "FAJA COLOSTOMIA 4 BANDAS L BLUNDING (REF. TA-6154)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 16506.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 16506.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 16506.0
+    },
+    {
+      "product": {
+        "sku": "PA-NA-0079",
+        "description": "PAÑALES TUTOS CELESTE 72X72 CM BAMBINO (X 3 UNIDADES) (REF. TEXPAÑ201)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4171.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 4171.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 4171.0
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0049",
+        "description": "PARCHE CURITA ESTANDAR ALL (REF. HY1086B) (x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1049.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 1049.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 1049.0
+    }
+  ]
+}

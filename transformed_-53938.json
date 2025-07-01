@@ -1,0 +1,262 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53938,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "MALL QUILIN"
+  },
+  "issuedDate": "2025-06-25T12:29:22",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": false,
+  "items": [
+    {
+      "product": {
+        "sku": "AA-AA-0452",
+        "description": "ACIDOS GRASOS HIPEROXIGENADOS CON SILICONA 20 ML NOVAMED",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 11250.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 11250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0229",
+        "description": "TENS EMS FITNESS BLUNDING (REF. BEQ-15)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 23750.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 23750.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "MA-RI-0004",
+        "description": "MARIPOSA 23G x 3/4 CRANBERRY (REF. AAASCALP3) (ENVIAR CAJA x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 55.0
+      },
+      "itemDescription": "",
+      "quantity": 100,
+      "originalUnitCost": 55.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "BR-AN-0005",
+        "description": "BRANULA SAFELET 22G x 1' NIPRO (ENVIAR CAJA x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 487.0
+      },
+      "itemDescription": "",
+      "quantity": 100,
+      "originalUnitCost": 487.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "BR-AN-0003",
+        "description": "BRANULA SAFELET 18G x 1 1/4' NIPRO (ENVIAR CAJA x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 513.0
+      },
+      "itemDescription": "",
+      "quantity": 100,
+      "originalUnitCost": 513.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "EL-TR-0003",
+        "description": "ELECTRODO 5x5 CM SPIN MEDICAL (REF. 1615) (x 4 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1362.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 1362.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "VE-ND-0001",
+        "description": "GANCHOS VENDA ELASTICO",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 123.0
+      },
+      "itemDescription": "",
+      "quantity": 50,
+      "originalUnitCost": 123.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0370",
+        "description": "SILLA DE RUEDAS TRAUMATOLOGICA BLUNDING (REF. SRA-3246)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 136250.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 136250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0597",
+        "description": "SILLA DE RUEDA ESTANDAR ACERO STRATTO M.D (REF. ST-0042)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 72195.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 72195.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0378",
+        "description": "SILLA DE RUEDAS STANDARD 2.0 BLUNDING (REF. SRA-3146)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 79375.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 79375.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "BE-TO-0111",
+        "description": "TOALLITAS HUMEDAS COMODITY CARE (x 45 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1725.0
+      },
+      "itemDescription": "",
+      "quantity": 12,
+      "originalUnitCost": 1725.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "SU-JT-0006",
+        "description": "SUJETADOR PACIENTE CAMA GRIS",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 13738.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 13738.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0385",
+        "description": "MESA CAMA STRATTO M.D (REF. ST-0072)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 38187.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 38187.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0813",
+        "description": "SILLA DE RUEDAS STANDARD 3.0 BLUNDING (REF. SRA-3746)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 79375.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 79375.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    }
+  ]
+}

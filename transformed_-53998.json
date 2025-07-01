@@ -1,0 +1,381 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53998,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "003",
+    "name": "PUENTE ALTO"
+  },
+  "issuedDate": "2025-06-30T10:49:52",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "AR-NE-0005",
+        "description": "ARNES 5 PUNTAS",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10000.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 10000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CA-ZG-0043",
+        "description": "CALZON INCONTINENCIA URINARIA CALCINCONT G",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6738.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 6738.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0132",
+        "description": "TENA PANTS ULTRAPROTECT L (x 30 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 15724.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 15724.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0134",
+        "description": "TENA PANTS NOCTURNO G (x 22 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 14682.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 14682.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BA-CI-0003",
+        "description": "BACINICA LOZA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10924.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 10924.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0384",
+        "description": "BOTA ORTOPEDICA CORTA PREMIUM S BLUNDING (REF. MI-155)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 20000.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 20000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CA-ZO-0023",
+        "description": "CUADRO ANTIDERRAME XL MERCED",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5750.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 5750.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CA-ZO-0024",
+        "description": "CUADRO ANTIDERRAME L MERCED",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4069.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 4069.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CA-ZO-0021",
+        "description": "CUADRO ANTIDERRAME M MERCED",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5375.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 5375.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BO-ES-0099",
+        "description": "BOLSA DRENABLE RECORTABLE CON FILTRO DURAHESIVE PLUS ESTEEM 19-64 MM OPACA CONVATEC (REF. 416975) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3629.0
+      },
+      "itemDescription": "",
+      "quantity": 40,
+      "originalUnitCost": 3629.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TP-AM-0001",
+        "description": "TAPA OBTURACION CATETER AMARILLA HEPARINIZADA KDL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 67.0
+      },
+      "itemDescription": "",
+      "quantity": 40,
+      "originalUnitCost": 67.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TO-AN-1000",
+        "description": "TOALLITAS ANTISEPTICAS CON ALCOHOL 70% CRANBERRY",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 887.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 887.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "SC-ES-0011",
+        "description": "SHAMPOO ESPUMA SECA 160 ML SENIOR CARE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3613.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 3613.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0032",
+        "description": "MUÑEQUERA LYCRA M",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4250.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 4250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BO-CO-0022",
+        "description": "BOLSA DRENABLE CON FILTRO NATURA 57 MM OPACA CONVATEC (REF. 416420) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2146.0
+      },
+      "itemDescription": "",
+      "quantity": 40,
+      "originalUnitCost": 2146.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PA-NA-0989",
+        "description": "SABANILLA MATI SUPER ULTRA 60x90 CM NATEEN (x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3962.0
+      },
+      "itemDescription": "",
+      "quantity": 16,
+      "originalUnitCost": 3962.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0728",
+        "description": "SABANILLA 60x90 CM DMORE (x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2875.0
+      },
+      "itemDescription": "",
+      "quantity": 20,
+      "originalUnitCost": 2875.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    }
+  ]
+}

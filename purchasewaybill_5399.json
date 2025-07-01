@@ -1,0 +1,266 @@
+{
+  "purchaseWaybillId": 5399,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53882,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "MALL QUILIN"
+  },
+  "issuedDate": "2025-06-19T00:00:00",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "createdBy": {
+    "userId": "0P",
+    "name": "Valentina Figueroa"
+  },
+  "createdAt": "2025-06-24T14:16:48",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "items": [
+    {
+      "itemId": 186223,
+      "product": {
+        "productId": 14161,
+        "sku": "AA-AA-0321",
+        "description": "APOSITO ADHESIVO TRANSPARENTE 10x12 CM CRANBERRY (REF. AAAPTRA1)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19.0,
+        "productUnitCost": 285.0
+      },
+      "itemDescription": "",
+      "quantity": 100.0,
+      "originalUnitCost": 201.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 201.0,
+      "lot": null,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "traceFrom": null,
+      "customFields": {}
+    },
+    {
+      "itemId": 186224,
+      "product": {
+        "productId": 13709,
+        "sku": "MU-LE-0003",
+        "description": "MULETA PAR BLUNDING (REF. AD-15)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19.0,
+        "productUnitCost": 14241.0
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitCost": 14239.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 14239.0,
+      "lot": null,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "traceFrom": null,
+      "customFields": {}
+    },
+    {
+      "itemId": 186225,
+      "product": {
+        "productId": 13047,
+        "sku": "NE-BU-0056",
+        "description": "NEBULIZADOR AIRE COMPRIMIDO BLUNDING (REF. BEQ-09)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19.0,
+        "productUnitCost": 28500.0
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitCost": 28500.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 28500.0,
+      "lot": null,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "traceFrom": null,
+      "customFields": {}
+    },
+    {
+      "itemId": 186226,
+      "product": {
+        "productId": 15348,
+        "sku": "CC-CC-0454",
+        "description": "JERINGA INSULINA 29G x 1/2' CRANBERRY (REF. AAJECIN3)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19.0,
+        "productUnitCost": 0.0
+      },
+      "itemDescription": "",
+      "quantity": 100.0,
+      "originalUnitCost": 0.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 0.0,
+      "lot": null,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "traceFrom": null,
+      "customFields": {}
+    },
+    {
+      "itemId": 186227,
+      "product": {
+        "productId": 4356,
+        "sku": "LE-UK-0002",
+        "description": "CINTA ADHESIVA INELASTICA LEUKOTAPE CLASSIC 3.75 CM x 10 M BSN (REF. 47109-00) (SIN CAJA)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19.0,
+        "productUnitCost": 0.0
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitCost": 0.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 0.0,
+      "lot": null,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "traceFrom": null,
+      "customFields": {}
+    },
+    {
+      "itemId": 186228,
+      "product": {
+        "productId": 14488,
+        "sku": "CC-CC-0068",
+        "description": "BAÑO PORTATIL PLEGABLE STRATTO M.D",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19.0,
+        "productUnitCost": 0.0
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitCost": 0.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 0.0,
+      "lot": null,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "traceFrom": null,
+      "customFields": {}
+    },
+    {
+      "itemId": 186229,
+      "product": {
+        "productId": 18,
+        "sku": "PA-AB-0005",
+        "description": "PAÑAL ABENA SLIP M4 PREMIUM (x 21 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19.0,
+        "productUnitCost": 0.0
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitCost": 0.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 0.0,
+      "lot": null,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "traceFrom": null,
+      "customFields": {}
+    },
+    {
+      "itemId": 186230,
+      "product": {
+        "productId": 14107,
+        "sku": "AA-AA-0272",
+        "description": "MASCARILLA 3 PLIEGUES BLANCA CRANBERRY (REF. AAMASDES) (x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19.0,
+        "productUnitCost": 0.0
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitCost": 0.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 0.0,
+      "lot": null,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "traceFrom": null,
+      "customFields": {}
+    },
+    {
+      "itemId": 186231,
+      "product": {
+        "productId": 5254,
+        "sku": "NE-BU-0265",
+        "description": "NEBULIZADOR ADULTO OMRON (REF. NE-C801)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19.0,
+        "productUnitCost": 0.0
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitCost": 0.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 0.0,
+      "lot": null,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "traceFrom": null,
+      "customFields": {}
+    }
+  ]
+}

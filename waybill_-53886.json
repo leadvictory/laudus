@@ -1,0 +1,599 @@
+{
+  "salesWaybillId": -53886,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53886,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": null,
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-06-19T11:52:24",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 8,
+    "description": "INDEPENDENCIA",
+    "address": "CARLOS LORCA TOBAR 1080 LOCAL 3102-B",
+    "city": "SANTIAGO",
+    "county": "INDEPENDENCIA",
+    "zipCode": "",
+    "state": "METROPOLITANA",
+    "country": "CHILE"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10903530008",
+    "documentStatus": "0",
+    "uploadStatus": "",
+    "sentToCustomerAt": null
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-06-19T11:53:11",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "INDEPENDENCIA"
+  },
+  "items": [
+    {
+      "itemId": 445861,
+      "itemOrder": 445861,
+      "product": {
+        "productId": 13196,
+        "sku": "AN-ES-0008",
+        "description": "COLCHON ANTIESCARA CON MOTOR 220V BLUNDING (REF. CA-001)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": true,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 26125.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 26125.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506359,
+          "fromStep": "O",
+          "fromId": 83019
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445862,
+      "itemOrder": 445862,
+      "product": {
+        "productId": 16091,
+        "sku": "CO-PA-0006",
+        "description": "CORREA PAVLIK VERDE M BLUNDING (REF. BK-26)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 18882.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 18882.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506360,
+          "fromStep": "O",
+          "fromId": 83020
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445863,
+      "itemOrder": 445863,
+      "product": {
+        "productId": 1617,
+        "sku": "FA-JZ-0004",
+        "description": "FAJA ABDOMINAL 3 BANDAS BEIGE XL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 4250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506361,
+          "fromStep": "O",
+          "fromId": 83021
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445864,
+      "itemOrder": 445864,
+      "product": {
+        "productId": 11899,
+        "sku": "GU-VI-0001",
+        "description": "GUANTES VINILO L TRESOR (REF. ACGVITL3) (CAJA X 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 2113.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2113.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506362,
+          "fromStep": "O",
+          "fromId": 83022
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445865,
+      "itemOrder": 445865,
+      "product": {
+        "productId": 12156,
+        "sku": "AL-IM-0007",
+        "description": "SUPLEMENTO ALIMENTARIO VAINILLA 900 GR VIVALITE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 15262.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 15262.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506363,
+          "fromStep": "O",
+          "fromId": 83023
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445866,
+      "itemOrder": 445866,
+      "product": {
+        "productId": 16671,
+        "sku": "CC-CC-0650",
+        "description": "AGUA BIDESTILADA 5 LT",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 4062.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4062.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506364,
+          "fromStep": "O",
+          "fromId": 83024
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445867,
+      "itemOrder": 445867,
+      "product": {
+        "productId": 9739,
+        "sku": "FA-LB-0002",
+        "description": "FAJA LABORAL M BLUNDING (REF. CC-613)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 9560.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 9560.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506365,
+          "fromStep": "O",
+          "fromId": 83025
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445870,
+      "itemOrder": 445870,
+      "product": {
+        "productId": 16633,
+        "sku": "CC-CC-0615",
+        "description": "AGUA BIDESTILADA INYECTABLE 10 ML PISA (ENVIAR CAJA x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 100.0,
+      "originalUnitPrice": 313.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 313.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506368,
+          "fromStep": "O",
+          "fromId": 83028
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445873,
+      "itemOrder": 445873,
+      "product": {
+        "productId": 16271,
+        "sku": "CO-TH-0016",
+        "description": "COJIN POSTURAL THERAPOSTURE THERAMART (REF. TM395)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 16425.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 16425.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506371,
+          "fromStep": "O",
+          "fromId": 83031
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445875,
+      "itemOrder": 445875,
+      "product": {
+        "productId": 16565,
+        "sku": "CC-CC-0561",
+        "description": "COJIN SILLA DE RUEDAS THERAMART (REF. TM375)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 18559.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 18559.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506373,
+          "fromStep": "O",
+          "fromId": 83033
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445876,
+      "itemOrder": 445876,
+      "product": {
+        "productId": 7289,
+        "sku": "KI-CU-0002",
+        "description": "KIT CURACION 2 PINZAS OPERA GHC",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 1113.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1113.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506374,
+          "fromStep": "O",
+          "fromId": 83034
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445877,
+      "itemOrder": 445877,
+      "product": {
+        "productId": 16630,
+        "sku": "CC-CC-0612",
+        "description": "TOMA PRESION DIGITAL DE BRAZO BLUNDING (REF. BEQ-22)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 22562.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 22562.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506375,
+          "fromStep": "O",
+          "fromId": 83035
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445878,
+      "itemOrder": 445878,
+      "product": {
+        "productId": 14632,
+        "sku": "BL-NT-0045",
+        "description": "BOLSA DRENABLE CON FILTRO NATURA 45 MM OPACA CONVATEC (REF. 416417) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 3250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506376,
+          "fromStep": "O",
+          "fromId": 83036
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445879,
+      "itemOrder": 445879,
+      "product": {
+        "productId": 14644,
+        "sku": "BO-CO-0022",
+        "description": "BOLSA DRENABLE CON FILTRO NATURA 57 MM OPACA CONVATEC (REF. 416420) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 40.0,
+      "originalUnitPrice": 2146.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2146.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506377,
+          "fromStep": "O",
+          "fromId": 83037
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445880,
+      "itemOrder": 445880,
+      "product": {
+        "productId": 13882,
+        "sku": "BA-TO-0012",
+        "description": "BASTON 4 PATAS BLUNDING (REF. AD-14)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 8787.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 8787.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506378,
+          "fromStep": "O",
+          "fromId": 83038
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445881,
+      "itemOrder": 445881,
+      "product": {
+        "productId": 8363,
+        "sku": "BL-MS-0001",
+        "description": "MUSLERA BLUNDING (REF. MI-320)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 7125.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 7125.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506379,
+          "fromStep": "O",
+          "fromId": 83039
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 445882,
+      "itemOrder": 445882,
+      "product": {
+        "productId": 16275,
+        "sku": "CC-CC-0327",
+        "description": "MEDIA ANTIEMBOLICA TROMBIMED S BLUNDING (REF. E-701)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 4625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4625.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 506380,
+          "fromStep": "O",
+          "fromId": 83040
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

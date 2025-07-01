@@ -1,0 +1,58 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53919,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "MALL QUILIN"
+  },
+  "issuedDate": "2025-06-23T16:32:23",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": false,
+  "items": [
+    {
+      "product": {
+        "sku": "CC-CC-0783",
+        "description": "ENDOCANULA TRAQUEOSTOMIA 8.0 MM PORTEX (REF. 100/850/080CZ)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 11238.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 11238.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0784",
+        "description": "ENDOCANULA TRAQUEOSTOMIA 7.5 MM PORTEX (REF. 100/850/075CZ)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 11238.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 11238.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    }
+  ]
+}

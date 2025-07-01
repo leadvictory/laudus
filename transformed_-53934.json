@@ -1,0 +1,296 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53934,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "MALL QUILIN"
+  },
+  "issuedDate": "2025-06-25T12:25:15",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": false,
+  "items": [
+    {
+      "product": {
+        "sku": "ZA-DI-0906",
+        "description": "ZAPATO DESCARGA ANTEPIE ABIERTO M BLUNDING (REF. MI-18)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 13755.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 13755.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "PL-CA-0022",
+        "description": "PLACA FLEXIBLE STOMAHESIVE SURFIT NATURA 57 MM OPACA CONVATEC (REF. 125265) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3348.0
+      },
+      "itemDescription": "",
+      "quantity": 80,
+      "originalUnitCost": 3348.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "TL-MI-0002",
+        "description": "CINTA PAPEL BLANCA 2.5 CM GHC (CARRETE CALIPSO) (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 526.0
+      },
+      "itemDescription": "",
+      "quantity": 120,
+      "originalUnitCost": 526.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0742",
+        "description": "VENDA AUTOADHESIVA BEIGE 5 CM x 4.5  M",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1216.0
+      },
+      "itemDescription": "",
+      "quantity": 20,
+      "originalUnitCost": 1216.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0072",
+        "description": "VENDA AUTOADHESIVA BEIGE 7.5 CM x 4.5 M ALL (REF. VEN1002)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 977.0
+      },
+      "itemDescription": "",
+      "quantity": 20,
+      "originalUnitCost": 977.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-1006",
+        "description": "VENDA AUTOADHESIVA NEGRA 10 CM x 4.5 M ALL (REF. VEN1003)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1101.0
+      },
+      "itemDescription": "",
+      "quantity": 20,
+      "originalUnitCost": 1101.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "AL-CO-0041",
+        "description": "ALCOHOL ANTIBACTERIAL SPRAY 70° 1 LT ECOSAFE (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2292.0
+      },
+      "itemDescription": "",
+      "quantity": 24,
+      "originalUnitCost": 2292.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "TL-MI-0003",
+        "description": "CINTA PAPEL BLANCA 5 CM GHC (CARRETE CALIPSO) (ENVIAR CAJA x 6 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1052.0
+      },
+      "itemDescription": "",
+      "quantity": 30,
+      "originalUnitCost": 1052.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "AL-GO-0004",
+        "description": "ALGODON PRENSADO 250 GR FAMILY SET",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2389.0
+      },
+      "itemDescription": "",
+      "quantity": 15,
+      "originalUnitCost": 2389.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "TO-BE-0003",
+        "description": "TOBILLERA ELASTICADA NEGRA M BIONIC (ENVIAR PAQUETE x 2 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2526.0
+      },
+      "itemDescription": "",
+      "quantity": 8,
+      "originalUnitCost": 2526.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "PA-TE-0003",
+        "description": "TENA PANTS ULTRAPROTECT M (x 16 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10313.0
+      },
+      "itemDescription": "",
+      "quantity": 12,
+      "originalUnitCost": 10313.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "PA-TE-0004",
+        "description": "TENA PANTS ULTRAPROTECT L (x 16 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10313.0
+      },
+      "itemDescription": "",
+      "quantity": 12,
+      "originalUnitCost": 10313.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0130",
+        "description": "TERMOMETRO DIGITAL MEDTECH (REF. TMP-03)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1087.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 1087.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0125",
+        "description": "TERMOMETRO DIGITAL FLEXIBLE CRANBERRY (REF.AATERDFL)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1887.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 1887.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "TE-PF-1000",
+        "description": "TERMOMETRO PUNTA FLEXIBLE BLUNDING (REF.BEQ-02)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2731.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 2731.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "GU-TE-1001",
+        "description": "GUATERO SIN FUNDA 2 L THERMICA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3567.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 3567.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    }
+  ]
+}

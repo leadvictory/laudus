@@ -1,0 +1,599 @@
+{
+  "salesWaybillId": -53921,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53921,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": null,
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-06-24T12:49:37",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 8,
+    "description": "INDEPENDENCIA",
+    "address": "CARLOS LORCA TOBAR 1080 LOCAL 3102-B",
+    "city": "SANTIAGO",
+    "county": "INDEPENDENCIA",
+    "zipCode": "",
+    "state": "METROPOLITANA",
+    "country": "CHILE"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10915706336",
+    "documentStatus": "0",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-06-24T12:50:51"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-06-24T12:50:15",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "INDEPENDENCIA"
+  },
+  "items": [
+    {
+      "itemId": 446360,
+      "itemOrder": 446360,
+      "product": {
+        "productId": 11877,
+        "sku": "SO-AS-0002",
+        "description": "SONDA ASPIRACION 10",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 80.0,
+      "originalUnitPrice": 162.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 162.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 509682,
+          "fromStep": "O",
+          "fromId": 83461
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446362,
+      "itemOrder": 446362,
+      "product": {
+        "productId": 13882,
+        "sku": "BA-TO-0012",
+        "description": "BASTON 4 PATAS BLUNDING (REF. AD-14)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 8787.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 8787.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 509684,
+          "fromStep": "O",
+          "fromId": 83463
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446364,
+      "itemOrder": 446364,
+      "product": {
+        "productId": 4565,
+        "sku": "TO-BE-0009",
+        "description": "TOBILLERA GRIS BLUNDING (REF. MI-0121)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 3444.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3444.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 509686,
+          "fromStep": "O",
+          "fromId": 83465
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446365,
+      "itemOrder": 446365,
+      "product": {
+        "productId": 12189,
+        "sku": "SC-ES-0011",
+        "description": "SHAMPOO ESPUMA SECA 160 ML SENIOR CARE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 3613.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3613.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 509687,
+          "fromStep": "O",
+          "fromId": 83466
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446366,
+      "itemOrder": 446366,
+      "product": {
+        "productId": 4553,
+        "sku": "SU-JT-0009",
+        "description": "SUJETADOR DE SONDA FOLEY BLUNDING (REF. E-7120)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 3682.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3682.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 509688,
+          "fromStep": "O",
+          "fromId": 83467
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446367,
+      "itemOrder": 446367,
+      "product": {
+        "productId": 14689,
+        "sku": "PL-NA-0004",
+        "description": "PLACA FLEXIBLE STOMAHESIVE SURFIT NATURA 70 MM OPACA CONVATEC (REF. 125266) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 3348.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3348.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 509689,
+          "fromStep": "O",
+          "fromId": 83468
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446368,
+      "itemOrder": 446368,
+      "product": {
+        "productId": 15911,
+        "sku": "CC-CC-0139",
+        "description": "GEL ULTRASONIDO 5 LT SAFEPRO (ECOSAFE)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 6646.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6646.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 509690,
+          "fromStep": "O",
+          "fromId": 83469
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446369,
+      "itemOrder": 446369,
+      "product": {
+        "productId": 13712,
+        "sku": "AM-PO-0004",
+        "description": "AMPOLLETA INFRARROJA PAR-38 175W 230V E27 M-ALITE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 6875.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6875.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 509691,
+          "fromStep": "O",
+          "fromId": 83470
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446370,
+      "itemOrder": 446370,
+      "product": {
+        "productId": 13653,
+        "sku": "BA-NA-0003",
+        "description": "BANDA ELASTICA 1.5 M VERDE SPIN MEDICAL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 1403.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1403.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 509692,
+          "fromStep": "O",
+          "fromId": 83471
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446371,
+      "itemOrder": 446371,
+      "product": {
+        "productId": 13654,
+        "sku": "BA-NA-0004",
+        "description": "BANDA ELASTICA 1.5 M AZUL SPIN MEDICAL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 1362.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1362.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 509693,
+          "fromStep": "O",
+          "fromId": 83472
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446372,
+      "itemOrder": 446372,
+      "product": {
+        "productId": 2695,
+        "sku": "BL-FC-0001",
+        "description": "CINTURON COLOSTOMIA L BLUNDING (REF. TA-614)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 10687.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10687.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 509694,
+          "fromStep": "O",
+          "fromId": 83473
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446373,
+      "itemOrder": 446373,
+      "product": {
+        "productId": 11945,
+        "sku": "FA-OS-0001",
+        "description": "FAJA COLOSTOMIA 3 BANDAS BEIGE L",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 6250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 509695,
+          "fromStep": "O",
+          "fromId": 83474
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446374,
+      "itemOrder": 446374,
+      "product": {
+        "productId": 5753,
+        "sku": "FI-BR-0001",
+        "description": "APOSITO COLAGENO + ALGINATO FIBRACOL PLUS 10.2x11.1 CM LET´S PROTECT (REF.2982)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 11566.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 11566.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 509696,
+          "fromStep": "O",
+          "fromId": 83475
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446375,
+      "itemOrder": 446375,
+      "product": {
+        "productId": 15632,
+        "sku": "AA-AA-0457",
+        "description": "CALCETA VARIMED VIAGGIATORE AZUL T02 (REF. 8001)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 9282.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 9282.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 509697,
+          "fromStep": "O",
+          "fromId": 83476
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446376,
+      "itemOrder": 446376,
+      "product": {
+        "productId": 996,
+        "sku": "PR-TP-0006",
+        "description": "BALON MANI 55 CM KING LYON",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 10625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10625.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 509698,
+          "fromStep": "O",
+          "fromId": 83477
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446377,
+      "itemOrder": 446377,
+      "product": {
+        "productId": 11369,
+        "sku": "CA-VI-0001",
+        "description": "SPRAY PROTECTOR CUTANEO CAVILON 28 ML 3M (REF. 3346E) (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitPrice": 9000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 9000.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 509699,
+          "fromStep": "O",
+          "fromId": 83478
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446378,
+      "itemOrder": 446378,
+      "product": {
+        "productId": 14682,
+        "sku": "PL-DU-1000",
+        "description": "PLACA DURAHESIVE SURFIT NATURA 45 MM CONVATEC (REF. 413155) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 30.0,
+      "originalUnitPrice": 3348.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3348.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 509700,
+          "fromStep": "O",
+          "fromId": 83479
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

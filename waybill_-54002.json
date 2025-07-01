@@ -1,0 +1,447 @@
+{
+  "salesWaybillId": -54002,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54002,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 5,
+    "name": "OS QUILIN"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-06-30T11:04:42",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 4,
+    "description": "Mall Quilin",
+    "address": "Mar Tirreno 3349 Local 1069",
+    "city": "SANTIAGO",
+    "county": "PEÑALOLEN",
+    "zipCode": "",
+    "state": "",
+    "country": ""
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10934855620",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": null
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-06-30T11:05:06",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "MALL QUILIN"
+  },
+  "items": [
+    {
+      "itemId": 447576,
+      "itemOrder": 447576,
+      "product": {
+        "productId": 6067,
+        "sku": "CO-JF-0001",
+        "description": "PICARON ESPUMA INYECTADA CON FUNDA 8 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 11250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 11250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512500,
+          "fromStep": "O",
+          "fromId": 84728
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447578,
+      "itemOrder": 447578,
+      "product": {
+        "productId": 13790,
+        "sku": "CA-CO-0002",
+        "description": "CAJA DESECHO CORTOPUNZANTE PLASTICA 5 LT",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 4288.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4288.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512502,
+          "fromStep": "O",
+          "fromId": 84730
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447579,
+      "itemOrder": 447579,
+      "product": {
+        "productId": 15906,
+        "sku": "CC-CC-0131",
+        "description": "TENA PANTS ULTRAPROTECT M (x 30 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 15724.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 15724.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512503,
+          "fromStep": "O",
+          "fromId": 84731
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447580,
+      "itemOrder": 447580,
+      "product": {
+        "productId": 15767,
+        "sku": "CC-CC-0030",
+        "description": "PIEDRA QUITA DUREZAS SALVITAS (REF. 561258)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 938.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 938.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512504,
+          "fromStep": "O",
+          "fromId": 84732
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447581,
+      "itemOrder": 447581,
+      "product": {
+        "productId": 14720,
+        "sku": "BO-BB-0076",
+        "description": "BOLSA DRENABLE CON CLAMP FLEXIBLE Y FILTRO PROXIMA 2+ 60 MM BEIGE BBRAUN (REF. 74360A) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 2238.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2238.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512505,
+          "fromStep": "O",
+          "fromId": 84733
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447582,
+      "itemOrder": 447582,
+      "product": {
+        "productId": 13040,
+        "sku": "GU-TE-1001",
+        "description": "GUATERO SIN FUNDA 2 L THERMICA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 3567.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3567.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512506,
+          "fromStep": "O",
+          "fromId": 84734
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447583,
+      "itemOrder": 447583,
+      "product": {
+        "productId": 11955,
+        "sku": "FA-LU-0904",
+        "description": "FAJA LUMBAR BEIGE L",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 8125.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 8125.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512507,
+          "fromStep": "O",
+          "fromId": 84735
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447584,
+      "itemOrder": 447584,
+      "product": {
+        "productId": 16278,
+        "sku": "CC-CC-0330",
+        "description": "TIRAS FIJACION OSTOMIA ALLY BBRAUN (REF. 2022300) (ENVIAR CAJA x 20 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 1438.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1438.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512508,
+          "fromStep": "O",
+          "fromId": 84736
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447585,
+      "itemOrder": 447585,
+      "product": {
+        "productId": 15106,
+        "sku": "AA-AA-0277",
+        "description": "COJIN LUMBAR VISCOELASTICO BLUNDING (REF. BCU-14)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 11864.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 11864.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512509,
+          "fromStep": "O",
+          "fromId": 84737
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447586,
+      "itemOrder": 447586,
+      "product": {
+        "productId": 15406,
+        "sku": "AA-AA-0281",
+        "description": "PRE TAPE BEIGE 3' x 28 YDS MCDAVID (REF. MD6330-42) (ENVIAR BOLSA x 2 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 2348.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2348.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512510,
+          "fromStep": "O",
+          "fromId": 84738
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447587,
+      "itemOrder": 447587,
+      "product": {
+        "productId": 15644,
+        "sku": "AA-AA-0469",
+        "description": "SABANILLA LAVABLE BLANCA 80x90 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 5250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512511,
+          "fromStep": "O",
+          "fromId": 84739
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447588,
+      "itemOrder": 447588,
+      "product": {
+        "productId": 15778,
+        "sku": "CC-CC-0040",
+        "description": "SPRAY PELICULA PROTECTORA PIEL 28 ML CRANBERRY (REF. AAPELIH1) (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitPrice": 4625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4625.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512512,
+          "fromStep": "O",
+          "fromId": 84740
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

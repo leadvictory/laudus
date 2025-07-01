@@ -1,0 +1,45 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54016,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "00A",
+    "name": "INDEPENDENCIA"
+  },
+  "issuedDate": "2025-06-30T17:35:28",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "AA-AA-0033",
+        "description": "MUÑEQUERA LYCRA L",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4250.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 4250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00G",
+        "name": "INDEPENDENCIA"
+      },
+      "lot": null
+    }
+  ]
+}

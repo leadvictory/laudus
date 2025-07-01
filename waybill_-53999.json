@@ -1,0 +1,540 @@
+{
+  "salesWaybillId": -53999,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53999,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 4,
+    "name": "OS PUENTE"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-06-30T10:50:31",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 3,
+    "description": "Puente Alto",
+    "address": "Paseo Manuel Rodriguez 46 local 42",
+    "city": "SANTIAGO",
+    "county": "Puente Alto",
+    "zipCode": "",
+    "state": "",
+    "country": "CHILE"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10934757220",
+    "documentStatus": "0",
+    "uploadStatus": "",
+    "sentToCustomerAt": null
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-06-30T10:51:07",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "PUENTE ALTO"
+  },
+  "items": [
+    {
+      "itemId": 447529,
+      "itemOrder": 447529,
+      "product": {
+        "productId": 13098,
+        "sku": "TM-PR-1000",
+        "description": "TOMA PRESION DIGITAL DE BRAZO DMORE (REF. AS-35A)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 18738.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 18738.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512454,
+          "fromStep": "O",
+          "fromId": 84672
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447530,
+      "itemOrder": 447530,
+      "product": {
+        "productId": 16630,
+        "sku": "CC-CC-0612",
+        "description": "TOMA PRESION DIGITAL DE BRAZO BLUNDING (REF. BEQ-22)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 22562.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 22562.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512455,
+          "fromStep": "O",
+          "fromId": 84673
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447532,
+      "itemOrder": 447532,
+      "product": {
+        "productId": 16238,
+        "sku": "CC-CC-0298",
+        "description": "JUANETERA CON SEPARADOR SUSIE´S GADGETS (REF. 01676)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 674.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 674.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512457,
+          "fromStep": "O",
+          "fromId": 84675
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447534,
+      "itemOrder": 447534,
+      "product": {
+        "productId": 8187,
+        "sku": "PA-NA-0991",
+        "description": "PAÑAL NATEEN COMBI ULTRA L (x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 10000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10000.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512459,
+          "fromStep": "O",
+          "fromId": 84677
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447535,
+      "itemOrder": 447535,
+      "product": {
+        "productId": 9141,
+        "sku": "SA-BA-0017",
+        "description": "SABANILLA PAPEL 50 MT (ENVIAR PAQUETE x 2 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitPrice": 2313.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2313.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512460,
+          "fromStep": "O",
+          "fromId": 84678
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447536,
+      "itemOrder": 447536,
+      "product": {
+        "productId": 15716,
+        "sku": "BO-IN-0290",
+        "description": "BOLSA TERMICA PARA INSULINA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 744.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 744.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512461,
+          "fromStep": "O",
+          "fromId": 84679
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447537,
+      "itemOrder": 447537,
+      "product": {
+        "productId": 7749,
+        "sku": "AD-AP-0002",
+        "description": "APOSITO NO ADHERENTE ADAPTIC 7.6x7.6 CM  (REF. 2012) (ENVIAR x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 50.0,
+      "originalUnitPrice": 392.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 392.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512462,
+          "fromStep": "O",
+          "fromId": 84680
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447538,
+      "itemOrder": 447538,
+      "product": {
+        "productId": 1180,
+        "sku": "AD-AP-0004",
+        "description": "APOSITO NO ADHERENTE ADAPTIC 7.6x20.3 CM  (REF. 2015) (ENVIAR CAJA x 24 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 24.0,
+      "originalUnitPrice": 825.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 825.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512463,
+          "fromStep": "O",
+          "fromId": 84681
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447539,
+      "itemOrder": 447539,
+      "product": {
+        "productId": 2465,
+        "sku": "SU-EA-0001",
+        "description": "CLORURO DE SODIO 0,9% 10 ML VITAFARMA (ENVIAR CAJA x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 500.0,
+      "originalUnitPrice": 275.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 275.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512464,
+          "fromStep": "O",
+          "fromId": 84682
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447540,
+      "itemOrder": 447540,
+      "product": {
+        "productId": 15859,
+        "sku": "CC-CC-0094",
+        "description": "AEROCAMARA ADULTO CON MASCARILLA 175 ML GLOBAL WELLNESS",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 4375.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4375.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512465,
+          "fromStep": "O",
+          "fromId": 84683
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447541,
+      "itemOrder": 447541,
+      "product": {
+        "productId": 8167,
+        "sku": "JE-RI-0019",
+        "description": "JERINGA LUER LOCK 5 ML CRANBERRY (21G x 1 1/2\") (REF. AAJECR05) (ENVIAR CAJA x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 300.0,
+      "originalUnitPrice": 44.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 44.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512466,
+          "fromStep": "O",
+          "fromId": 84684
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447542,
+      "itemOrder": 447542,
+      "product": {
+        "productId": 16817,
+        "sku": "CC-CC-0787",
+        "description": "PLANTILLA ORTOPEDICA PIE PLANO 36-40 DEROYAL (REF. 04343)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 2010.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2010.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512467,
+          "fromStep": "O",
+          "fromId": 84685
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447543,
+      "itemOrder": 447543,
+      "product": {
+        "productId": 16818,
+        "sku": "CC-CC-0788",
+        "description": "PLANTILLA ORTOPEDICA ANTIBACTERIAS 32-45 DEROYAL (REF. 000483)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 2010.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2010.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512468,
+          "fromStep": "O",
+          "fromId": 84686
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447544,
+      "itemOrder": 447544,
+      "product": {
+        "productId": 16518,
+        "sku": "CC-CC-0520",
+        "description": "JERINGA LUER LOCK 10 ML CRANBERRY (21G x 1 1/2') (REF. AAJECR10) (ENVIAR CAJA x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 200.0,
+      "originalUnitPrice": 69.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 69.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512469,
+          "fromStep": "O",
+          "fromId": 84687
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447545,
+      "itemOrder": 447545,
+      "product": {
+        "productId": 14782,
+        "sku": "TI-RA-0001",
+        "description": "TIRAS REACTIVAS SINOCARE (x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 10000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10000.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512470,
+          "fromStep": "O",
+          "fromId": 84688
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

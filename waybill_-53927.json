@@ -1,0 +1,630 @@
+{
+  "salesWaybillId": -53927,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53927,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 4,
+    "name": "OS PUENTE"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": null,
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-06-25T11:12:57",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 3,
+    "description": "Puente Alto",
+    "address": "Paseo Manuel Rodriguez 46 local 42",
+    "city": "SANTIAGO",
+    "county": "Puente Alto",
+    "zipCode": "",
+    "state": "",
+    "country": "CHILE"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10919247358",
+    "documentStatus": "0",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-06-25T11:13:46"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-06-25T11:13:29",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "PUENTE ALTO"
+  },
+  "items": [
+    {
+      "itemId": 446449,
+      "itemOrder": 446449,
+      "product": {
+        "productId": 15738,
+        "sku": "CC-CC-0007",
+        "description": "PLACA FLEXIBLE STOMAHESIVE LITTLE ONES 45 MM CONVATEC (REF. 401926) (ENVIAR CAJA x 5 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 30.0,
+      "originalUnitPrice": 3801.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3801.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510485,
+          "fromStep": "O",
+          "fromId": 83616
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446450,
+      "itemOrder": 446450,
+      "product": {
+        "productId": 14647,
+        "sku": "BO-CO-0098",
+        "description": "PLACA CONVEXA DURAHESIVE SURFIT NATURA 45 MM (28 MM) CONVATEC (REF. 413182) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 3900.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3900.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510486,
+          "fromStep": "O",
+          "fromId": 83617
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446451,
+      "itemOrder": 446451,
+      "product": {
+        "productId": 14664,
+        "sku": "NA-PL-6004",
+        "description": "PLACA CONVEXA DURAHESIVE SURFIT NATURA 45 MM (25 MM) CONVATEC (REF. 413181) (ENVIAR x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 3900.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3900.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510487,
+          "fromStep": "O",
+          "fromId": 83618
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446452,
+      "itemOrder": 446452,
+      "product": {
+        "productId": 14956,
+        "sku": "AA-AA-0142",
+        "description": "PLACA CONVEXA DURAHESIVE SURFIT NATURA 45MM (32 MM) CONVATEC (REF. 413183) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 3900.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3900.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510488,
+          "fromStep": "O",
+          "fromId": 83619
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446453,
+      "itemOrder": 446453,
+      "product": {
+        "productId": 14663,
+        "sku": "NA-PL-6003",
+        "description": "PLACA CONVEXA DURAHESIVE SURFIT NATURA 45 MM (22MM) CONVATEC (REF. 413180) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 30.0,
+      "originalUnitPrice": 4095.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4095.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510489,
+          "fromStep": "O",
+          "fromId": 83620
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446454,
+      "itemOrder": 446454,
+      "product": {
+        "productId": 15900,
+        "sku": "AP-LE-0005",
+        "description": "APOSITO ADHESIVO LEUKOMED 8x10 CM BSN (REF. 72380-01) (ENVIAR x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 30.0,
+      "originalUnitPrice": 587.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 587.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510490,
+          "fromStep": "O",
+          "fromId": 83621
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446455,
+      "itemOrder": 446455,
+      "product": {
+        "productId": 14787,
+        "sku": "AA-AA-0002",
+        "description": "ALCOHOL ISOPROPILICO 70° 1 LT DIFEMPROFESIONAL (REF. 2402070)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 5040.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5040.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510491,
+          "fromStep": "O",
+          "fromId": 83622
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446456,
+      "itemOrder": 446456,
+      "product": {
+        "productId": 14750,
+        "sku": "AC-EC-0001",
+        "description": "BOLSA DRENABLE ACTIVELIFE 64 MM TRANSPARENTE CONVATEC (REF. 400394) (ENVIAR CAJA x30 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 30.0,
+      "originalUnitPrice": 2264.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2264.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510492,
+          "fromStep": "O",
+          "fromId": 83623
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446457,
+      "itemOrder": 446457,
+      "product": {
+        "productId": 15815,
+        "sku": "CC-CC-0068",
+        "description": "BAÑO PORTATIL PLEGABLE STRATTO M.D",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": true,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 34605.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 34605.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510493,
+          "fromStep": "O",
+          "fromId": 83624
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446458,
+      "itemOrder": 446458,
+      "product": {
+        "productId": 12673,
+        "sku": "PA-NA-1012",
+        "description": "TOALLITAS HUMEDAS NATEEN (x 40 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitPrice": 1525.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1525.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510494,
+          "fromStep": "O",
+          "fromId": 83625
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446459,
+      "itemOrder": 446459,
+      "product": {
+        "productId": 3721,
+        "sku": "IB-ME-0008",
+        "description": "CALCETA SEGRETA 70 C.21 T02 IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 10594.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10594.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510495,
+          "fromStep": "O",
+          "fromId": 83626
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446460,
+      "itemOrder": 446460,
+      "product": {
+        "productId": 1088,
+        "sku": "IB-ME-0001",
+        "description": "CALCETA SEGRETA 140 NATURE T01 IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 10875.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10875.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510496,
+          "fromStep": "O",
+          "fromId": 83627
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446461,
+      "itemOrder": 446461,
+      "product": {
+        "productId": 1094,
+        "sku": "IB-ME-0003",
+        "description": "CALCETA SEGRETA 140 N.36 T03 IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 10875.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10875.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510497,
+          "fromStep": "O",
+          "fromId": 83628
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446462,
+      "itemOrder": 446462,
+      "product": {
+        "productId": 13541,
+        "sku": "IB-ME-0024",
+        "description": "CALCETA SEGRETA 140 N.36 T04 IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 10875.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10875.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510498,
+          "fromStep": "O",
+          "fromId": 83629
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446463,
+      "itemOrder": 446463,
+      "product": {
+        "productId": 1102,
+        "sku": "IB-ME-0006",
+        "description": "CALCETA SEGRETA 140 N.36 T05 IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 10875.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10875.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510499,
+          "fromStep": "O",
+          "fromId": 83630
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446464,
+      "itemOrder": 446464,
+      "product": {
+        "productId": 3745,
+        "sku": "IB-RE-0001",
+        "description": "CALCETA REPOMEN ANTRACITE MIBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 11906.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 11906.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510500,
+          "fromStep": "O",
+          "fromId": 83631
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446465,
+      "itemOrder": 446465,
+      "product": {
+        "productId": 3747,
+        "sku": "IB-RE-0011",
+        "description": "CALCETA REPOMEN BLUE M IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 11906.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 11906.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510501,
+          "fromStep": "O",
+          "fromId": 83632
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 446466,
+      "itemOrder": 446466,
+      "product": {
+        "productId": 14810,
+        "sku": "AA-AA-0020",
+        "description": "ALCOHOL GEL 70° + GLICERINA HIGIENIZANTE MANOS 1 LT ECOSAFE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitPrice": 2428.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2428.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 510502,
+          "fromStep": "O",
+          "fromId": 83633
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

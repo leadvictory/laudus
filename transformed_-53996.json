@@ -1,0 +1,381 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53996,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "003",
+    "name": "PUENTE ALTO"
+  },
+  "issuedDate": "2025-06-30T10:47:57",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "AA-AA-0049",
+        "description": "PARCHE CURITA ESTANDAR ALL (REF. HY1086B) (x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1049.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 1049.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BE-TO-0111",
+        "description": "TOALLITAS HUMEDAS COMODITY CARE (x 45 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1725.0
+      },
+      "itemDescription": "",
+      "quantity": 12,
+      "originalUnitCost": 1725.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PA-NA-8001",
+        "description": "PAÑAL COMODITY PANTS G (x 8 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4359.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 4359.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0302",
+        "description": "CINTA PROTECTORA PIEL SUSIE´S GADGETS (REF. 98050)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2010.0
+      },
+      "itemDescription": "",
+      "quantity": 12,
+      "originalUnitCost": 2010.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CO-UÑ-0003",
+        "description": "CORTAUÑAS GRANDE TRIM (REF. 00212)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1867.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 1867.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CH-AP-0003",
+        "description": "CHATA OVALADA PLASTICA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5613.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 5613.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CH-PL-1000",
+        "description": "CHATA PLANA PLASTICA CON MANGO Y TAPA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5250.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 5250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0473",
+        "description": "BOTA ORTOPEDICA PREMIUM S BLUNDING (REF. MI-150)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 20000.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 20000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-RE-0006",
+        "description": "RODILLERA POLICENTRICA M BLUNDING (REF. MI-47)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 16495.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 16495.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-RE-0008",
+        "description": "RODILLERA POLICENTRICA XL BLUNDING (REF. MI-47)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 16495.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 16495.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BA-DI-0090",
+        "description": "PESA ANALOGA PERSONENWAAGE BEN KORONA (REF. 76640)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 15339.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 15339.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0060",
+        "description": "ROLLATOR STRATTO M.D (REF. ST-0011)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 71113.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 71113.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0081",
+        "description": "SILLA DUCHA CON APOYA BRAZOS STRATTO M.D (REF. ST-0051)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 30089.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 30089.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TE-NS-0245",
+        "description": "ELECTRODO CUBIERTO CON GEL 50x50 MM BLUNDING (REF. BEQ-R02) (x 4 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1625.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 1625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TE-NS-0246",
+        "description": "ELECTRODO CUBIERTO CON GEL 40x40 MM BLUNDING (REF. BEQ-R01) (x 4 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1625.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 1625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "FA-RM-0001",
+        "description": "VENDA GASA NO TEJIDA ADHESIVA FARMATNT 10 CM x10 M MED´S (REF. 1701321010M)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6125.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 6125.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "FI-XO-0001",
+        "description": "VENDA GASA NO TEJIDA ADHESIVA FIXOMULL STRETCH 10 CM x 10 M BSN (REF.02037-00)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10548.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 10548.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    }
+  ]
+}

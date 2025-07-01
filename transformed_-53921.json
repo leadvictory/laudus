@@ -1,0 +1,313 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53921,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "MALL QUILIN"
+  },
+  "issuedDate": "2025-06-24T12:49:37",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": false,
+  "items": [
+    {
+      "product": {
+        "sku": "SO-AS-0002",
+        "description": "SONDA ASPIRACION 10",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 162.0
+      },
+      "itemDescription": "",
+      "quantity": 80,
+      "originalUnitCost": 162.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "BA-TO-0012",
+        "description": "BASTON 4 PATAS BLUNDING (REF. AD-14)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 8787.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 8787.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "TO-BE-0009",
+        "description": "TOBILLERA GRIS BLUNDING (REF. MI-0121)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3444.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 3444.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "SC-ES-0011",
+        "description": "SHAMPOO ESPUMA SECA 160 ML SENIOR CARE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3613.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 3613.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "SU-JT-0009",
+        "description": "SUJETADOR DE SONDA FOLEY BLUNDING (REF. E-7120)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3682.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 3682.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "PL-NA-0004",
+        "description": "PLACA FLEXIBLE STOMAHESIVE SURFIT NATURA 70 MM OPACA CONVATEC (REF. 125266) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3348.0
+      },
+      "itemDescription": "",
+      "quantity": 20,
+      "originalUnitCost": 3348.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0139",
+        "description": "GEL ULTRASONIDO 5 LT SAFEPRO (ECOSAFE)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6646.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 6646.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "AM-PO-0004",
+        "description": "AMPOLLETA INFRARROJA PAR-38 175W 230V E27 M-ALITE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6875.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 6875.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "BA-NA-0003",
+        "description": "BANDA ELASTICA 1.5 M VERDE SPIN MEDICAL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1403.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 1403.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "BA-NA-0004",
+        "description": "BANDA ELASTICA 1.5 M AZUL SPIN MEDICAL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1362.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 1362.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "BL-FC-0001",
+        "description": "CINTURON COLOSTOMIA L BLUNDING (REF. TA-614)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10687.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 10687.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "FA-OS-0001",
+        "description": "FAJA COLOSTOMIA 3 BANDAS BEIGE L",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6250.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 6250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "FI-BR-0001",
+        "description": "APOSITO COLAGENO + ALGINATO FIBRACOL PLUS 10.2x11.1 CM LET´S PROTECT (REF.2982)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 11566.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 11566.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0457",
+        "description": "CALCETA VARIMED VIAGGIATORE AZUL T02 (REF. 8001)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 9282.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 9282.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "PR-TP-0006",
+        "description": "BALON MANI 55 CM KING LYON",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10625.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 10625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "CA-VI-0001",
+        "description": "SPRAY PROTECTOR CUTANEO CAVILON 28 ML 3M (REF. 3346E) (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 9000.0
+      },
+      "itemDescription": "",
+      "quantity": 12,
+      "originalUnitCost": 9000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    },
+    {
+      "product": {
+        "sku": "PL-DU-1000",
+        "description": "PLACA DURAHESIVE SURFIT NATURA 45 MM CONVATEC (REF. 413155) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3348.0
+      },
+      "itemDescription": "",
+      "quantity": 30,
+      "originalUnitCost": 3348.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": null
+    }
+  ]
+}

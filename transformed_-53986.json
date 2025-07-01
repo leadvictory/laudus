@@ -1,0 +1,262 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 53986,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "004",
+    "name": "ÑUÑOA"
+  },
+  "issuedDate": "2025-06-27T15:48:22",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": false,
+  "items": [
+    {
+      "product": {
+        "sku": "FA-LB-0003",
+        "description": "FAJA LABORAL S BLUNDING (REF. CC-613)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 9560.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 9560.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 9560.0
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0331",
+        "description": "SPRAY LAVADO HERIDAS PRONTOSAN 75 ML BBRAUN (REF. 400565)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5000.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 5000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 5000.0
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0364",
+        "description": "PARCHE OCULAR PEDIATRICO ISIMED (x 20 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4000.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 4000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 4000.0
+    },
+    {
+      "product": {
+        "sku": "UN-AS-0002",
+        "description": "DISCO LIJA PODOLOGIA (BOLSA x 20 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1862.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 1862.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 1862.0
+    },
+    {
+      "product": {
+        "sku": "PA-AB-0010",
+        "description": "PAÑAL APOSITO ABENA MAN PREMIUM FORMULA 2 (x 15 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4382.0
+      },
+      "itemDescription": "",
+      "quantity": 12,
+      "originalUnitCost": 4382.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 4382.0
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0204",
+        "description": "TENA FOR MEN REGULARES (x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3630.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 3630.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 3630.0
+    },
+    {
+      "product": {
+        "sku": "CO-TH-0012",
+        "description": "COJIN SILLA DE RUEDAS THERAMART THERAMED (REF. TM360)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 18760.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 18760.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 18760.0
+    },
+    {
+      "product": {
+        "sku": "PE-DA-0001",
+        "description": "PEDALERA EJERCICIOS COLOR AZUL (REF. PEA010)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 22362.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 22362.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 22362.0
+    },
+    {
+      "product": {
+        "sku": "AA-AA-1012",
+        "description": "BOTA ORTOPEDICA PREMIUM M BLUNDING (REF. MI-150)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 20000.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 20000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 20000.0
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0112",
+        "description": "CUÑA ANTIREFLUJO 60x60x20 CM MAHYCAS",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 15625.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 15625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 15625.0
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0776",
+        "description": "PISTOLA MASAJEADORA MUSCULAR",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 24346.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 24346.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 24346.0
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0827",
+        "description": "GUANTES NITRILO AZUL COBALTO M TRESOR (REF. ACGNCLT3) (CAJA x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3275.0
+      },
+      "itemDescription": "",
+      "quantity": 30,
+      "originalUnitCost": 3275.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 3275.0
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0267",
+        "description": "RIÑON ACERO CHICO (REF. 20443)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2195.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 2195.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 2195.0
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0269",
+        "description": "RIÑON ACERO GRANDE (REF. 20445)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2984.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 2984.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 2984.0
+    }
+  ]
+}

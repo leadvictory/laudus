@@ -1,0 +1,276 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54002,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "MALL QUILIN"
+  },
+  "issuedDate": "2025-06-30T11:04:42",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "CO-JF-0001",
+        "description": "PICARON ESPUMA INYECTADA CON FUNDA 8 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 11250.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 11250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CA-CO-0002",
+        "description": "CAJA DESECHO CORTOPUNZANTE PLASTICA 5 LT",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4288.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 4288.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0131",
+        "description": "TENA PANTS ULTRAPROTECT M (x 30 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 15724.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 15724.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0030",
+        "description": "PIEDRA QUITA DUREZAS SALVITAS (REF. 561258)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 938.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 938.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BO-BB-0076",
+        "description": "BOLSA DRENABLE CON CLAMP FLEXIBLE Y FILTRO PROXIMA 2+ 60 MM BEIGE BBRAUN (REF. 74360A) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2238.0
+      },
+      "itemDescription": "",
+      "quantity": 20,
+      "originalUnitCost": 2238.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "GU-TE-1001",
+        "description": "GUATERO SIN FUNDA 2 L THERMICA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3567.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 3567.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "FA-LU-0904",
+        "description": "FAJA LUMBAR BEIGE L",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 8125.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 8125.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0330",
+        "description": "TIRAS FIJACION OSTOMIA ALLY BBRAUN (REF. 2022300) (ENVIAR CAJA x 20 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1438.0
+      },
+      "itemDescription": "",
+      "quantity": 20,
+      "originalUnitCost": 1438.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0277",
+        "description": "COJIN LUMBAR VISCOELASTICO BLUNDING (REF. BCU-14)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 11864.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 11864.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0281",
+        "description": "PRE TAPE BEIGE 3' x 28 YDS MCDAVID (REF. MD6330-42) (ENVIAR BOLSA x 2 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2348.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 2348.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0469",
+        "description": "SABANILLA LAVABLE BLANCA 80x90 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5250.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 5250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0040",
+        "description": "SPRAY PELICULA PROTECTORA PIEL 28 ML CRANBERRY (REF. AAPELIH1) (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4625.0
+      },
+      "itemDescription": "",
+      "quantity": 12,
+      "originalUnitCost": 4625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    }
+  ]
+}
