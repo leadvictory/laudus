@@ -1,0 +1,475 @@
+{
+  "salesWaybillId": -54020,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54020,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": null,
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-07-01T11:15:47",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 8,
+    "description": "INDEPENDENCIA",
+    "address": "CARLOS LORCA TOBAR 1080 LOCAL 3102-B",
+    "city": "SANTIAGO",
+    "county": "INDEPENDENCIA",
+    "zipCode": "",
+    "state": "METROPOLITANA",
+    "country": "CHILE"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10941020234",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-07-01T11:16:34"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-07-01T11:16:12",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "INDEPENDENCIA"
+  },
+  "items": [
+    {
+      "itemId": 447783,
+      "itemOrder": 447783,
+      "product": {
+        "productId": 12156,
+        "sku": "AL-IM-0007",
+        "description": "SUPLEMENTO ALIMENTARIO VAINILLA 900 GR VIVALITE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 15262.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 15262.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512945,
+          "fromStep": "O",
+          "fromId": 84802
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447784,
+      "itemOrder": 447784,
+      "product": {
+        "productId": 10649,
+        "sku": "BO-TA-0005",
+        "description": "BOTA ORTOPEDICA CORTA M",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 17250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 17250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512946,
+          "fromStep": "O",
+          "fromId": 84803
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447785,
+      "itemOrder": 447785,
+      "product": {
+        "productId": 16560,
+        "sku": "CC-CC-0556",
+        "description": "BOTA ORTOPEDICA LARGA M",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 17250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 17250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512947,
+          "fromStep": "O",
+          "fromId": 84804
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447786,
+      "itemOrder": 447786,
+      "product": {
+        "productId": 7891,
+        "sku": "BL-FT-0002",
+        "description": "FAJA TORAXICA MUJER BLUNDING (REF. TA-210)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 7006.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 7006.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512948,
+          "fromStep": "O",
+          "fromId": 84805
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447787,
+      "itemOrder": 447787,
+      "product": {
+        "productId": 3049,
+        "sku": "FA-JZ-0007",
+        "description": "FAJA ABDOMINAL 4 BANDAS BEIGE XL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 5625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5625.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512949,
+          "fromStep": "O",
+          "fromId": 84806
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447788,
+      "itemOrder": 447788,
+      "product": {
+        "productId": 11039,
+        "sku": "PZ-NB-0013",
+        "description": "PINZA ANATOMICA ACERO 20 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 4313.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4313.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512950,
+          "fromStep": "O",
+          "fromId": 84807
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447789,
+      "itemOrder": 447789,
+      "product": {
+        "productId": 13560,
+        "sku": "PA-TO-0013",
+        "description": "PATO URINARIO DESECHABLE CARTON",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 977.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 977.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512951,
+          "fromStep": "O",
+          "fromId": 84808
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447790,
+      "itemOrder": 447790,
+      "product": {
+        "productId": 5753,
+        "sku": "FI-BR-0001",
+        "description": "APOSITO COLAGENO + ALGINATO FIBRACOL PLUS 10.2x11.1 CM LET´S PROTECT (REF.2982)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 11567.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 11567.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512952,
+          "fromStep": "O",
+          "fromId": 84810
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447791,
+      "itemOrder": 447791,
+      "product": {
+        "productId": 14969,
+        "sku": "AA-AA-0159",
+        "description": "GEL HERIDAS ULMOPLUS 30 GR MEDICAL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 8000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 8000.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512953,
+          "fromStep": "O",
+          "fromId": 84811
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447792,
+      "itemOrder": 447792,
+      "product": {
+        "productId": 7541,
+        "sku": "TE-LF-0001",
+        "description": "APOSITO NO ADHERENTE TELFA 10.2x12.7 CM COVIDIEN (REF. 1111) (ENVIAR x 5 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 10369.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10369.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512954,
+          "fromStep": "O",
+          "fromId": 84812
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447793,
+      "itemOrder": 447793,
+      "product": {
+        "productId": 7155,
+        "sku": "PR-ES-0004",
+        "description": "ESTUCHE PENEAL XL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 313.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 313.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512955,
+          "fromStep": "O",
+          "fromId": 84813
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447794,
+      "itemOrder": 447794,
+      "product": {
+        "productId": 15876,
+        "sku": "CC-CC-0108",
+        "description": "MANTA TRANSFERENCIA PACIENTES CRUDO BLUNDING (REF. E-1100)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 18738.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 18738.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512956,
+          "fromStep": "O",
+          "fromId": 84814
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447795,
+      "itemOrder": 447795,
+      "product": {
+        "productId": 13241,
+        "sku": "BL-ES-0005",
+        "description": "FAJA ESPALDILLERA DORSO LUMBAR XS BLUNDING (REF. CC-614)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": true,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 28618.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 28618.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512957,
+          "fromStep": "O",
+          "fromId": 84816
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

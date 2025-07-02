@@ -35,10 +35,9 @@
       "originalUnitCost": 975.0,
       "currencyCode": "CLP",
       "parityToMainCurrency": 1.0,
+      "unitCost": 975.0,
       "costCenter": {
-        "costCenterId": [
-          "00B"
-        ],
+        "costCenterId": "00B",
         "name": "VICUÑA"
       },
       "lot": null
@@ -58,10 +57,9 @@
       "originalUnitCost": 1382.0,
       "currencyCode": "CLP",
       "parityToMainCurrency": 1.0,
+      "unitCost": 1382.0,
       "costCenter": {
-        "costCenterId": [
-          "00B"
-        ],
+        "costCenterId": "00B",
         "name": "VICUÑA"
       },
       "lot": null
@@ -81,10 +79,9 @@
       "originalUnitCost": 8000.0,
       "currencyCode": "CLP",
       "parityToMainCurrency": 1.0,
+      "unitCost": 8000.0,
       "costCenter": {
-        "costCenterId": [
-          "00B"
-        ],
+        "costCenterId": "00B",
         "name": "VICUÑA"
       },
       "lot": null
@@ -104,10 +101,9 @@
       "originalUnitCost": 220.0,
       "currencyCode": "CLP",
       "parityToMainCurrency": 1.0,
+      "unitCost": 220.0,
       "costCenter": {
-        "costCenterId": [
-          "00B"
-        ],
+        "costCenterId": "00B",
         "name": "VICUÑA"
       },
       "lot": null
@@ -127,10 +123,9 @@
       "originalUnitCost": 2125.0,
       "currencyCode": "CLP",
       "parityToMainCurrency": 1.0,
+      "unitCost": 2125.0,
       "costCenter": {
-        "costCenterId": [
-          "00B"
-        ],
+        "costCenterId": "00B",
         "name": "VICUÑA"
       },
       "lot": null
@@ -150,10 +145,9 @@
       "originalUnitCost": 3860.0,
       "currencyCode": "CLP",
       "parityToMainCurrency": 1.0,
+      "unitCost": 3860.0,
       "costCenter": {
-        "costCenterId": [
-          "00B"
-        ],
+        "costCenterId": "00B",
         "name": "VICUÑA"
       },
       "lot": null
@@ -173,10 +167,9 @@
       "originalUnitCost": 1250.0,
       "currencyCode": "CLP",
       "parityToMainCurrency": 1.0,
+      "unitCost": 1250.0,
       "costCenter": {
-        "costCenterId": [
-          "00B"
-        ],
+        "costCenterId": "00B",
         "name": "VICUÑA"
       },
       "lot": null
@@ -196,10 +189,9 @@
       "originalUnitCost": 20000.0,
       "currencyCode": "CLP",
       "parityToMainCurrency": 1.0,
+      "unitCost": 20000.0,
       "costCenter": {
-        "costCenterId": [
-          "00B"
-        ],
+        "costCenterId": "00B",
         "name": "VICUÑA"
       },
       "lot": null
@@ -219,10 +211,9 @@
       "originalUnitCost": 19338.0,
       "currencyCode": "CLP",
       "parityToMainCurrency": 1.0,
+      "unitCost": 19338.0,
       "costCenter": {
-        "costCenterId": [
-          "00B"
-        ],
+        "costCenterId": "00B",
         "name": "VICUÑA"
       },
       "lot": null
@@ -242,10 +233,9 @@
       "originalUnitCost": 23050.0,
       "currencyCode": "CLP",
       "parityToMainCurrency": 1.0,
+      "unitCost": 23050.0,
       "costCenter": {
-        "costCenterId": [
-          "00B"
-        ],
+        "costCenterId": "00B",
         "name": "VICUÑA"
       },
       "lot": null
@@ -265,10 +255,9 @@
       "originalUnitCost": 8125.0,
       "currencyCode": "CLP",
       "parityToMainCurrency": 1.0,
+      "unitCost": 8125.0,
       "costCenter": {
-        "costCenterId": [
-          "00B"
-        ],
+        "costCenterId": "00B",
         "name": "VICUÑA"
       },
       "lot": null
@@ -288,10 +277,9 @@
       "originalUnitCost": 2335.0,
       "currencyCode": "CLP",
       "parityToMainCurrency": 1.0,
+      "unitCost": 2335.0,
       "costCenter": {
-        "costCenterId": [
-          "00B"
-        ],
+        "costCenterId": "00B",
         "name": "VICUÑA"
       },
       "lot": null
@@ -311,10 +299,9 @@
       "originalUnitCost": 938.0,
       "currencyCode": "CLP",
       "parityToMainCurrency": 1.0,
+      "unitCost": 938.0,
       "costCenter": {
-        "costCenterId": [
-          "00B"
-        ],
+        "costCenterId": "00B",
         "name": "VICUÑA"
       },
       "lot": null
@@ -334,10 +321,9 @@
       "originalUnitCost": 1113.0,
       "currencyCode": "CLP",
       "parityToMainCurrency": 1.0,
+      "unitCost": 1113.0,
       "costCenter": {
-        "costCenterId": [
-          "00B"
-        ],
+        "costCenterId": "00B",
         "name": "VICUÑA"
       },
       "lot": null
@@ -357,10 +343,9 @@
       "originalUnitCost": 106250.0,
       "currencyCode": "CLP",
       "parityToMainCurrency": 1.0,
+      "unitCost": 106250.0,
       "costCenter": {
-        "costCenterId": [
-          "00B"
-        ],
+        "costCenterId": "00B",
         "name": "VICUÑA"
       },
       "lot": null

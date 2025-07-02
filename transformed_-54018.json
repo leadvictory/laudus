@@ -16,30 +16,8 @@
     "name": "BODEGA PRINCIPAL SUIZA"
   },
   "issuedDate": "2025-07-01T04:10:32",
-  "nullDoc": false,
+  "nullDoc": true,
   "notes": "",
   "isSale": true,
-  "items": [
-    {
-      "product": {
-        "sku": "CC-CC-0160",
-        "description": "GEL ULTRASONIDO DIECO 250 ML DIFEMPHARMA (REF. 2400158)",
-        "unitOfMeasure": "UNIDAD",
-        "allowFreeDescription": false,
-        "applyGeneralVATRate": true,
-        "VATRate": 19,
-        "productUnitCost": 1738.0
-      },
-      "itemDescription": "",
-      "quantity": 4,
-      "originalUnitCost": 1738.0,
-      "currencyCode": "CLP",
-      "parityToMainCurrency": 1.0,
-      "costCenter": null,
-      "lot": {
-        "lot": "4444",
-        "expiration": "2026-08-22T00:00:00"
-      }
-    }
-  ]
+  "items": []
 }

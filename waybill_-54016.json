@@ -33,7 +33,7 @@
   },
   "branch": null,
   "issuedDate": "2025-06-30T17:35:28",
-  "nullDoc": false,
+  "nullDoc": true,
   "purchaseOrderNumber": "",
   "deliveryAddress": {
     "addressId": 8,
@@ -68,36 +68,13 @@
     "name": "joaquin vila"
   },
   "createdAt": "2025-06-30T17:36:43",
-  "modifiedBy": null,
-  "modifiedAt": null,
+  "modifiedBy": {
+    "userId": "06",
+    "name": "joaquin vila"
+  },
+  "modifiedAt": "2025-07-01T13:28:08",
   "customFields": {
     "local_": "INDEPENDENCIA"
   },
-  "items": [
-    {
-      "itemId": 447766,
-      "itemOrder": 447766,
-      "product": {
-        "productId": 14832,
-        "sku": "AA-AA-0033",
-        "description": "MUÑEQUERA LYCRA L",
-        "unitOfMeasure": "UNIDAD",
-        "allowFreeDescription": false,
-        "allowUserChangePrices": false,
-        "applyGeneralVATRate": true,
-        "maxDiscount": null
-      },
-      "itemDescription": "",
-      "quantity": 3.0,
-      "originalUnitPrice": 4250.0,
-      "currencyCode": "CLP",
-      "parityToMainCurrency": 1.0,
-      "unitPrice": 4250.0,
-      "discountPercentage": 0.0,
-      "costCenter": null,
-      "lot": null,
-      "traceFrom": null,
-      "customFields": {}
-    }
-  ]
+  "items": null
 }

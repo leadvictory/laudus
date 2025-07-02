@@ -3,7 +3,7 @@
     "docTypeId": 52,
     "name": "Guía de Despacho Electrónica"
   },
-  "docNumber": 54002,
+  "docNumber": 54023,
   "description": "",
   "supplier": {
     "supplierId": 1,
@@ -12,10 +12,10 @@
     "VATId": "76.278.745-8"
   },
   "warehouse": {
-    "warehouseId": "005",
-    "name": "MALL QUILIN"
+    "warehouseId": "00A",
+    "name": "INDEPENDENCIA"
   },
-  "issuedDate": "2025-06-30T11:04:42",
+  "issuedDate": "2025-07-01T11:26:51",
   "nullDoc": false,
   "notes": "",
   "isSale": true,

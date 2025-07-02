@@ -1,0 +1,475 @@
+{
+  "salesWaybillId": -54019,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54019,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": null,
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-07-01T11:13:27",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 8,
+    "description": "INDEPENDENCIA",
+    "address": "CARLOS LORCA TOBAR 1080 LOCAL 3102-B",
+    "city": "SANTIAGO",
+    "county": "INDEPENDENCIA",
+    "zipCode": "",
+    "state": "METROPOLITANA",
+    "country": "CHILE"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10941004006",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-07-01T11:14:09"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-07-01T11:13:41",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "INDEPENDENCIA"
+  },
+  "items": [
+    {
+      "itemId": 447770,
+      "itemOrder": 447770,
+      "product": {
+        "productId": 10797,
+        "sku": "VA-PY-0007",
+        "description": "PANTY VARIMED 140 SAVANE T04 (REF. 7002)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 15187.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 15187.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512932,
+          "fromStep": "O",
+          "fromId": 84830
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447771,
+      "itemOrder": 447771,
+      "product": {
+        "productId": 5053,
+        "sku": "VA-PY-0079",
+        "description": "PANTY VARIMED 140 NEGRO T04 (REF. 7002)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 15187.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 15187.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512933,
+          "fromStep": "O",
+          "fromId": 84831
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447772,
+      "itemOrder": 447772,
+      "product": {
+        "productId": 9103,
+        "sku": "PT-BB-0001",
+        "description": "PANTORRILLERA BAMBU L BLUNDING (REF. BBE-05)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 3444.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3444.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512934,
+          "fromStep": "O",
+          "fromId": 84832
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447773,
+      "itemOrder": 447773,
+      "product": {
+        "productId": 14843,
+        "sku": "AA-AA-0043",
+        "description": "TIRAS REACTIVAS PRODIGY (x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 10500.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10500.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512935,
+          "fromStep": "O",
+          "fromId": 84833
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447774,
+      "itemOrder": 447774,
+      "product": {
+        "productId": 16514,
+        "sku": "CC-CC-0516",
+        "description": "TOALLA INTERFOLEADA TORK ADVANCE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 1730.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1730.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512936,
+          "fromStep": "O",
+          "fromId": 84834
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447775,
+      "itemOrder": 447775,
+      "product": {
+        "productId": 13920,
+        "sku": "BO-TA-0021",
+        "description": "BOTA ORTOPEDICA PEDIATRICA GRIS XXL BLUNDING (REF. BK-16)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 19950.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 19950.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512937,
+          "fromStep": "O",
+          "fromId": 84835
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447776,
+      "itemOrder": 447776,
+      "product": {
+        "productId": 15073,
+        "sku": "AA-AA-0247",
+        "description": "CALIPER SLIM GUIDE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 6400.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6400.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512938,
+          "fromStep": "O",
+          "fromId": 84836
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447777,
+      "itemOrder": 447777,
+      "product": {
+        "productId": 11407,
+        "sku": "BO-CO-0003",
+        "description": "PASTA PROTECTORA STOMAHESIVE 56.7 GR CONVATEC (REF. 183910)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 11138.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 11138.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512939,
+          "fromStep": "O",
+          "fromId": 84837
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447778,
+      "itemOrder": 447778,
+      "product": {
+        "productId": 3655,
+        "sku": "AN-ES-0006",
+        "description": "ESCAREADOR ACERO",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 1202.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1202.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512940,
+          "fromStep": "O",
+          "fromId": 84838
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447779,
+      "itemOrder": 447779,
+      "product": {
+        "productId": 12541,
+        "sku": "PI-DU-0002",
+        "description": "PILA AAA DURACELL (ENVIAR PAQUETE x 6 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 551.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 551.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512941,
+          "fromStep": "O",
+          "fromId": 84839
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447780,
+      "itemOrder": 447780,
+      "product": {
+        "productId": 1829,
+        "sku": "TL-MI-0012",
+        "description": "CINTA PLASTICA TRANSPORE 5 CM 3M (REF. 1527-2) (ENVIAR CAJA x 6 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitPrice": 2377.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2377.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512942,
+          "fromStep": "O",
+          "fromId": 84840
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447781,
+      "itemOrder": 447781,
+      "product": {
+        "productId": 10887,
+        "sku": "PA-HY-0087",
+        "description": "VENDA GASA NO TEJIDA ADHESIVA URGODERM 10 CM x 10 M URGOMEDICAL (REF.754102)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 6403.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6403.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512943,
+          "fromStep": "O",
+          "fromId": 84841
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447782,
+      "itemOrder": 447782,
+      "product": {
+        "productId": 13508,
+        "sku": "CO-PA-0010",
+        "description": "CORREA PAVLIK CALIPSO M BLUNDING (REF. BK-26)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 18882.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 18882.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512944,
+          "fromStep": "O",
+          "fromId": 84842
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

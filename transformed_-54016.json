@@ -16,30 +16,8 @@
     "name": "INDEPENDENCIA"
   },
   "issuedDate": "2025-06-30T17:35:28",
-  "nullDoc": false,
+  "nullDoc": true,
   "notes": "",
   "isSale": true,
-  "items": [
-    {
-      "product": {
-        "sku": "AA-AA-0033",
-        "description": "MUÑEQUERA LYCRA L",
-        "unitOfMeasure": "UNIDAD",
-        "allowFreeDescription": false,
-        "applyGeneralVATRate": true,
-        "VATRate": 19,
-        "productUnitCost": 4250.0
-      },
-      "itemDescription": "",
-      "quantity": 3,
-      "originalUnitCost": 4250.0,
-      "currencyCode": "CLP",
-      "parityToMainCurrency": 1.0,
-      "costCenter": {
-        "costCenterId": "00G",
-        "name": "INDEPENDENCIA"
-      },
-      "lot": null
-    }
-  ]
+  "items": []
 }

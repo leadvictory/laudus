@@ -16,81 +16,8 @@
     "name": "BODEGA PRINCIPAL SUIZA"
   },
   "issuedDate": "2025-06-30T17:33:50",
-  "nullDoc": false,
+  "nullDoc": true,
   "notes": "",
   "isSale": true,
-  "items": [
-    {
-      "product": {
-        "sku": "AA-AA-0024",
-        "description": "SUSPENSOR ESCROTAL S",
-        "unitOfMeasure": "UNIDAD",
-        "allowFreeDescription": false,
-        "applyGeneralVATRate": true,
-        "VATRate": 19,
-        "productUnitCost": 4479.0
-      },
-      "itemDescription": "",
-      "quantity": 2,
-      "originalUnitCost": 4479.0,
-      "currencyCode": "CLP",
-      "parityToMainCurrency": 1.0,
-      "costCenter": null,
-      "lot": null
-    },
-    {
-      "product": {
-        "sku": "AA-AA-0025",
-        "description": "SUSPENSOR ESCROTAL M",
-        "unitOfMeasure": "UNIDAD",
-        "allowFreeDescription": false,
-        "applyGeneralVATRate": true,
-        "VATRate": 19,
-        "productUnitCost": 4479.0
-      },
-      "itemDescription": "",
-      "quantity": 1,
-      "originalUnitCost": 4479.0,
-      "currencyCode": "CLP",
-      "parityToMainCurrency": 1.0,
-      "costCenter": null,
-      "lot": null
-    },
-    {
-      "product": {
-        "sku": "AA-AA-0026",
-        "description": "SUSPENSOR ESCROTAL L",
-        "unitOfMeasure": "UNIDAD",
-        "allowFreeDescription": false,
-        "applyGeneralVATRate": true,
-        "VATRate": 19,
-        "productUnitCost": 4479.0
-      },
-      "itemDescription": "",
-      "quantity": 5,
-      "originalUnitCost": 4479.0,
-      "currencyCode": "CLP",
-      "parityToMainCurrency": 1.0,
-      "costCenter": null,
-      "lot": null
-    },
-    {
-      "product": {
-        "sku": "AA-AA-0027",
-        "description": "SUSPENSOR ESCROTAL XL",
-        "unitOfMeasure": "UNIDAD",
-        "allowFreeDescription": false,
-        "applyGeneralVATRate": true,
-        "VATRate": 19,
-        "productUnitCost": 4479.0
-      },
-      "itemDescription": "",
-      "quantity": 7,
-      "originalUnitCost": 4479.0,
-      "currencyCode": "CLP",
-      "parityToMainCurrency": 1.0,
-      "costCenter": null,
-      "lot": null
-    }
-  ]
+  "items": []
 }

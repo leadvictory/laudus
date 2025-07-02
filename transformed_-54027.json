@@ -3,7 +3,7 @@
     "docTypeId": 52,
     "name": "Guía de Despacho Electrónica"
   },
-  "docNumber": 54002,
+  "docNumber": 54027,
   "description": "",
   "supplier": {
     "supplierId": 1,
@@ -12,11 +12,11 @@
     "VATId": "76.278.745-8"
   },
   "warehouse": {
-    "warehouseId": "005",
-    "name": "MALL QUILIN"
+    "warehouseId": "002",
+    "name": "VICUÑA"
   },
-  "issuedDate": "2025-06-30T11:04:42",
-  "nullDoc": false,
+  "issuedDate": "2025-07-01T13:29:45",
+  "nullDoc": true,
   "notes": "",
   "isSale": true,
   "items": []

@@ -2,8 +2,8 @@ import requests
 import json
 import sys
 from collections import OrderedDict
-from datetime import datetime
 from datetime import datetime, timedelta
+import time 
 
 class LaudusAPIsales:
     
@@ -26,7 +26,7 @@ class LaudusAPIsales:
         requestBodyJson = json.dumps(requestLoginSchema)
         requestHeaders = {"Content-type": "application/json", "Accept": "application/json"}
         
-        print("-----------------------<< Get Token >>-----------------------")
+        print("-----------------------<< Get Token for sales waybill>>-----------------------")
         
         try:
             request = requests.post(self.hostAPI + "/security/login", data=requestBodyJson, headers=requestHeaders)
@@ -35,7 +35,7 @@ class LaudusAPIsales:
             if respondStatusCode == requests.codes.ok:
                 vReturn = True
                 self.credential = json.loads(request.text)
-                print("token = " + self.credential["token"])
+                # print("token = " + self.credential["token"])
                 print("expiration = " + self.credential["expiration"])
             else:
                 vReturn = False
@@ -69,7 +69,7 @@ class LaudusAPIsales:
     ##########################################################################################
 
     def getWaybillsList(self):
-        print("-----------------------<< Get Waybills List >>-----------------------")
+        print("-----------------------<< Get Waybills List for sales waybill >>-----------------------")
 
         yesterday = datetime.now() - timedelta(days=1)
         today = datetime.now()
@@ -99,6 +99,7 @@ class LaudusAPIsales:
             "orderBy": [
                 {
                     "field": "createdAt",
+                    # "direction": "ASC"
                     "direction": "DESC"
                 }
             ]
@@ -120,7 +121,7 @@ class LaudusAPIsales:
             if response.status_code == 200:
                 result = response.json()
                 sales_ids = [item["salesWaybillId"] for item in result]
-                print(f"Waybill IDs: {sales_ids}")
+                print(f" Sales Waybill IDs: {sales_ids}")
                 return sales_ids
             elif response.status_code == 204:
                 print("✅ Request successful, but no waybills found for the given date range.")
@@ -133,7 +134,7 @@ class LaudusAPIsales:
             return []
 
     def getSalesWaybill(self, salesWaybillId: int):
-        print(f"-----------------------<< Get Waybill {salesWaybillId} >>-----------------------")
+        print(f"-----------------------<< Processing with Sales Waybill {salesWaybillId} >>-----------------------")
 
         if not self.isValidToken():
             print("Failed to get a valid token")
@@ -165,9 +166,9 @@ class LaudusAPIsales:
                     # sent_to_customer_at is not None
                 ):
                     # Save the original waybill
-                    with open(f"waybill_{salesWaybillId}.json", "w", encoding="utf-8") as f:
-                        json.dump(data, f, ensure_ascii=False, indent=2)
-                    print(f"✅ Saved to waybill_{salesWaybillId}.json")
+                    # with open(f"waybill_{salesWaybillId}.json", "w", encoding="utf-8") as f:
+                    #     json.dump(data, f, ensure_ascii=False, indent=2)
+                    # print(f"✅ Saved to waybill_{salesWaybillId}.json")
                     costCenterId = ""
                     costCentername = ""
                     customfield = data.get("customFields")
@@ -197,7 +198,7 @@ class LaudusAPIsales:
                     elif customfield.get("local_") == "VICUÑA":
                         warehouseid = "002"
                         warehousename = "VICUÑA"
-                        costCenterId =  "00B",
+                        costCenterId =  "00B"
                         costCentername = "VICUÑA"
                     elif customfield.get("local_") == "ÑUÑOA":
                         warehouseid = "004"
@@ -231,37 +232,45 @@ class LaudusAPIsales:
                         "items": []
                     }
 
-                    for item in data.get("items", []):
-                        product = item.get("product", {})
-                        lot = item.get("lot", None)
-                        transformed_item = {
-                            "product": {
-                                "sku": product.get("sku"),
-                                "description": product.get("description"),
-                                "unitOfMeasure": product.get("unitOfMeasure"),
-                                "allowFreeDescription": product.get("allowFreeDescription"),
-                                "applyGeneralVATRate": product.get("applyGeneralVATRate"),
-                                "VATRate": 19,  # Hardcoded as per example
-                                "productUnitCost": item.get("unitPrice")  # Hardcoded as per example
-                            },
-                            "itemDescription": item.get("itemDescription"),
-                            "quantity": int(item.get("quantity", 1)),
-                            "originalUnitCost": item.get("originalUnitPrice"),
-                            "currencyCode": item.get("currencyCode", "CLP"),
-                            "parityToMainCurrency": item.get("parityToMainCurrency", 1),
-                            "costCenter": {
-                                "costCenterId": costCenterId,
-                                "name": costCentername
-                            } if costCenterId and costCentername else None,
-                            "lot": {
-                                "lot": lot.get("lot"),
-                                "expiration": lot.get("expiration")
-                            } if lot else None
-                        }
-                        transformed["items"].append(transformed_item)                    
-                    with open(f"transformed_{salesWaybillId}.json", "w", encoding="utf-8") as f:
-                        json.dump(transformed, f, ensure_ascii=False, indent=2)
-                    print(f"✅ Saved transformed file to transformed_{salesWaybillId}.json")
+
+                    items_data = data.get("items")
+
+                    if not items_data:
+                        transformed_items = None
+                    else:
+                        transformed_items = []
+                        for item in items_data:
+                            product = item.get("product", {})
+                            lot = item.get("lot", None)
+                            transformed_item = {
+                                "product": {
+                                    "sku": product.get("sku"),
+                                    "description": product.get("description"),
+                                    "unitOfMeasure": product.get("unitOfMeasure"),
+                                    "allowFreeDescription": product.get("allowFreeDescription"),
+                                    "applyGeneralVATRate": product.get("applyGeneralVATRate"),
+                                    "VATRate": 19,  # Hardcoded
+                                    "productUnitCost": item.get("unitPrice")  # Hardcoded
+                                },
+                                "itemDescription": item.get("itemDescription"),
+                                "quantity": int(item.get("quantity", 1)),
+                                "originalUnitCost": item.get("originalUnitPrice"),
+                                "currencyCode": item.get("currencyCode", "CLP"),
+                                "parityToMainCurrency": item.get("parityToMainCurrency", 1),
+                                "unitCost": item.get("unitPrice", 0),
+                                "costCenter": {
+                                    "costCenterId": costCenterId,
+                                    "name": costCentername
+                                } if costCenterId and costCentername else None,
+                                "lot": {
+                                    "lot": lot.get("lot"),
+                                    "expiration": lot.get("expiration")
+                                } if lot else None
+                            }
+                            transformed_items.append(transformed_item)                 
+                    # with open(f"transformed_{salesWaybillId}.json", "w", encoding="utf-8") as f:
+                    #     json.dump(transformed, f, ensure_ascii=False, indent=2)
+                    # print(f"✅ Saved transformed file to transformed_{salesWaybillId}.json")
 
                     return  json.dumps(transformed, ensure_ascii=False)
 
@@ -306,7 +315,7 @@ class LaudusAPIpurchase:
             if respondStatusCode == requests.codes.ok:
                 vReturn = True
                 self.credential = json.loads(request.text)
-                print("token = " + self.credential["token"])
+                # print("token = " + self.credential["token"])
                 print("expiration = " + self.credential["expiration"])
             else:
                 vReturn = False
@@ -428,7 +437,7 @@ class LaudusAPIpurchase:
             return None
 
     def createpurchaseWaybill(self, payload: str):  # Expecting payload as JSON string
-        print(f"---------------------------")
+        # print(f"---------------------------")
 
         if not self.isValidToken():
             print("Failed to get a valid token")
@@ -443,24 +452,33 @@ class LaudusAPIpurchase:
 
         try:
             response = requests.post(url, headers=headers, data=payload.encode('utf-8'))
-            print("Status Code:", response.status_code)
-            print("Response:", response.text)
+            # print("Status Code:", response.status_code)
+
+            if response.status_code == 200:
+                print("✅ success to upload")
+            elif response.status_code == 422:
+                print("same waybill already exist")
+            else:
+                print("Upload failed:", response.text)
+                return None
         except Exception as e:
             print("Request failed:", e)
+            return None
             
 if __name__ == '__main__':
     
     saleswaybill = LaudusAPIsales()
     purchasewaybill = LaudusAPIpurchase()
-    if saleswaybill.getToken():
+    if saleswaybill.getToken() and purchasewaybill.getToken():
         waybill_ids = saleswaybill.getWaybillsList()
         for wid in waybill_ids:
             payload = saleswaybill.getSalesWaybill(wid)
             if payload != None:
-                print("works")
+                # print("works")
                 # print(payload)
                 # if purchasewaybill.getToken():  
-                #         purchasewaybill.createpurchaseWaybill(payload)
+                    purchasewaybill.createpurchaseWaybill(payload)
+                        # time.sleep(10)
 
     # purchasewaybill = LaudusAPIpurchase()
     

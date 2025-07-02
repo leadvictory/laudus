@@ -1,0 +1,413 @@
+{
+  "salesWaybillId": -54021,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54021,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": null,
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-07-01T11:16:56",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 8,
+    "description": "INDEPENDENCIA",
+    "address": "CARLOS LORCA TOBAR 1080 LOCAL 3102-B",
+    "city": "SANTIAGO",
+    "county": "INDEPENDENCIA",
+    "zipCode": "",
+    "state": "METROPOLITANA",
+    "country": "CHILE"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10941027682",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-07-01T11:17:42"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-07-01T11:17:24",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "INDEPENDENCIA"
+  },
+  "items": [
+    {
+      "itemId": 447796,
+      "itemOrder": 447796,
+      "product": {
+        "productId": 12301,
+        "sku": "GA-TE-0099",
+        "description": "GASA NO TEJIDA 7.5x7.5 CM CRANBERRY (REF. AACOMP75) (CAJA 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 40.0,
+      "originalUnitPrice": 2175.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2175.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512958,
+          "fromStep": "O",
+          "fromId": 84775
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447797,
+      "itemOrder": 447797,
+      "product": {
+        "productId": 12280,
+        "sku": "GA-SA-0037",
+        "description": "GASA NO TEJIDA 10x10 CM CRANBERRY (REF. AACOMP10) (CAJA x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 2862.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2862.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512959,
+          "fromStep": "O",
+          "fromId": 84776
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447798,
+      "itemOrder": 447798,
+      "product": {
+        "productId": 4693,
+        "sku": "BL-ID-0003",
+        "description": "ORTESIS DEDO PULGAR DERECHO M BLUNDING (REF. HM-0127)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 6520.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6520.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512960,
+          "fromStep": "O",
+          "fromId": 84777
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447799,
+      "itemOrder": 447799,
+      "product": {
+        "productId": 4699,
+        "sku": "BL-ID-0004",
+        "description": "ORTESIS DEDO PULGAR IZQUIERDO M BLUNDING (REF. HM-0127)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 6520.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6520.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512961,
+          "fromStep": "O",
+          "fromId": 84778
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447800,
+      "itemOrder": 447800,
+      "product": {
+        "productId": 2443,
+        "sku": "NI-TR-0001",
+        "description": "LAPIZ NITRATO PLATA (ENVIAR BOLSA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 1450.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1450.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512962,
+          "fromStep": "O",
+          "fromId": 84779
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447801,
+      "itemOrder": 447801,
+      "product": {
+        "productId": 16352,
+        "sku": "CC-CC-0390",
+        "description": "BOLSA ORINA PIERNA 800 ML STRATTO M.D",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 766.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 766.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512963,
+          "fromStep": "O",
+          "fromId": 84780
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447802,
+      "itemOrder": 447802,
+      "product": {
+        "productId": 3941,
+        "sku": "VE-EL-0090",
+        "description": "VENDA ELASTICA N° 4 CINTELA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 17144.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 17144.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512964,
+          "fromStep": "O",
+          "fromId": 84781
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447804,
+      "itemOrder": 447804,
+      "product": {
+        "productId": 16339,
+        "sku": "CC-CC-0377",
+        "description": "MEDIA ANTIEMBOLICA TROMBIMED M BLUNDING (REF. E-701)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 4625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4625.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512966,
+          "fromStep": "O",
+          "fromId": 84783
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447805,
+      "itemOrder": 447805,
+      "product": {
+        "productId": 13196,
+        "sku": "AN-ES-0008",
+        "description": "COLCHON ANTIESCARA CON MOTOR 220V BLUNDING (REF. CA-001)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": true,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 26125.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 26125.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512967,
+          "fromStep": "O",
+          "fromId": 84784
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447806,
+      "itemOrder": 447806,
+      "product": {
+        "productId": 16453,
+        "sku": "CC-CC-0458",
+        "description": "PANTY SWING 140 PUNTA CERRADA PLAYA T5 (REF. 1408SF)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 14987.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 14987.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512968,
+          "fromStep": "O",
+          "fromId": 84785
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447807,
+      "itemOrder": 447807,
+      "product": {
+        "productId": 16461,
+        "sku": "CC-CC-0466",
+        "description": "PANTY SWING 140 PUNTA CERRADA BLACK T5 (REF. 1450SF)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 14987.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 14987.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 512969,
+          "fromStep": "O",
+          "fromId": 84786
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}
