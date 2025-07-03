@@ -1,0 +1,571 @@
+{
+  "salesWaybillId": -54046,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54046,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 3,
+    "name": "OS ÑUÑOA"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-07-02T14:20:37",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 1,
+    "description": "Ñuñoa",
+    "address": "Irarrazaval 3101",
+    "city": "SANTIAGO",
+    "county": "ÑUÑOA",
+    "zipCode": "",
+    "state": "",
+    "country": ""
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10946913646",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-07-02T14:23:17"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-07-02T14:21:12",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "ÑUÑOA"
+  },
+  "items": [
+    {
+      "itemId": 448099,
+      "itemOrder": 448099,
+      "product": {
+        "productId": 9249,
+        "sku": "TL-MI-0015",
+        "description": "CINTA PLASTICA TRANSPORE 2.5 CM 3M (REF. 1527-1) (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 36.0,
+      "originalUnitPrice": 1189.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1189.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513262,
+          "fromStep": "O",
+          "fromId": 84877
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448100,
+      "itemOrder": 448100,
+      "product": {
+        "productId": 9117,
+        "sku": "RD-BB-0002",
+        "description": "RODILLERA BAMBU M BLUNDING (REF. BBE-03)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 3860.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3860.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513263,
+          "fromStep": "O",
+          "fromId": 84878
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448101,
+      "itemOrder": 448101,
+      "product": {
+        "productId": 9119,
+        "sku": "RD-BB-0003",
+        "description": "RODILLERA BAMBU S BLUNDING (REF. BBE-03)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 3860.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3860.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513264,
+          "fromStep": "O",
+          "fromId": 84879
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448102,
+      "itemOrder": 448102,
+      "product": {
+        "productId": 11019,
+        "sku": "CD-BB-0003",
+        "description": "CODERA BAMBU S BLUNDING (REF. BBE-06)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 3325.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3325.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513265,
+          "fromStep": "O",
+          "fromId": 84880
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448103,
+      "itemOrder": 448103,
+      "product": {
+        "productId": 11017,
+        "sku": "CD-BB-0001",
+        "description": "CODERA BAMBU M BLUNDING (REF. BBE-06)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 3325.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3325.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513266,
+          "fromStep": "O",
+          "fromId": 84881
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448104,
+      "itemOrder": 448104,
+      "product": {
+        "productId": 11141,
+        "sku": "VE-NO-0005",
+        "description": "VENDA GASA 6 CM x 4 MT BIOMEDIKA (ENVIAR BOLSA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 36.0,
+      "originalUnitPrice": 377.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 377.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513267,
+          "fromStep": "O",
+          "fromId": 84882
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448105,
+      "itemOrder": 448105,
+      "product": {
+        "productId": 8361,
+        "sku": "BL-FR-0001",
+        "description": "FAJA PRE PARTO UNIVERSAL BLUNDING (REF. G-308)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 7956.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 7956.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513268,
+          "fromStep": "O",
+          "fromId": 84883
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448106,
+      "itemOrder": 448106,
+      "product": {
+        "productId": 15148,
+        "sku": "BA-EJ-0002",
+        "description": "BALON EJERCICIO CON BOMBIN 65 CM BLUNDING (REF. BB-07)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 9262.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 9262.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513269,
+          "fromStep": "O",
+          "fromId": 84884
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448107,
+      "itemOrder": 448107,
+      "product": {
+        "productId": 11833,
+        "sku": "SO-NE-0003",
+        "description": "SONDA NELATON 12",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 200.0,
+      "originalUnitPrice": 265.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 265.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513270,
+          "fromStep": "O",
+          "fromId": 84885
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448108,
+      "itemOrder": 448108,
+      "product": {
+        "productId": 11241,
+        "sku": "TO-BE-0003",
+        "description": "TOBILLERA ELASTICADA NEGRA M BIONIC (ENVIAR PAQUETE x 2 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 2526.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2526.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513271,
+          "fromStep": "O",
+          "fromId": 84886
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448109,
+      "itemOrder": 448109,
+      "product": {
+        "productId": 1208,
+        "sku": "TN-NS-0001",
+        "description": "VENDA ELASTICA ADHESIVA TENSOPLAST 10 CM x 4.5 M BSN (REF. 71547-00)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 7867.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 7867.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513272,
+          "fromStep": "O",
+          "fromId": 84887
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448110,
+      "itemOrder": 448110,
+      "product": {
+        "productId": 9127,
+        "sku": "PA-AB-0003",
+        "description": "PAÑAL ABENA SLIP L4 PREMIUM (x 18 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 29000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 29000.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513273,
+          "fromStep": "O",
+          "fromId": 84888
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448111,
+      "itemOrder": 448111,
+      "product": {
+        "productId": 10345,
+        "sku": "CO-JA-0101",
+        "description": "COJIN ABDUCCION DISPLACIA BEBE S ORTYMED",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 9067.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 9067.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513274,
+          "fromStep": "O",
+          "fromId": 84889
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448112,
+      "itemOrder": 448112,
+      "product": {
+        "productId": 11193,
+        "sku": "FI-XO-0002",
+        "description": "VENDA GASA NO TEJIDA ADHESIVA FIXOMULL STRETCH 5 CM x 10 M BSN (REF.02036-00)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 5492.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5492.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513275,
+          "fromStep": "O",
+          "fromId": 84890
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448113,
+      "itemOrder": 448113,
+      "product": {
+        "productId": 14947,
+        "sku": "AA-AA-0135",
+        "description": "VENDA GASA NO TEJIDA ADHESIVA FIXOMULL STRETCH 15 CM x 10 M BSN (REF.02038-00)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 16515.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 16515.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513276,
+          "fromStep": "O",
+          "fromId": 84891
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448114,
+      "itemOrder": 448114,
+      "product": {
+        "productId": 5017,
+        "sku": "IB-SE-0012",
+        "description": "LIGA SEGRETA 70 N.36 T03 IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 19125.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 19125.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513277,
+          "fromStep": "O",
+          "fromId": 84892
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

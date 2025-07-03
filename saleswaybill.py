@@ -236,8 +236,10 @@ class LaudusAPIsales:
                     items_data = data.get("items")
 
                     if not items_data:
+                        # print("none?")
                         transformed_items = None
                     else:
+                        # print("No")
                         transformed_items = []
                         for item in items_data:
                             product = item.get("product", {})
@@ -267,7 +269,8 @@ class LaudusAPIsales:
                                     "expiration": lot.get("expiration")
                                 } if lot else None
                             }
-                            transformed_items.append(transformed_item)                 
+                            # print(transformed_item)
+                            transformed["items"].append(transformed_item)                
                     # with open(f"transformed_{salesWaybillId}.json", "w", encoding="utf-8") as f:
                     #     json.dump(transformed, f, ensure_ascii=False, indent=2)
                     # print(f"✅ Saved transformed file to transformed_{salesWaybillId}.json")

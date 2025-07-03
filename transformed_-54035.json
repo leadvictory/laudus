@@ -1,0 +1,376 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54035,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "002",
+    "name": "VICUÑA"
+  },
+  "issuedDate": "2025-07-02T11:35:31",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "SO-NE-0004",
+        "description": "SONDA NELATON 14",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 265.0
+      },
+      "itemDescription": "",
+      "quantity": 200,
+      "originalUnitCost": 265.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 265.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "SO-NE-0006",
+        "description": "SONDA NELATON 18",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 265.0
+      },
+      "itemDescription": "",
+      "quantity": 100,
+      "originalUnitCost": 265.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 265.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "LE-UK-0090",
+        "description": "ADHESIVO TOPICO PIEL LEUKOSAN ADHESIVE 0.7 ML BSN (REF. 72541-04) (ENVIAR x 2 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 14438.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 14438.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 14438.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-IH-0005",
+        "description": "INMOVILIZADOR HOMBRO L BLUNDING (REF. HM-0131)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6375.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 6375.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 6375.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BO-UR-0098",
+        "description": "BOLSA UROSTOMIA SURFIT NATURA 57 MM TRANSPARENTE CONVATEC (REF. 401545) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2865.0
+      },
+      "itemDescription": "",
+      "quantity": 40,
+      "originalUnitCost": 2865.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 2865.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "LI-JO-0009",
+        "description": "LIGA ULTRASHEER 15-20 PUNTA CERRADA HONEY L JOBST (REF. 75171-15)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 24497.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 24497.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 24497.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "ZA-DI-0904",
+        "description": "ZAPATO DESCARGA ANTEPIE ABIERTO L BLUNDING (REF. MI-18)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 13755.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 13755.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 13755.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0092",
+        "description": "CANULA YANKAUER HANDLE WELLEAD",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 750.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 750.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 750.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "RE-MO-0003",
+        "description": "WIPES REMOVEDOR ADHESIVOS SMITH&NEPHEW (REF. 59403125) (CAJA x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 13125.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 13125.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 13125.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "IB-SE-0002",
+        "description": "LIGA SEGRETA 140 N.36 T02 IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 21469.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 21469.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 21469.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "IB-LG-0003",
+        "description": "LIGA SEGRETA 140 C.21 T03 IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 21469.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 21469.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 21469.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "IB-PT-0001",
+        "description": "PANTY SEGRETA 140 C.23 T01 IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 20391.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 20391.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 20391.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "IB-SE-0044",
+        "description": "PANTY SEGRETA 140 N.36 T05 IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 21469.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 21469.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 21469.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "IB-RE-0008",
+        "description": "CALCETA REPOMEN NEGRO S IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 11906.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 11906.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 11906.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "IB-RE-0015",
+        "description": "CALCETA REPOMEN ECRU S IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 11906.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 11906.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 11906.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "IB-RE-0010",
+        "description": "CALCETA REPOMEN BLUE S IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 11906.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 11906.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 11906.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "salesWaybillId": -54031,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54031,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 5,
+    "name": "OS QUILIN"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-07-02T11:08:30",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 4,
+    "description": "Mall Quilin",
+    "address": "Mar Tirreno 3349 Local 1069",
+    "city": "SANTIAGO",
+    "county": "PEÑALOLEN",
+    "zipCode": "",
+    "state": "",
+    "country": ""
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10945840832",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-07-02T14:30:45"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-07-02T11:09:04",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "MALL QUILIN"
+  },
+  "items": [
+    {
+      "itemId": 447855,
+      "itemOrder": 447855,
+      "product": {
+        "productId": 13464,
+        "sku": "BO-OL-0005",
+        "description": "BOLSA OLOR DIAMONDS CONVATEC (REF. TR105) (x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 27250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 27250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513021,
+          "fromStep": "O",
+          "fromId": 85107
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447856,
+      "itemOrder": 447856,
+      "product": {
+        "productId": 9481,
+        "sku": "ES-CA-0002",
+        "description": "ESCABEL 1 PELDAÑO",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": true,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 11875.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 11875.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513022,
+          "fromStep": "O",
+          "fromId": 85108
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447857,
+      "itemOrder": 447857,
+      "product": {
+        "productId": 16339,
+        "sku": "CC-CC-0377",
+        "description": "MEDIA ANTIEMBOLICA TROMBIMED M BLUNDING (REF. E-701)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 4625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4625.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513023,
+          "fromStep": "O",
+          "fromId": 85109
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447858,
+      "itemOrder": 447858,
+      "product": {
+        "productId": 16250,
+        "sku": "CC-CC-0313",
+        "description": "MEDIA ANTIEMBOLICA TROMBIMED L BLUNDING (REF. E-701)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 4625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4625.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513024,
+          "fromStep": "O",
+          "fromId": 85110
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447859,
+      "itemOrder": 447859,
+      "product": {
+        "productId": 1793,
+        "sku": "SE-UN-0003",
+        "description": "SEPARADOR UNIVERSAL GEL S LENOX (REF. 8016)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 670.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 670.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513025,
+          "fromStep": "O",
+          "fromId": 85111
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447860,
+      "itemOrder": 447860,
+      "product": {
+        "productId": 3145,
+        "sku": "AL-TO-0003",
+        "description": "TORULAS ALGODON CHICA CRANBERRY (REF. AATOAL05) (BOLSA 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 675.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 675.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513026,
+          "fromStep": "O",
+          "fromId": 85112
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447861,
+      "itemOrder": 447861,
+      "product": {
+        "productId": 3917,
+        "sku": "SU-EC-0004",
+        "description": "CLORURO DE SODIO 0.9% 1 LT BBRAUN (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitPrice": 1455.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1455.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513027,
+          "fromStep": "O",
+          "fromId": 85113
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447862,
+      "itemOrder": 447862,
+      "product": {
+        "productId": 8545,
+        "sku": "PA-AB-0005",
+        "description": "PAÑAL ABENA SLIP M4 PREMIUM (x 21 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 26731.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 26731.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513028,
+          "fromStep": "O",
+          "fromId": 85114
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447863,
+      "itemOrder": 447863,
+      "product": {
+        "productId": 2421,
+        "sku": "PA-NA-0010",
+        "description": "APOSITO BLU L (x 20 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 14.0,
+      "originalUnitPrice": 1730.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1730.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513029,
+          "fromStep": "O",
+          "fromId": 85115
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447864,
+      "itemOrder": 447864,
+      "product": {
+        "productId": 15923,
+        "sku": "CC-CC-0146",
+        "description": "COLLAR CERVICAL MIAMI OSSUR BLUNDING (REF. MJS-101)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 77187.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 77187.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513030,
+          "fromStep": "O",
+          "fromId": 85116
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447865,
+      "itemOrder": 447865,
+      "product": {
+        "productId": 13935,
+        "sku": "CO-PO-0001",
+        "description": "CORRECTOR POSTURA INTELIGENTE CON SENSOR BLUNDING (REF. BEQ-17)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 10331.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10331.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513031,
+          "fromStep": "O",
+          "fromId": 85117
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447867,
+      "itemOrder": 447867,
+      "product": {
+        "productId": 3587,
+        "sku": "CA-JO-0007",
+        "description": "CALCETA ULTRASHEER 15-20 PUNTA CERRADA HONEY M JOBST (REF. 75166-21)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 13316.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 13316.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513033,
+          "fromStep": "O",
+          "fromId": 85119
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447869,
+      "itemOrder": 447869,
+      "product": {
+        "productId": 15093,
+        "sku": "AA-AA-0267",
+        "description": "PLANTILLA ANTI STRESS RECORTABLE HOMBRE PROFOOT (REF. 22400)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 7159.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 7159.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513035,
+          "fromStep": "O",
+          "fromId": 85121
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

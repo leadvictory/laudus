@@ -1,0 +1,398 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54039,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "003",
+    "name": "PUENTE ALTO"
+  },
+  "issuedDate": "2025-07-02T11:41:08",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "PR-BU-0010",
+        "description": "PROTECTOR BUCAL ANTI RONQUIDOS",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3630.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 3630.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 3630.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BI-ST-0041",
+        "description": "HOJA BISTURI ACERO INOXIDABLE N° 10 (CAJA x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6250.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 6250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 6250.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BI-ST-0040",
+        "description": "HOJA BISTURI ACERO INOXIDABLE N° 11 (CAJA x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6250.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 6250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 6250.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AL-UN-0008",
+        "description": "ALICATE RECTO ACERO 14 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6250.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 6250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 6250.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AL-UN-0010",
+        "description": "ALICATE RECTO ACERO 12 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6000.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 6000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 6000.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AL-CU-0205",
+        "description": "ALICATE UÑAS RECTO ACERO 11 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5125.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 5125.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 5125.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AL-GU-0001",
+        "description": "ALICATE GUSANO CURVO ACERO 14 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5625.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 5625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 5625.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0731",
+        "description": "CLORURO DE SODIO 0,9% 5 ML VITAFARMA (ENVIAR CAJA x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 220.0
+      },
+      "itemDescription": "",
+      "quantity": 300,
+      "originalUnitCost": 220.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 220.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-RL-0062",
+        "description": "RODILLERA ESTABILIZADORA S BLUNDING (REF. MI-044)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 16031.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 16031.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 16031.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-RL-0063",
+        "description": "RODILLERA ESTABILIZADORA L BLUNDING (REF. MI-044)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 16031.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 16031.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 16031.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-RS-0011",
+        "description": "RODILLERA CON ORIFICIO ROTULIANO L BLUNDING (MI-54)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 8669.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 8669.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 8669.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-RE-0005",
+        "description": "RODILLERA POLICENTRICA L BLUNDING (REF. MI-47)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 16495.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 16495.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 16495.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-RE-0004",
+        "description": "RODILLERA ESTABILIZADORA SPORT XL BLUNDING (REF. MI-62)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10569.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 10569.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 10569.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-RE-0001",
+        "description": "RODILLERA ESTABILIZADORA SPORT L BLUNDING (REF. MI-62)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10569.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 10569.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 10569.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "MU-IN-0058",
+        "description": "INMOVILIZADOR MUÑECA S BLUNDING (REF. HM-116)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6531.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 6531.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 6531.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "MU-IN-0056",
+        "description": "INMOVILIZADOR MUÑECA M BLUNDING (REF. HM-116)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6531.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 6531.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 6531.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-KH-0004",
+        "description": "INMOVILIZADOR HOMBRO PEDIATRICO VERDE 12-14 BLUNDING (REF. BK-07)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6639.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 6639.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 6639.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    }
+  ]
+}

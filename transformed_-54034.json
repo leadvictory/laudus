@@ -1,0 +1,332 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54034,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "002",
+    "name": "VICUÑA"
+  },
+  "issuedDate": "2025-07-02T11:34:17",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "UR-SC-0045",
+        "description": "APOSITO URGO CLEAN 10x10 CM URGO (REF. 506446) (ENVIAR x 5 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5829.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 5829.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 5829.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PL-CA-0022",
+        "description": "PLACA FLEXIBLE STOMAHESIVE SURFIT NATURA 57 MM OPACA CONVATEC (REF. 125265) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3348.0
+      },
+      "itemDescription": "",
+      "quantity": 50,
+      "originalUnitCost": 3348.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 3348.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CO-JA-0101",
+        "description": "COJIN ABDUCCION DISPLACIA BEBE S ORTYMED",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 9067.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 9067.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 9067.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AS-KI-0001",
+        "description": "SPRAY BARRERA FILM ASKINA 28 ML BBRAUN (REF. 5036)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10750.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 10750.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 10750.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-1013",
+        "description": "BOTA ORTOPEDICA PREMIUM L BLUNDING (REF. MI-150)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 20000.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 20000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 20000.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BO-TA-0004",
+        "description": "BOTA ORTOPEDICA LARGA L CRANBERRY",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 13055.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 13055.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 13055.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0217",
+        "description": "SPRAY SKIN BARRIER ESENTA 28 ML CONVATEC (REF. 423286)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 7848.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 7848.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 7848.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "UL-KT-0397",
+        "description": "CALCETA ULCERCARE 40 IZQUIERDA BEIGE L JOBST (REF. 73631-03)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 47872.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 47872.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 47872.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-FA-0001",
+        "description": "FAJA ABDOMINAL 4 BANDAS CON PROTECCION L BLUNDING (REF. TA-413)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 12113.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 12113.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 12113.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BA-DI-0090",
+        "description": "PESA ANALOGA PERSONENWAAGE BEN KORONA (REF. 76640)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 15339.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 15339.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 15339.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TO-AL-0006",
+        "description": "TOALLA JABONOSA BEGOBAÑO TEXPOL (x 24 UNIDADES)(ENVIAR MASTER x 25 BOLSAS)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2092.0
+      },
+      "itemDescription": "",
+      "quantity": 25,
+      "originalUnitCost": 2092.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 2092.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PL-DU-0001",
+        "description": "PLACA CONVEXA DURAHESIVE SURFIT NATURA 57 MM (41 MM) CONVATEC (REF. 413186) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4095.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 4095.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 4095.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "SA-BA-0017",
+        "description": "SABANILLA PAPEL 50 MT (ENVIAR PAQUETE x 2 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2313.0
+      },
+      "itemDescription": "",
+      "quantity": 30,
+      "originalUnitCost": 2313.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 2313.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "SE-DE-5000",
+        "description": "SEPARADOR 5 DEDOS FOOTCARE (REF. BS83)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2487.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 2487.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 2487.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    }
+  ]
+}

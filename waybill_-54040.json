@@ -1,0 +1,537 @@
+{
+  "salesWaybillId": -54040,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54040,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 4,
+    "name": "OS PUENTE"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": null,
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-07-02T11:41:57",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 3,
+    "description": "Puente Alto",
+    "address": "Paseo Manuel Rodriguez 46 local 42",
+    "city": "SANTIAGO",
+    "county": "Puente Alto",
+    "zipCode": "",
+    "state": "",
+    "country": "CHILE"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10946044896",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-07-02T14:27:18"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-07-02T11:42:49",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "PUENTE ALTO"
+  },
+  "items": [
+    {
+      "itemId": 447993,
+      "itemOrder": 447993,
+      "product": {
+        "productId": 11669,
+        "sku": "SE-HU-0001",
+        "description": "CREMA HIDRATANTE DERMICA 500 GR SENIOR CARE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 4935.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4935.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513156,
+          "fromStep": "O",
+          "fromId": 85016
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447994,
+      "itemOrder": 447994,
+      "product": {
+        "productId": 15578,
+        "sku": "AA-AA-0402",
+        "description": "SOLUCION LAVADO HERIDAS VASHE 250 ML URGO (REF. 00313)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 22443.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 22443.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513157,
+          "fromStep": "O",
+          "fromId": 85017
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447996,
+      "itemOrder": 447996,
+      "product": {
+        "productId": 9313,
+        "sku": "BL-OH-0002",
+        "description": "ORTESIS ESTABILIZADORA DE HOMBRO IZQUIERDA L BLUNDING (REF. HM-132)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 15438.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 15438.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513159,
+          "fromStep": "O",
+          "fromId": 85019
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447997,
+      "itemOrder": 447997,
+      "product": {
+        "productId": 1275,
+        "sku": "AP-SI-0054",
+        "description": "APOSITO ABD PAD 20x25 CM GHC (REF. ABD- 810S) (ENVIAR CAJA x 24 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 120.0,
+      "originalUnitPrice": 349.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 349.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513160,
+          "fromStep": "O",
+          "fromId": 85020
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447998,
+      "itemOrder": 447998,
+      "product": {
+        "productId": 13833,
+        "sku": "CU-MU-0001",
+        "description": "CUÑA DESCANSO 40x452X8 CM MAHYCAS",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 15000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 15000.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513161,
+          "fromStep": "O",
+          "fromId": 85021
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447999,
+      "itemOrder": 447999,
+      "product": {
+        "productId": 16749,
+        "sku": "CC-CC-0719",
+        "description": "VENDA GASA ELASTICADA 10 CM x 4 M CRANBERRY (REF. AAVEGA03) (ENVIAR CAJA x 20 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 80.0,
+      "originalUnitPrice": 225.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 225.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513162,
+          "fromStep": "O",
+          "fromId": 85022
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448001,
+      "itemOrder": 448001,
+      "product": {
+        "productId": 9271,
+        "sku": "PA-AB-0004",
+        "description": "PAÑAL ABENA SLIP S4 PREMIUM (x 25 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 21531.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 21531.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513164,
+          "fromStep": "O",
+          "fromId": 85024
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448002,
+      "itemOrder": 448002,
+      "product": {
+        "productId": 16598,
+        "sku": "CC-CC-0593",
+        "description": "PANTUFLAS VISCOELASTICAS THERAFLY L THERAMART (TM 1102-L)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 10136.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10136.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513165,
+          "fromStep": "O",
+          "fromId": 85025
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448003,
+      "itemOrder": 448003,
+      "product": {
+        "productId": 16599,
+        "sku": "CC-CC-0594",
+        "description": "PANTUFLAS VISCOELASTICAS THERAFLY M THERAMART (TM 1102-M)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 10136.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10136.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513166,
+          "fromStep": "O",
+          "fromId": 85026
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448004,
+      "itemOrder": 448004,
+      "product": {
+        "productId": 16681,
+        "sku": "CC-CC-0659",
+        "description": "PANTUFLAS VISCOELASTICAS THERAFLY S THERAMART (TM 1102-S)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 10136.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10136.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513167,
+          "fromStep": "O",
+          "fromId": 85027
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448005,
+      "itemOrder": 448005,
+      "product": {
+        "productId": 16867,
+        "sku": "CC-CC-0837",
+        "description": "PANTUFLAS VISCOELASTICAS THERAFLY XS THERAMART (TM 1102-XS)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 10136.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10136.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513168,
+          "fromStep": "O",
+          "fromId": 85028
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448006,
+      "itemOrder": 448006,
+      "product": {
+        "productId": 7703,
+        "sku": "JO-BS-0002",
+        "description": "LIGA FOR MEN 20-30 NEGRO M JOBST (REF. 78028-12)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 31020.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 31020.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513169,
+          "fromStep": "O",
+          "fromId": 85029
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448007,
+      "itemOrder": 448007,
+      "product": {
+        "productId": 14734,
+        "sku": "BO-UR-0090",
+        "description": "BOLSA UROSTOMIA 60 MM TRANSPARENTE BBRAUN (REF. 73560A) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 4450.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4450.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513170,
+          "fromStep": "O",
+          "fromId": 85030
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448008,
+      "itemOrder": 448008,
+      "product": {
+        "productId": 14647,
+        "sku": "BO-CO-0098",
+        "description": "PLACA CONVEXA DURAHESIVE SURFIT NATURA 45 MM (28 MM) CONVATEC (REF. 413182) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 4095.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4095.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513171,
+          "fromStep": "O",
+          "fromId": 85031
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448010,
+      "itemOrder": 448010,
+      "product": {
+        "productId": 2409,
+        "sku": "TP-AM-0001",
+        "description": "TAPA OBTURACION CATETER AMARILLA HEPARINIZADA KDL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 50.0,
+      "originalUnitPrice": 67.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 67.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513173,
+          "fromStep": "O",
+          "fromId": 85033
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

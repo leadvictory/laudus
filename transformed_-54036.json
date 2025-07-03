@@ -1,0 +1,332 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54036,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "002",
+    "name": "VICUÑA"
+  },
+  "issuedDate": "2025-07-02T11:36:28",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "FA-JZ-0003",
+        "description": "FAJA ABDOMINAL 3 BANDAS BEIGE L",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4250.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 4250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 4250.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "FA-JZ-0004",
+        "description": "FAJA ABDOMINAL 3 BANDAS BEIGE XL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4250.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 4250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 4250.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-TO-0002",
+        "description": "TOBILLERA ESTABILIZADORA CON BARRAS LATERALES M BLUNDING (REF. MI-123)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 17801.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 17801.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 17801.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AL-IM-0007",
+        "description": "SUPLEMENTO ALIMENTARIO VAINILLA 900 GR VIVALITE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 15262.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 15262.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 15262.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "VI-FB-0001",
+        "description": "SUPLEMENTO ALIMENTARIO FRESA BANANA 900 GR VIVALITE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 15262.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 15262.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 15262.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PL-CA-0002",
+        "description": "PLANTILLA CANELA N° 37",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3362.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 3362.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 3362.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PA-NA-0989",
+        "description": "SABANILLA MATI SUPER ULTRA 60x90 CM NATEEN (x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3962.0
+      },
+      "itemDescription": "",
+      "quantity": 16,
+      "originalUnitCost": 3962.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 3962.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-MO-0003",
+        "description": "MUÑEQUERA ORTOPEDICA CON FERULA DERECHA M BLUNDING (REF. HM-117)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5818.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 5818.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 5818.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-MO-0005",
+        "description": "MUÑEQUERA ORTOPEDICA CON FERULA DERECHA S BLUNDING (REF. HM-117)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5818.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 5818.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 5818.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-MO-0006",
+        "description": "MUÑEQUERA ORTOPEDICA CON FERULA IZQUIERDA S BLUNDING (REF. HM-117)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5818.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 5818.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 5818.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-MO-0004",
+        "description": "MUÑEQUERA ORTOPEDICA CON FERULA IZQUIERDA M BLUNDING (REF. HM-117)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5818.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 5818.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 5818.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-IT-0001",
+        "description": "ORTESIS TUNEL CARPIANO UNIVERSAL BLUNDING (REF. HM-0114)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 7006.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 7006.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 7006.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0404",
+        "description": "ORTESIS MUÑECA CON FERULA PALMAR DORSAL DERECHA M BLUNDING (REF. HM-171)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 7224.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 7224.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 7224.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0403",
+        "description": "ORTESIS MUÑECA CON FERULA PALMAR DORSAL DERECHA S BLUNDING (REF. HM-171)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 7224.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 7224.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 7224.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "salesWaybillId": -54045,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54045,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 3,
+    "name": "OS ÑUÑOA"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-07-02T14:19:25",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 1,
+    "description": "Ñuñoa",
+    "address": "Irarrazaval 3101",
+    "city": "SANTIAGO",
+    "county": "ÑUÑOA",
+    "zipCode": "",
+    "state": "",
+    "country": ""
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10946910392",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-07-02T14:24:07"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-07-02T14:20:25",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "ÑUÑOA"
+  },
+  "items": [
+    {
+      "itemId": 448081,
+      "itemOrder": 448081,
+      "product": {
+        "productId": 14689,
+        "sku": "PL-NA-0004",
+        "description": "PLACA FLEXIBLE STOMAHESIVE SURFIT NATURA 70 MM OPACA CONVATEC (REF. 125266) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 30.0,
+      "originalUnitPrice": 3348.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3348.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513244,
+          "fromStep": "O",
+          "fromId": 84893
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448082,
+      "itemOrder": 448082,
+      "product": {
+        "productId": 15173,
+        "sku": "BL-KM-0014",
+        "description": "MUÑEQUERA INMOVILIZADORA PEDIATRICA DERECHA ROJO 8-10 BLUNDING (REF. BK-10)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 5166.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5166.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513245,
+          "fromStep": "O",
+          "fromId": 84894
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448083,
+      "itemOrder": 448083,
+      "product": {
+        "productId": 10531,
+        "sku": "AE-RO-0032",
+        "description": "AEROCAMARA UNIVERSAL MINTLAB",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 2013.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2013.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513246,
+          "fromStep": "O",
+          "fromId": 84895
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448084,
+      "itemOrder": 448084,
+      "product": {
+        "productId": 15074,
+        "sku": "AA-AA-0248",
+        "description": "TOMA PRESION ANALOGO BOKANG (REF. BK2001-3001)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 9375.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 9375.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513247,
+          "fromStep": "O",
+          "fromId": 84896
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448085,
+      "itemOrder": 448085,
+      "product": {
+        "productId": 12585,
+        "sku": "AL-TO-0015",
+        "description": "TORULA GASA 3 CM RADIOPACO AMCOR (x 3 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 18.0,
+      "originalUnitPrice": 224.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 224.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513248,
+          "fromStep": "O",
+          "fromId": 84897
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448086,
+      "itemOrder": 448086,
+      "product": {
+        "productId": 16262,
+        "sku": "CC-CC-0320",
+        "description": "APOSITO ESPUMA RTD 10x10 CM KENERIC (REF.RTD76040414) (ENVIAR x 5 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 9875.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 9875.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513249,
+          "fromStep": "O",
+          "fromId": 84898
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448087,
+      "itemOrder": 448087,
+      "product": {
+        "productId": 13852,
+        "sku": "KI-GU-0001",
+        "description": "KIT GLUCOMETRO + 50 TIRAS +  50 LANCETAS SINOCARE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 22500.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 22500.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513250,
+          "fromStep": "O",
+          "fromId": 84899
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448088,
+      "itemOrder": 448088,
+      "product": {
+        "productId": 774,
+        "sku": "PA-NA-0992",
+        "description": "PAÑAL NATEEN COMBI ULTRA XL (x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 12662.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 12662.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513251,
+          "fromStep": "O",
+          "fromId": 84900
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448091,
+      "itemOrder": 448091,
+      "product": {
+        "productId": 15815,
+        "sku": "CC-CC-0068",
+        "description": "BAÑO PORTATIL PLEGABLE STRATTO M.D",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": true,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 34605.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 34605.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513254,
+          "fromStep": "O",
+          "fromId": 84903
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448092,
+      "itemOrder": 448092,
+      "product": {
+        "productId": 11231,
+        "sku": "BA-SU-0005",
+        "description": "REGULADOR DE GOTEO KDL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitPrice": 838.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 838.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513255,
+          "fromStep": "O",
+          "fromId": 84904
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448094,
+      "itemOrder": 448094,
+      "product": {
+        "productId": 15491,
+        "sku": "AA-AA-0321",
+        "description": "APOSITO ADHESIVO TRANSPARENTE 10x12 CM CRANBERRY (REF. AAAPTRA1) (ENVIAR CAJA x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 100.0,
+      "originalUnitPrice": 201.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 201.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513257,
+          "fromStep": "O",
+          "fromId": 84906
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448095,
+      "itemOrder": 448095,
+      "product": {
+        "productId": 14649,
+        "sku": "BO-CR-0302",
+        "description": "BOLSA UROSTOMIA ACTIVELIFE 19-45 MM TRANSPARENTE CONVATEC (REF. 64927) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 5729.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5729.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513258,
+          "fromStep": "O",
+          "fromId": 84907
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448096,
+      "itemOrder": 448096,
+      "product": {
+        "productId": 8187,
+        "sku": "PA-NA-0991",
+        "description": "PAÑAL NATEEN COMBI ULTRA L (x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 11438.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 11438.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513259,
+          "fromStep": "O",
+          "fromId": 84908
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448097,
+      "itemOrder": 448097,
+      "product": {
+        "productId": 13211,
+        "sku": "PA-BA-0018",
+        "description": "PAÑAL DELTAFORM XL2 (x 15 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": true,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 15862.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 15862.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513260,
+          "fromStep": "O",
+          "fromId": 84909
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

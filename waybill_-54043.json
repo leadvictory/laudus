@@ -1,0 +1,571 @@
+{
+  "salesWaybillId": -54043,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54043,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 3,
+    "name": "OS ÑUÑOA"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-07-02T14:16:24",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 1,
+    "description": "Ñuñoa",
+    "address": "Irarrazaval 3101",
+    "city": "SANTIAGO",
+    "county": "ÑUÑOA",
+    "zipCode": "",
+    "state": "",
+    "country": ""
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10946898798",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-07-02T14:26:07"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-07-02T14:17:56",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "ÑUÑOA"
+  },
+  "items": [
+    {
+      "itemId": 448048,
+      "itemOrder": 448048,
+      "product": {
+        "productId": 9281,
+        "sku": "PA-AB-0016",
+        "description": "PAÑAL ADULTO DELTAFORM L2 (x 20 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 17869.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 17869.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513211,
+          "fromStep": "O",
+          "fromId": 84963
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448049,
+      "itemOrder": 448049,
+      "product": {
+        "productId": 15713,
+        "sku": "PA-AB-0049",
+        "description": "PAÑAL ABENA PANTS M3 PREMIUM (x 15 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 23050.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 23050.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513212,
+          "fromStep": "O",
+          "fromId": 84964
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448050,
+      "itemOrder": 448050,
+      "product": {
+        "productId": 4689,
+        "sku": "AL-IM-0005",
+        "description": "ESPESANTE THICKENER PLUS 300 GR VIVALITE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 7250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 7250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513213,
+          "fromStep": "O",
+          "fromId": 84965
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448051,
+      "itemOrder": 448051,
+      "product": {
+        "productId": 5365,
+        "sku": "AL-IM-0014",
+        "description": "MODULO CALORICO ENERGY 500 GR VIVALITE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 4703.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4703.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513214,
+          "fromStep": "O",
+          "fromId": 84966
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448052,
+      "itemOrder": 448052,
+      "product": {
+        "productId": 12156,
+        "sku": "AL-IM-0007",
+        "description": "SUPLEMENTO ALIMENTARIO VAINILLA 900 GR VIVALITE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 15262.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 15262.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513215,
+          "fromStep": "O",
+          "fromId": 84967
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448053,
+      "itemOrder": 448053,
+      "product": {
+        "productId": 14693,
+        "sku": "BO-CR-0002",
+        "description": "BOLSA DRENABLE RECORTABLE CON BARRERA STOMAHESIVE ACTIVE LIFE 19-64 MM TRANSPARENTE CONVATEC (REF. 125371) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 30.0,
+      "originalUnitPrice": 3308.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3308.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513216,
+          "fromStep": "O",
+          "fromId": 84968
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448054,
+      "itemOrder": 448054,
+      "product": {
+        "productId": 1275,
+        "sku": "AP-SI-0054",
+        "description": "APOSITO ABD PAD 20x25 CM GHC (REF. ABD- 810S) (ENVIAR CAJA x 24 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 48.0,
+      "originalUnitPrice": 349.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 349.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513217,
+          "fromStep": "O",
+          "fromId": 84969
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448055,
+      "itemOrder": 448055,
+      "product": {
+        "productId": 15995,
+        "sku": "CC-CC-0195",
+        "description": "GASA NO ESTERIL EN GALLETA 5x5 CM CRANBERRY (REF. AACOGA22) (x 200 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 1099.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1099.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513218,
+          "fromStep": "O",
+          "fromId": 84970
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448056,
+      "itemOrder": 448056,
+      "product": {
+        "productId": 16355,
+        "sku": "CC-CC-0393",
+        "description": "BOLSA ORINA CAMA 2 L STRATTO M.D",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 30.0,
+      "originalUnitPrice": 966.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 966.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513219,
+          "fromStep": "O",
+          "fromId": 84971
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448058,
+      "itemOrder": 448058,
+      "product": {
+        "productId": 3245,
+        "sku": "JE-RI-0004",
+        "description": "JERINGA ALIMENTACION 60 ML PUNTA CATETER CRANBERRY (REF. AAJECR61) (ENVIAR CAJA x 25 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 25.0,
+      "originalUnitPrice": 197.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 197.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513221,
+          "fromStep": "O",
+          "fromId": 84974
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448059,
+      "itemOrder": 448059,
+      "product": {
+        "productId": 3861,
+        "sku": "AP-SI-0005",
+        "description": "APOSITO GASA NATURAL 40x40 CM CRANBERRY (REF. AAAP4040)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 40.0,
+      "originalUnitPrice": 1080.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1080.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513222,
+          "fromStep": "O",
+          "fromId": 84975
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448060,
+      "itemOrder": 448060,
+      "product": {
+        "productId": 9125,
+        "sku": "UR-GO-0080",
+        "description": "APOSITO INTERFASE PLATA URGO TUL AG/SILVER 10x12 CM URGO (REF. 508393) (ENVIAR CAJA x 16 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 16.0,
+      "originalUnitPrice": 6601.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6601.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513223,
+          "fromStep": "O",
+          "fromId": 84976
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448061,
+      "itemOrder": 448061,
+      "product": {
+        "productId": 10969,
+        "sku": "KT-CJ-0801",
+        "description": "TAPE KINESIOLOGICO BEIGE 5 CM x 5 M NASARA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 4413.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4413.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513224,
+          "fromStep": "O",
+          "fromId": 84977
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448062,
+      "itemOrder": 448062,
+      "product": {
+        "productId": 10989,
+        "sku": "KT-CJ-0010",
+        "description": "TAPE KINESIOLOGICO NEGRO 5 CM x 5 M NASARA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 4400.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4400.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513225,
+          "fromStep": "O",
+          "fromId": 84978
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448063,
+      "itemOrder": 448063,
+      "product": {
+        "productId": 13253,
+        "sku": "PA-TO-0008",
+        "description": "URINARIO FEMENINO PIEZ (REF. 98192)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 689.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 689.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513226,
+          "fromStep": "O",
+          "fromId": 84979
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448065,
+      "itemOrder": 448065,
+      "product": {
+        "productId": 1200,
+        "sku": "PE-LO-0007",
+        "description": "PELOTA TERAPIA MANO (REF. 20830) (ENVIAR BOLSA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitPrice": 233.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 233.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513228,
+          "fromStep": "O",
+          "fromId": 84981
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54045,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "004",
+    "name": "ÑUÑOA"
+  },
+  "issuedDate": "2025-07-02T14:19:25",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "PL-NA-0004",
+        "description": "PLACA FLEXIBLE STOMAHESIVE SURFIT NATURA 70 MM OPACA CONVATEC (REF. 125266) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3348.0
+      },
+      "itemDescription": "",
+      "quantity": 30,
+      "originalUnitCost": 3348.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 3348.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-KM-0014",
+        "description": "MUÑEQUERA INMOVILIZADORA PEDIATRICA DERECHA ROJO 8-10 BLUNDING (REF. BK-10)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5166.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 5166.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 5166.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AE-RO-0032",
+        "description": "AEROCAMARA UNIVERSAL MINTLAB",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2013.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 2013.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 2013.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0248",
+        "description": "TOMA PRESION ANALOGO BOKANG (REF. BK2001-3001)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 9375.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 9375.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 9375.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AL-TO-0015",
+        "description": "TORULA GASA 3 CM RADIOPACO AMCOR (x 3 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 224.0
+      },
+      "itemDescription": "",
+      "quantity": 18,
+      "originalUnitCost": 224.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 224.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0320",
+        "description": "APOSITO ESPUMA RTD 10x10 CM KENERIC (REF.RTD76040414) (ENVIAR x 5 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 9875.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 9875.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 9875.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "KI-GU-0001",
+        "description": "KIT GLUCOMETRO + 50 TIRAS +  50 LANCETAS SINOCARE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 22500.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 22500.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 22500.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PA-NA-0992",
+        "description": "PAÑAL NATEEN COMBI ULTRA XL (x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 12662.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 12662.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 12662.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0068",
+        "description": "BAÑO PORTATIL PLEGABLE STRATTO M.D",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": true,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 34605.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 34605.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 34605.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BA-SU-0005",
+        "description": "REGULADOR DE GOTEO KDL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 838.0
+      },
+      "itemDescription": "",
+      "quantity": 12,
+      "originalUnitCost": 838.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 838.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0321",
+        "description": "APOSITO ADHESIVO TRANSPARENTE 10x12 CM CRANBERRY (REF. AAAPTRA1) (ENVIAR CAJA x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 201.0
+      },
+      "itemDescription": "",
+      "quantity": 100,
+      "originalUnitCost": 201.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 201.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BO-CR-0302",
+        "description": "BOLSA UROSTOMIA ACTIVELIFE 19-45 MM TRANSPARENTE CONVATEC (REF. 64927) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5729.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 5729.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 5729.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PA-NA-0991",
+        "description": "PAÑAL NATEEN COMBI ULTRA L (x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 11438.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 11438.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 11438.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PA-BA-0018",
+        "description": "PAÑAL DELTAFORM XL2 (x 15 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 15862.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 15862.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 15862.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    }
+  ]
+}

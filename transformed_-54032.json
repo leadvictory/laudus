@@ -1,0 +1,156 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54032,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "MALL QUILIN"
+  },
+  "issuedDate": "2025-07-02T11:09:23",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "AG-OX-0001",
+        "description": "AGUA OXIGENADA SOLUCION VOLUMEN 10 1 LT DIFEMCARE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1934.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 1934.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 1934.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0337",
+        "description": "TOMA PRESION DIGITAL DE BRAZO OMRON (REF. HEM-7142)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 37806.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 37806.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 37806.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0249",
+        "description": "SABANILLA PREPICADA ADVANCE 48 MT TORK (REF. RO55014) (ENVIAR PAQUETE x 2 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2640.0
+      },
+      "itemDescription": "",
+      "quantity": 8,
+      "originalUnitCost": 2640.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 2640.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "KI-GU-0001",
+        "description": "KIT GLUCOMETRO + 50 TIRAS +  50 LANCETAS SINOCARE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 22500.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 22500.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 22500.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "FR-AS-0001",
+        "description": "FRASCO EXAMEN ORINA 150 ML",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 306.0
+      },
+      "itemDescription": "",
+      "quantity": 15,
+      "originalUnitCost": 306.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 306.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CL-OR-0003",
+        "description": "JABON LIQUIDO DICHLOREXAN 2% 340 ML DIFEMPHARMA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5018.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 5018.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 5018.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    }
+  ]
+}

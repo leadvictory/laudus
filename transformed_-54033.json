@@ -1,0 +1,376 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54033,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "002",
+    "name": "VICUÑA"
+  },
+  "issuedDate": "2025-07-02T11:33:16",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "SE-HU-0001",
+        "description": "CREMA HIDRATANTE DERMICA 500 GR SENIOR CARE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4935.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 4935.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 4935.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0402",
+        "description": "SOLUCION LAVADO HERIDAS VASHE 250 ML URGO (REF. 00313)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 22443.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 22443.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 22443.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-OH-0002",
+        "description": "ORTESIS ESTABILIZADORA DE HOMBRO IZQUIERDA L BLUNDING (REF. HM-132)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 15438.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 15438.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 15438.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AP-SI-0054",
+        "description": "APOSITO ABD PAD 20x25 CM GHC (REF. ABD- 810S) (ENVIAR CAJA x 24 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 349.0
+      },
+      "itemDescription": "",
+      "quantity": 144,
+      "originalUnitCost": 349.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 349.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CU-MU-0001",
+        "description": "CUÑA DESCANSO 40x452X8 CM MAHYCAS",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 15000.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 15000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 15000.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0719",
+        "description": "VENDA GASA ELASTICADA 10 CM x 4 M CRANBERRY (REF. AAVEGA03) (ENVIAR CAJA x 20 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 225.0
+      },
+      "itemDescription": "",
+      "quantity": 80,
+      "originalUnitCost": 225.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 225.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0762",
+        "description": "VENDA GASA ELASTICADA 8 CM x 4 M CRANBERRY (REF. AAVEGA02) (ENVIAR CAJA x 20 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 187.0
+      },
+      "itemDescription": "",
+      "quantity": 80,
+      "originalUnitCost": 187.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 187.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PA-AB-0004",
+        "description": "PAÑAL ABENA SLIP S4 PREMIUM (x 25 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 21531.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 21531.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 21531.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0593",
+        "description": "PANTUFLAS VISCOELASTICAS THERAFLY L THERAMART (TM 1102-L)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10136.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 10136.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 10136.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0594",
+        "description": "PANTUFLAS VISCOELASTICAS THERAFLY M THERAMART (TM 1102-M)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10136.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 10136.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 10136.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0659",
+        "description": "PANTUFLAS VISCOELASTICAS THERAFLY S THERAMART (TM 1102-S)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10136.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 10136.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 10136.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0837",
+        "description": "PANTUFLAS VISCOELASTICAS THERAFLY XS THERAMART (TM 1102-XS)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10136.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 10136.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 10136.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "JO-BS-0002",
+        "description": "LIGA FOR MEN 20-30 NEGRO M JOBST (REF. 78028-12)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 31020.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 31020.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 31020.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BO-UR-0090",
+        "description": "BOLSA UROSTOMIA 60 MM TRANSPARENTE BBRAUN (REF. 73560A) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4450.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 4450.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 4450.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BO-CO-0098",
+        "description": "PLACA CONVEXA DURAHESIVE SURFIT NATURA 45 MM (28 MM) CONVATEC (REF. 413182) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4095.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 4095.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 4095.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TP-AM-0001",
+        "description": "TAPA OBTURACION CATETER AMARILLA HEPARINIZADA KDL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 67.0
+      },
+      "itemDescription": "",
+      "quantity": 50,
+      "originalUnitCost": 67.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 67.0,
+      "costCenter": {
+        "costCenterId": "00B",
+        "name": "VICUÑA"
+      },
+      "lot": null
+    }
+  ]
+}

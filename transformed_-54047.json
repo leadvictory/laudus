@@ -1,0 +1,376 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54047,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "004",
+    "name": "ÑUÑOA"
+  },
+  "issuedDate": "2025-07-02T14:21:24",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "CC-CC-0641",
+        "description": "FILTRO HME PARA TRAQUEOSTOMIA GHC (REF. 63-809)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1225.0
+      },
+      "itemDescription": "",
+      "quantity": 20,
+      "originalUnitCost": 1225.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 1225.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TL-MI-0010",
+        "description": "CINTA PAPEL CAFE MICROPORE 2.5 CM 3M (REF. 1533-1) (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1031.0
+      },
+      "itemDescription": "",
+      "quantity": 24,
+      "originalUnitCost": 1031.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 1031.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0565",
+        "description": "ALGODON PRENSADO 1 KL TRESOR (REF.AAALGOPT)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6525.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 6525.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 6525.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0071",
+        "description": "VENDA GASA NO TEJIDA ADHESIVA PHARMAFIX 5 CM x 10 M PHARMAPLAST (REF. FIX5010)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2438.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 2438.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 2438.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0070",
+        "description": "VENDA GASA NO TEJIDA ADHESIVA PHARMAFIX 10 CM x 10 MT PHARMAPLAST (REF. FIX1010)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2926.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 2926.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 2926.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0322",
+        "description": "APOSITO ALGINATO CALCIO + PLATA ABSOREXTRA 10x10 CM GHC (REF. 25-W162) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1238.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 1238.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 1238.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TL-SI-0704",
+        "description": "TALONERA SILICONA HOMBRE S FOOTCARE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5738.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 5738.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 5738.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "GA-RO-0001",
+        "description": "GASA ABSORBENTE ROLLO CRANBERRY (REF. AAGAS100)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 19300.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 19300.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 19300.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CL-OR-0001",
+        "description": "DICHLOREXAN 2% AMARILLO 500 ML DIFEMPHARMA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 9120.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 9120.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 9120.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TL-SI-0707",
+        "description": "TALONERA SILICONA MUJER M FOOTCARE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5738.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 5738.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 5738.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PA-AB-0014",
+        "description": "PAÑAL APOSITO ABENA SAN 4 PREMIUM (x 30 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 12882.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 12882.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 12882.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PA-AB-0040",
+        "description": "PAÑAL APOSITO ABENA SAN 6 PREMIUM (x 34 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 18962.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 18962.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 18962.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TL-SI-0706",
+        "description": "TALONERA SILICONA MUJER L FOOTCARE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5738.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 5738.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 5738.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0037",
+        "description": "ANDADOR PASO A PASO STRATTO M.D (REF. ST-0010)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 21550.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 21550.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 21550.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0384",
+        "description": "BOTA ORTOPEDICA CORTA PREMIUM S BLUNDING (REF. MI-155)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 20000.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 20000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 20000.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0227",
+        "description": "BOTA ORTOPEDICA CORTA PREMIUM M BLUNDING (REF. MI-155)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 20000.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 20000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 20000.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    }
+  ]
+}

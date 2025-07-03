@@ -1,0 +1,571 @@
+{
+  "salesWaybillId": -54047,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54047,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 3,
+    "name": "OS ÑUÑOA"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-07-02T14:21:24",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 1,
+    "description": "Ñuñoa",
+    "address": "Irarrazaval 3101",
+    "city": "SANTIAGO",
+    "county": "ÑUÑOA",
+    "zipCode": "",
+    "state": "",
+    "country": ""
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10946916300",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-07-02T14:23:02"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-07-02T14:21:50",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "ÑUÑOA"
+  },
+  "items": [
+    {
+      "itemId": 448115,
+      "itemOrder": 448115,
+      "product": {
+        "productId": 16662,
+        "sku": "CC-CC-0641",
+        "description": "FILTRO HME PARA TRAQUEOSTOMIA GHC (REF. 63-809)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 1225.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1225.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513278,
+          "fromStep": "O",
+          "fromId": 84946
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448116,
+      "itemOrder": 448116,
+      "product": {
+        "productId": 676,
+        "sku": "TL-MI-0010",
+        "description": "CINTA PAPEL CAFE MICROPORE 2.5 CM 3M (REF. 1533-1) (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 24.0,
+      "originalUnitPrice": 1031.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1031.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513279,
+          "fromStep": "O",
+          "fromId": 84947
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448117,
+      "itemOrder": 448117,
+      "product": {
+        "productId": 16569,
+        "sku": "CC-CC-0565",
+        "description": "ALGODON PRENSADO 1 KL TRESOR (REF.AAALGOPT)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 6525.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6525.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513280,
+          "fromStep": "O",
+          "fromId": 84948
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448118,
+      "itemOrder": 448118,
+      "product": {
+        "productId": 15818,
+        "sku": "CC-CC-0071",
+        "description": "VENDA GASA NO TEJIDA ADHESIVA PHARMAFIX 5 CM x 10 M PHARMAPLAST (REF. FIX5010)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 2438.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2438.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513281,
+          "fromStep": "O",
+          "fromId": 84949
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448119,
+      "itemOrder": 448119,
+      "product": {
+        "productId": 15817,
+        "sku": "CC-CC-0070",
+        "description": "VENDA GASA NO TEJIDA ADHESIVA PHARMAFIX 10 CM x 10 MT PHARMAPLAST (REF. FIX1010)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 2926.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2926.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513282,
+          "fromStep": "O",
+          "fromId": 84950
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448120,
+      "itemOrder": 448120,
+      "product": {
+        "productId": 16264,
+        "sku": "CC-CC-0322",
+        "description": "APOSITO ALGINATO CALCIO + PLATA ABSOREXTRA 10x10 CM GHC (REF. 25-W162) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 1238.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1238.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513283,
+          "fromStep": "O",
+          "fromId": 84951
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448121,
+      "itemOrder": 448121,
+      "product": {
+        "productId": 7919,
+        "sku": "TL-SI-0704",
+        "description": "TALONERA SILICONA HOMBRE S FOOTCARE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 5738.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5738.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513284,
+          "fromStep": "O",
+          "fromId": 84952
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448122,
+      "itemOrder": 448122,
+      "product": {
+        "productId": 76,
+        "sku": "GA-RO-0001",
+        "description": "GASA ABSORBENTE ROLLO CRANBERRY (REF. AAGAS100)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 19300.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 19300.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513285,
+          "fromStep": "O",
+          "fromId": 84953
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448123,
+      "itemOrder": 448123,
+      "product": {
+        "productId": 802,
+        "sku": "CL-OR-0001",
+        "description": "DICHLOREXAN 2% AMARILLO 500 ML DIFEMPHARMA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 9120.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 9120.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513286,
+          "fromStep": "O",
+          "fromId": 84954
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448124,
+      "itemOrder": 448124,
+      "product": {
+        "productId": 7923,
+        "sku": "TL-SI-0707",
+        "description": "TALONERA SILICONA MUJER M FOOTCARE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 5738.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5738.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513287,
+          "fromStep": "O",
+          "fromId": 84955
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448126,
+      "itemOrder": 448126,
+      "product": {
+        "productId": 5847,
+        "sku": "PA-AB-0014",
+        "description": "PAÑAL APOSITO ABENA SAN 4 PREMIUM (x 30 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 12882.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 12882.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513289,
+          "fromStep": "O",
+          "fromId": 84957
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448127,
+      "itemOrder": 448127,
+      "product": {
+        "productId": 15703,
+        "sku": "PA-AB-0040",
+        "description": "PAÑAL APOSITO ABENA SAN 6 PREMIUM (x 34 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 18962.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 18962.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513290,
+          "fromStep": "O",
+          "fromId": 84958
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448128,
+      "itemOrder": 448128,
+      "product": {
+        "productId": 7921,
+        "sku": "TL-SI-0706",
+        "description": "TALONERA SILICONA MUJER L FOOTCARE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 5738.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5738.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513291,
+          "fromStep": "O",
+          "fromId": 84959
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448129,
+      "itemOrder": 448129,
+      "product": {
+        "productId": 15775,
+        "sku": "CC-CC-0037",
+        "description": "ANDADOR PASO A PASO STRATTO M.D (REF. ST-0010)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 21550.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 21550.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513292,
+          "fromStep": "O",
+          "fromId": 84960
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448130,
+      "itemOrder": 448130,
+      "product": {
+        "productId": 15560,
+        "sku": "AA-AA-0384",
+        "description": "BOTA ORTOPEDICA CORTA PREMIUM S BLUNDING (REF. MI-155)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 20000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 20000.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513293,
+          "fromStep": "O",
+          "fromId": 84961
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448131,
+      "itemOrder": 448131,
+      "product": {
+        "productId": 16028,
+        "sku": "CC-CC-0227",
+        "description": "BOTA ORTOPEDICA CORTA PREMIUM M BLUNDING (REF. MI-155)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 20000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 20000.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513294,
+          "fromStep": "O",
+          "fromId": 84962
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

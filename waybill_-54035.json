@@ -1,0 +1,571 @@
+{
+  "salesWaybillId": -54035,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54035,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 2,
+    "name": "OS FLORIDA"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-07-02T11:35:31",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 2,
+    "description": "Vicuña",
+    "address": "Vicuña Mackenna 7287 local 3",
+    "city": "SANTIAGO",
+    "county": "La Florida",
+    "zipCode": "",
+    "state": "",
+    "country": ""
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10946003810",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-07-02T14:28:49"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-07-02T11:36:05",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "VICUÑA"
+  },
+  "items": [
+    {
+      "itemId": 447908,
+      "itemOrder": 447908,
+      "product": {
+        "productId": 11849,
+        "sku": "SO-NE-0004",
+        "description": "SONDA NELATON 14",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 200.0,
+      "originalUnitPrice": 265.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 265.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513073,
+          "fromStep": "O",
+          "fromId": 85053
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447909,
+      "itemOrder": 447909,
+      "product": {
+        "productId": 11837,
+        "sku": "SO-NE-0006",
+        "description": "SONDA NELATON 18",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 100.0,
+      "originalUnitPrice": 265.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 265.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513074,
+          "fromStep": "O",
+          "fromId": 85055
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447910,
+      "itemOrder": 447910,
+      "product": {
+        "productId": 13295,
+        "sku": "LE-UK-0090",
+        "description": "ADHESIVO TOPICO PIEL LEUKOSAN ADHESIVE 0.7 ML BSN (REF. 72541-04) (ENVIAR x 2 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": true,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 14438.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 14438.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513075,
+          "fromStep": "O",
+          "fromId": 85056
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447911,
+      "itemOrder": 447911,
+      "product": {
+        "productId": 13607,
+        "sku": "BL-IH-0005",
+        "description": "INMOVILIZADOR HOMBRO L BLUNDING (REF. HM-0131)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 6375.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6375.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513076,
+          "fromStep": "O",
+          "fromId": 85057
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447912,
+      "itemOrder": 447912,
+      "product": {
+        "productId": 14660,
+        "sku": "BO-UR-0098",
+        "description": "BOLSA UROSTOMIA SURFIT NATURA 57 MM TRANSPARENTE CONVATEC (REF. 401545) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 40.0,
+      "originalUnitPrice": 2865.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2865.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513077,
+          "fromStep": "O",
+          "fromId": 85058
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447913,
+      "itemOrder": 447913,
+      "product": {
+        "productId": 3155,
+        "sku": "LI-JO-0009",
+        "description": "LIGA ULTRASHEER 15-20 PUNTA CERRADA HONEY L JOBST (REF. 75171-15)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 24497.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 24497.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513078,
+          "fromStep": "O",
+          "fromId": 85059
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447914,
+      "itemOrder": 447914,
+      "product": {
+        "productId": 4305,
+        "sku": "ZA-DI-0904",
+        "description": "ZAPATO DESCARGA ANTEPIE ABIERTO L BLUNDING (REF. MI-18)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 13755.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 13755.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513079,
+          "fromStep": "O",
+          "fromId": 85061
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447915,
+      "itemOrder": 447915,
+      "product": {
+        "productId": 15857,
+        "sku": "CC-CC-0092",
+        "description": "CANULA YANKAUER HANDLE WELLEAD",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 750.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 750.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513080,
+          "fromStep": "O",
+          "fromId": 85062
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447916,
+      "itemOrder": 447916,
+      "product": {
+        "productId": 14769,
+        "sku": "RE-MO-0003",
+        "description": "WIPES REMOVEDOR ADHESIVOS SMITH&NEPHEW (REF. 59403125) (CAJA x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 13125.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 13125.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513081,
+          "fromStep": "O",
+          "fromId": 85063
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447917,
+      "itemOrder": 447917,
+      "product": {
+        "productId": 5785,
+        "sku": "IB-SE-0002",
+        "description": "LIGA SEGRETA 140 N.36 T02 IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 21469.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 21469.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513082,
+          "fromStep": "O",
+          "fromId": 85064
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447918,
+      "itemOrder": 447918,
+      "product": {
+        "productId": 5787,
+        "sku": "IB-LG-0003",
+        "description": "LIGA SEGRETA 140 C.21 T03 IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 21469.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 21469.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513083,
+          "fromStep": "O",
+          "fromId": 85065
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447919,
+      "itemOrder": 447919,
+      "product": {
+        "productId": 5799,
+        "sku": "IB-PT-0001",
+        "description": "PANTY SEGRETA 140 C.23 T01 IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 20391.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 20391.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513084,
+          "fromStep": "O",
+          "fromId": 85066
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447920,
+      "itemOrder": 447920,
+      "product": {
+        "productId": 5815,
+        "sku": "IB-SE-0044",
+        "description": "PANTY SEGRETA 140 N.36 T05 IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 21469.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 21469.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513085,
+          "fromStep": "O",
+          "fromId": 85067
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447921,
+      "itemOrder": 447921,
+      "product": {
+        "productId": 3771,
+        "sku": "IB-RE-0008",
+        "description": "CALCETA REPOMEN NEGRO S IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 11906.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 11906.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513086,
+          "fromStep": "O",
+          "fromId": 85068
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447922,
+      "itemOrder": 447922,
+      "product": {
+        "productId": 3801,
+        "sku": "IB-RE-0015",
+        "description": "CALCETA REPOMEN ECRU S IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 11906.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 11906.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513087,
+          "fromStep": "O",
+          "fromId": 85069
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447923,
+      "itemOrder": 447923,
+      "product": {
+        "productId": 3759,
+        "sku": "IB-RE-0010",
+        "description": "CALCETA REPOMEN BLUE S IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 11906.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 11906.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513088,
+          "fromStep": "O",
+          "fromId": 85070
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

@@ -1,0 +1,599 @@
+{
+  "salesWaybillId": -54042,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54042,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": null,
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-07-02T14:08:16",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 7,
+    "description": "Apumanque",
+    "address": "Av. Manquehue Sur N°31 Local 391",
+    "city": "Santiago",
+    "county": "Las Condes",
+    "zipCode": "",
+    "state": "",
+    "country": "Chile"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10946859236",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-07-02T14:26:28"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-07-02T14:08:57",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "MALL APUMANQUE"
+  },
+  "items": [
+    {
+      "itemId": 448030,
+      "itemOrder": 448030,
+      "product": {
+        "productId": 14966,
+        "sku": "AA-AA-0155",
+        "description": "PARCHE ESPUMA CALLOS AYUMED (REF. 175) (x 9 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 30.0,
+      "originalUnitPrice": 1169.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1169.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513193,
+          "fromStep": "O",
+          "fromId": 85130
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448032,
+      "itemOrder": 448032,
+      "product": {
+        "productId": 7541,
+        "sku": "TE-LF-0001",
+        "description": "APOSITO NO ADHERENTE TELFA 10.2x12.7 CM COVIDIEN (REF. 1111) (ENVIAR x 5 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 10369.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10369.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513195,
+          "fromStep": "O",
+          "fromId": 85132
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448033,
+      "itemOrder": 448033,
+      "product": {
+        "productId": 10969,
+        "sku": "KT-CJ-0801",
+        "description": "TAPE KINESIOLOGICO BEIGE 5 CM x 5 M NASARA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 4413.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4413.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513196,
+          "fromStep": "O",
+          "fromId": 85133
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448034,
+      "itemOrder": 448034,
+      "product": {
+        "productId": 9319,
+        "sku": "BL-OH-0005",
+        "description": "ORTESIS ESTABILIZADORA DE HOMBRO DERECHA S BLUNDING (REF. HM-132)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 15438.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 15438.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513197,
+          "fromStep": "O",
+          "fromId": 85134
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448035,
+      "itemOrder": 448035,
+      "product": {
+        "productId": 9321,
+        "sku": "BL-OH-0006",
+        "description": "ORTESIS ESTABILIZADORA DE HOMBRO IZQUIERDA S BLUNDING (REF. HM-132)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 15438.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 15438.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513198,
+          "fromStep": "O",
+          "fromId": 85135
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448036,
+      "itemOrder": 448036,
+      "product": {
+        "productId": 12263,
+        "sku": "DE-DL-0001",
+        "description": "DEDAL GEL S LENOX (REF. 8144)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 1182.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1182.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513199,
+          "fromStep": "O",
+          "fromId": 85136
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448037,
+      "itemOrder": 448037,
+      "product": {
+        "productId": 10473,
+        "sku": "PA-CU-0006",
+        "description": "PARCHE CURITA REDONDO 22 MM ALL (REF. HYR22LVN) (x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 15.0,
+      "originalUnitPrice": 977.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 977.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513200,
+          "fromStep": "O",
+          "fromId": 85137
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448038,
+      "itemOrder": 448038,
+      "product": {
+        "productId": 3251,
+        "sku": "SU-EA-0002",
+        "description": "CLORURO DE SODIO 0,9% 20 ML VITAFARMA (ENVIAR CAJA x 40 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 200.0,
+      "originalUnitPrice": 400.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 400.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513201,
+          "fromStep": "O",
+          "fromId": 85138
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448039,
+      "itemOrder": 448039,
+      "product": {
+        "productId": 15575,
+        "sku": "AA-AA-0399",
+        "description": "TALONERA FASCITIS PLANTAR MEN 8-13 PROFOOT (REF. 2103)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 8743.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 8743.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513202,
+          "fromStep": "O",
+          "fromId": 85139
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448040,
+      "itemOrder": 448040,
+      "product": {
+        "productId": 15574,
+        "sku": "AA-AA-0398",
+        "description": "TALONERA FASCITIS PLANTAR WOMENS 6-10 PROFOOT (REF. 2102)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 8743.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 8743.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513203,
+          "fromStep": "O",
+          "fromId": 85140
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448041,
+      "itemOrder": 448041,
+      "product": {
+        "productId": 11737,
+        "sku": "PA-AB-0015",
+        "description": "PAÑAL APOSITO ABENA SAN 8 PREMIUM (x 22 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 14144.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 14144.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513204,
+          "fromStep": "O",
+          "fromId": 85141
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448042,
+      "itemOrder": 448042,
+      "product": {
+        "productId": 15715,
+        "sku": "PA-AB-0051",
+        "description": "PAÑAL ABENA PANTS XL3 PREMIUM (x 16 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 30650.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 30650.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513205,
+          "fromStep": "O",
+          "fromId": 85142
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448043,
+      "itemOrder": 448043,
+      "product": {
+        "productId": 376,
+        "sku": "PA-AB-0033",
+        "description": "PAÑAL APOSITO ABENA SAN 3 PREMIUM (x 28 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 9818.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 9818.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513206,
+          "fromStep": "O",
+          "fromId": 85143
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448044,
+      "itemOrder": 448044,
+      "product": {
+        "productId": 4763,
+        "sku": "CL-OR-0003",
+        "description": "JABON LIQUIDO DICHLOREXAN 2% 340 ML DIFEMPHARMA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 8.0,
+      "originalUnitPrice": 5018.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5018.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513207,
+          "fromStep": "O",
+          "fromId": 85144
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448045,
+      "itemOrder": 448045,
+      "product": {
+        "productId": 16035,
+        "sku": "IN-DP-1219",
+        "description": "INMOVILIZADOR DEDO PULGAR VERDE 12-14 BLUNDING (REF. BK-11)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 3444.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3444.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513208,
+          "fromStep": "O",
+          "fromId": 85145
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448046,
+      "itemOrder": 448046,
+      "product": {
+        "productId": 16037,
+        "sku": "IN-DP-1221",
+        "description": "INMOVILIZADOR DEDO PULGAR VERDE 4-6 BLUNDING (REF. BK-11)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 2569.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2569.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513209,
+          "fromStep": "O",
+          "fromId": 85146
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448047,
+      "itemOrder": 448047,
+      "product": {
+        "productId": 16051,
+        "sku": "IN-DP-1235",
+        "description": "INMOVILIZADOR DEDO PULGAR ROJO 8-10 BLUNDING (REF. BK-11)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 3444.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3444.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513210,
+          "fromStep": "O",
+          "fromId": 85147
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

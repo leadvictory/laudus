@@ -1,0 +1,540 @@
+{
+  "salesWaybillId": -54044,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54044,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 3,
+    "name": "OS ÑUÑOA"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-07-02T14:18:57",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 1,
+    "description": "Ñuñoa",
+    "address": "Irarrazaval 3101",
+    "city": "SANTIAGO",
+    "county": "ÑUÑOA",
+    "zipCode": "",
+    "state": "",
+    "country": ""
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10946903718",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-07-02T14:25:35"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-07-02T14:19:07",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "ÑUÑOA"
+  },
+  "items": [
+    {
+      "itemId": 448066,
+      "itemOrder": 448066,
+      "product": {
+        "productId": 13631,
+        "sku": "OX-PU-0007",
+        "description": "OXIMETRO PULSO BREMED (REF. BD304-YM103)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 14693.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 14693.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513229,
+          "fromStep": "O",
+          "fromId": 84982
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448067,
+      "itemOrder": 448067,
+      "product": {
+        "productId": 13556,
+        "sku": "CO-AE-0002",
+        "description": "COJIN FLOTACION SECA TPU 41x46x7 CM BLUNDING (REF. BCU-13)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 37487.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 37487.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513230,
+          "fromStep": "O",
+          "fromId": 84983
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448068,
+      "itemOrder": 448068,
+      "product": {
+        "productId": 11083,
+        "sku": "PA-ST-0053",
+        "description": "CORTADOR PASTILLAS BH (REF. 3553) (ENVIAR PAQUETE x 6 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 12.0,
+      "originalUnitPrice": 1608.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1608.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513231,
+          "fromStep": "O",
+          "fromId": 84984
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448069,
+      "itemOrder": 448069,
+      "product": {
+        "productId": 15093,
+        "sku": "AA-AA-0267",
+        "description": "PLANTILLA ANTI STRESS RECORTABLE HOMBRE PROFOOT (REF. 22400)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 9.0,
+      "originalUnitPrice": 7159.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 7159.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513232,
+          "fromStep": "O",
+          "fromId": 84985
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448070,
+      "itemOrder": 448070,
+      "product": {
+        "productId": 250,
+        "sku": "AR-NE-0005",
+        "description": "ARNES 5 PUNTAS",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 7.0,
+      "originalUnitPrice": 10000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10000.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513233,
+          "fromStep": "O",
+          "fromId": 84986
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448071,
+      "itemOrder": 448071,
+      "product": {
+        "productId": 7195,
+        "sku": "GU-ES-0003",
+        "description": "GUANTES QUIRURGICOS LATEX ESTERILES T6 TOP GLOVE (REF. ACGQUTG1)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 100.0,
+      "originalUnitPrice": 300.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 300.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513234,
+          "fromStep": "O",
+          "fromId": 84987
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448072,
+      "itemOrder": 448072,
+      "product": {
+        "productId": 15567,
+        "sku": "AA-AA-0391",
+        "description": "OXIMETRO PULSO DIGITAL CHOICEMMED (REF. MD300C2)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 19987.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 19987.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513235,
+          "fromStep": "O",
+          "fromId": 84988
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448073,
+      "itemOrder": 448073,
+      "product": {
+        "productId": 16395,
+        "sku": "CC-CC-0415",
+        "description": "OXIMETRO PULSO DIGITAL CHOICEMMED (REF. MD300C29)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 17500.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 17500.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513236,
+          "fromStep": "O",
+          "fromId": 84989
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448074,
+      "itemOrder": 448074,
+      "product": {
+        "productId": 11897,
+        "sku": "GU-LA-0005",
+        "description": "GUANTES LATEX BLANCO S TRESOR (REF. ACGUESU1) (CAJA x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 3562.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3562.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513237,
+          "fromStep": "O",
+          "fromId": 84990
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448075,
+      "itemOrder": 448075,
+      "product": {
+        "productId": 11449,
+        "sku": "TL-EC-0001",
+        "description": "TALONERA ANTIESCARAS POLIURETANO",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 6238.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6238.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513238,
+          "fromStep": "O",
+          "fromId": 84991
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448076,
+      "itemOrder": 448076,
+      "product": {
+        "productId": 12823,
+        "sku": "AQ-CE-0004",
+        "description": "APOSITO ESPUMA AQUACEL FOAM 10x10 CM CONVATEC (REF. 420633) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 6141.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6141.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513239,
+          "fromStep": "O",
+          "fromId": 84992
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448077,
+      "itemOrder": 448077,
+      "product": {
+        "productId": 16501,
+        "sku": "CC-CC-0506",
+        "description": "APOSITO CICATRIZANTE URGO START PLUS 10x10 CM URGO (REF. 552302)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 26635.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 26635.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513240,
+          "fromStep": "O",
+          "fromId": 84993
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448078,
+      "itemOrder": 448078,
+      "product": {
+        "productId": 7925,
+        "sku": "TL-AT-0053",
+        "description": "TALONERA ANTIESCARAS ESPUMA UNIVERSAL BLUNDING (PAR) (REF. E-730)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 7956.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 7956.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513241,
+          "fromStep": "O",
+          "fromId": 84994
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448079,
+      "itemOrder": 448079,
+      "product": {
+        "productId": 15047,
+        "sku": "AA-AA-0223",
+        "description": "SONDA FOLEY SILICONA 18",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 1765.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1765.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513242,
+          "fromStep": "O",
+          "fromId": 84995
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448080,
+      "itemOrder": 448080,
+      "product": {
+        "productId": 15755,
+        "sku": "CC-CC-0021",
+        "description": "ESPUMA DE LIMPIEZA MOLICARE 400 ML (REF. 995081)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 1.0,
+      "originalUnitPrice": 22500.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 22500.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513243,
+          "fromStep": "O",
+          "fromId": 84996
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

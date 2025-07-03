@@ -1,0 +1,593 @@
+{
+  "salesWaybillId": -54039,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54039,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 4,
+    "name": "OS PUENTE"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": null,
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-07-02T11:41:08",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 3,
+    "description": "Puente Alto",
+    "address": "Paseo Manuel Rodriguez 46 local 42",
+    "city": "SANTIAGO",
+    "county": "Puente Alto",
+    "zipCode": "",
+    "state": "",
+    "country": "CHILE"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10946038660",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-07-02T14:27:31"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-07-02T11:41:46",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "PUENTE ALTO"
+  },
+  "items": [
+    {
+      "itemId": 447974,
+      "itemOrder": 447974,
+      "product": {
+        "productId": 13568,
+        "sku": "PR-BU-0010",
+        "description": "PROTECTOR BUCAL ANTI RONQUIDOS",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 3630.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3630.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513138,
+          "fromStep": "O",
+          "fromId": 84928
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447975,
+      "itemOrder": 447975,
+      "product": {
+        "productId": 6967,
+        "sku": "BI-ST-0041",
+        "description": "HOJA BISTURI ACERO INOXIDABLE N° 10 (CAJA x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 6250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513139,
+          "fromStep": "O",
+          "fromId": 84929
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447976,
+      "itemOrder": 447976,
+      "product": {
+        "productId": 6969,
+        "sku": "BI-ST-0040",
+        "description": "HOJA BISTURI ACERO INOXIDABLE N° 11 (CAJA x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 6250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513140,
+          "fromStep": "O",
+          "fromId": 84930
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447977,
+      "itemOrder": 447977,
+      "product": {
+        "productId": 8677,
+        "sku": "AL-UN-0008",
+        "description": "ALICATE RECTO ACERO 14 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 6250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513141,
+          "fromStep": "O",
+          "fromId": 84931
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447978,
+      "itemOrder": 447978,
+      "product": {
+        "productId": 13298,
+        "sku": "AL-UN-0010",
+        "description": "ALICATE RECTO ACERO 12 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": true,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 6000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6000.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513142,
+          "fromStep": "O",
+          "fromId": 84932
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447979,
+      "itemOrder": 447979,
+      "product": {
+        "productId": 12015,
+        "sku": "AL-CU-0205",
+        "description": "ALICATE UÑAS RECTO ACERO 11 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 5125.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5125.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513143,
+          "fromStep": "O",
+          "fromId": 84933
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447981,
+      "itemOrder": 447981,
+      "product": {
+        "productId": 8679,
+        "sku": "AL-GU-0001",
+        "description": "ALICATE GUSANO CURVO ACERO 14 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 5625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5625.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513145,
+          "fromStep": "O",
+          "fromId": 84935
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447982,
+      "itemOrder": 447982,
+      "product": {
+        "productId": 16761,
+        "sku": "CC-CC-0731",
+        "description": "CLORURO DE SODIO 0,9% 5 ML VITAFARMA (ENVIAR CAJA x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 300.0,
+      "originalUnitPrice": 220.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 220.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513146,
+          "fromStep": "O",
+          "fromId": 84936
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447983,
+      "itemOrder": 447983,
+      "product": {
+        "productId": 4073,
+        "sku": "BL-RL-0062",
+        "description": "RODILLERA ESTABILIZADORA S BLUNDING (REF. MI-044)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 16031.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 16031.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513147,
+          "fromStep": "O",
+          "fromId": 84937
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447984,
+      "itemOrder": 447984,
+      "product": {
+        "productId": 4069,
+        "sku": "BL-RL-0063",
+        "description": "RODILLERA ESTABILIZADORA L BLUNDING (REF. MI-044)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 16031.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 16031.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513148,
+          "fromStep": "O",
+          "fromId": 84938
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447985,
+      "itemOrder": 447985,
+      "product": {
+        "productId": 8191,
+        "sku": "BL-RS-0011",
+        "description": "RODILLERA CON ORIFICIO ROTULIANO L BLUNDING (MI-54)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 8669.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 8669.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513149,
+          "fromStep": "O",
+          "fromId": 84939
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447986,
+      "itemOrder": 447986,
+      "product": {
+        "productId": 10197,
+        "sku": "BL-RE-0005",
+        "description": "RODILLERA POLICENTRICA L BLUNDING (REF. MI-47)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 16495.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 16495.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513150,
+          "fromStep": "O",
+          "fromId": 84940
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447987,
+      "itemOrder": 447987,
+      "product": {
+        "productId": 11457,
+        "sku": "BL-RE-0004",
+        "description": "RODILLERA ESTABILIZADORA SPORT XL BLUNDING (REF. MI-62)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 10569.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10569.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513151,
+          "fromStep": "O",
+          "fromId": 84941
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447988,
+      "itemOrder": 447988,
+      "product": {
+        "productId": 11451,
+        "sku": "BL-RE-0001",
+        "description": "RODILLERA ESTABILIZADORA SPORT L BLUNDING (REF. MI-62)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 10569.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 10569.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513152,
+          "fromStep": "O",
+          "fromId": 84942
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447990,
+      "itemOrder": 447990,
+      "product": {
+        "productId": 3029,
+        "sku": "MU-IN-0058",
+        "description": "INMOVILIZADOR MUÑECA S BLUNDING (REF. HM-116)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 6531.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6531.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513154,
+          "fromStep": "O",
+          "fromId": 84944
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447991,
+      "itemOrder": 447991,
+      "product": {
+        "productId": 3027,
+        "sku": "MU-IN-0056",
+        "description": "INMOVILIZADOR MUÑECA M BLUNDING (REF. HM-116)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 6531.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6531.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513155,
+          "fromStep": "O",
+          "fromId": 84945
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447992,
+      "itemOrder": 447992,
+      "product": {
+        "productId": 15542,
+        "sku": "BL-KH-0004",
+        "description": "INMOVILIZADOR HOMBRO PEDIATRICO VERDE 12-14 BLUNDING (REF. BK-07)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 6639.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6639.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": null,
+      "customFields": {}
+    }
+  ]
+}

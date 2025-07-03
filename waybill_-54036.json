@@ -1,0 +1,509 @@
+{
+  "salesWaybillId": -54036,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54036,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 2,
+    "name": "OS FLORIDA"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-07-02T11:36:28",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 2,
+    "description": "Vicuña",
+    "address": "Vicuña Mackenna 7287 local 3",
+    "city": "SANTIAGO",
+    "county": "La Florida",
+    "zipCode": "",
+    "state": "",
+    "country": ""
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10946009632",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-07-02T14:28:29"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-07-02T11:37:02",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "VICUÑA"
+  },
+  "items": [
+    {
+      "itemId": 447924,
+      "itemOrder": 447924,
+      "product": {
+        "productId": 1611,
+        "sku": "FA-JZ-0003",
+        "description": "FAJA ABDOMINAL 3 BANDAS BEIGE L",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 4250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513089,
+          "fromStep": "O",
+          "fromId": 85071
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447925,
+      "itemOrder": 447925,
+      "product": {
+        "productId": 1617,
+        "sku": "FA-JZ-0004",
+        "description": "FAJA ABDOMINAL 3 BANDAS BEIGE XL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 4250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513090,
+          "fromStep": "O",
+          "fromId": 85072
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447926,
+      "itemOrder": 447926,
+      "product": {
+        "productId": 8537,
+        "sku": "BL-TO-0002",
+        "description": "TOBILLERA ESTABILIZADORA CON BARRAS LATERALES M BLUNDING (REF. MI-123)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 17801.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 17801.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513091,
+          "fromStep": "O",
+          "fromId": 85074
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447927,
+      "itemOrder": 447927,
+      "product": {
+        "productId": 12156,
+        "sku": "AL-IM-0007",
+        "description": "SUPLEMENTO ALIMENTARIO VAINILLA 900 GR VIVALITE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 15262.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 15262.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513092,
+          "fromStep": "O",
+          "fromId": 85075
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447928,
+      "itemOrder": 447928,
+      "product": {
+        "productId": 12281,
+        "sku": "VI-FB-0001",
+        "description": "SUPLEMENTO ALIMENTARIO FRESA BANANA 900 GR VIVALITE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 15262.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 15262.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513093,
+          "fromStep": "O",
+          "fromId": 85076
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447929,
+      "itemOrder": 447929,
+      "product": {
+        "productId": 11523,
+        "sku": "PL-CA-0002",
+        "description": "PLANTILLA CANELA N° 37",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 3362.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3362.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513094,
+          "fromStep": "O",
+          "fromId": 85077
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447930,
+      "itemOrder": 447930,
+      "product": {
+        "productId": 2325,
+        "sku": "PA-NA-0989",
+        "description": "SABANILLA MATI SUPER ULTRA 60x90 CM NATEEN (x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 16.0,
+      "originalUnitPrice": 3962.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3962.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513095,
+          "fromStep": "O",
+          "fromId": 85078
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447931,
+      "itemOrder": 447931,
+      "product": {
+        "productId": 6001,
+        "sku": "BL-MO-0003",
+        "description": "MUÑEQUERA ORTOPEDICA CON FERULA DERECHA M BLUNDING (REF. HM-117)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 5818.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5818.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513096,
+          "fromStep": "O",
+          "fromId": 85081
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447932,
+      "itemOrder": 447932,
+      "product": {
+        "productId": 6003,
+        "sku": "BL-MO-0005",
+        "description": "MUÑEQUERA ORTOPEDICA CON FERULA DERECHA S BLUNDING (REF. HM-117)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 5818.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5818.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513097,
+          "fromStep": "O",
+          "fromId": 85082
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447933,
+      "itemOrder": 447933,
+      "product": {
+        "productId": 6011,
+        "sku": "BL-MO-0006",
+        "description": "MUÑEQUERA ORTOPEDICA CON FERULA IZQUIERDA S BLUNDING (REF. HM-117)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 5818.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5818.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513098,
+          "fromStep": "O",
+          "fromId": 85083
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447934,
+      "itemOrder": 447934,
+      "product": {
+        "productId": 6009,
+        "sku": "BL-MO-0004",
+        "description": "MUÑEQUERA ORTOPEDICA CON FERULA IZQUIERDA M BLUNDING (REF. HM-117)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 5818.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5818.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513099,
+          "fromStep": "O",
+          "fromId": 85084
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447935,
+      "itemOrder": 447935,
+      "product": {
+        "productId": 2133,
+        "sku": "BL-IT-0001",
+        "description": "ORTESIS TUNEL CARPIANO UNIVERSAL BLUNDING (REF. HM-0114)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 7006.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 7006.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513100,
+          "fromStep": "O",
+          "fromId": 85085
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447936,
+      "itemOrder": 447936,
+      "product": {
+        "productId": 16385,
+        "sku": "CC-CC-0404",
+        "description": "ORTESIS MUÑECA CON FERULA PALMAR DORSAL DERECHA M BLUNDING (REF. HM-171)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 7224.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 7224.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513101,
+          "fromStep": "O",
+          "fromId": 85086
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447937,
+      "itemOrder": 447937,
+      "product": {
+        "productId": 16384,
+        "sku": "CC-CC-0403",
+        "description": "ORTESIS MUÑECA CON FERULA PALMAR DORSAL DERECHA S BLUNDING (REF. HM-171)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 7224.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 7224.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513102,
+          "fromStep": "O",
+          "fromId": 85087
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

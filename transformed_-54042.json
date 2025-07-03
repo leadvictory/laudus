@@ -1,0 +1,398 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54042,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "009",
+    "name": "MALL APUMANQUE"
+  },
+  "issuedDate": "2025-07-02T14:08:16",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "AA-AA-0155",
+        "description": "PARCHE ESPUMA CALLOS AYUMED (REF. 175) (x 9 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1169.0
+      },
+      "itemDescription": "",
+      "quantity": 30,
+      "originalUnitCost": 1169.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 1169.0,
+      "costCenter": {
+        "costCenterId": "00F",
+        "name": "MALL APUMANQUE"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TE-LF-0001",
+        "description": "APOSITO NO ADHERENTE TELFA 10.2x12.7 CM COVIDIEN (REF. 1111) (ENVIAR x 5 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10369.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 10369.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 10369.0,
+      "costCenter": {
+        "costCenterId": "00F",
+        "name": "MALL APUMANQUE"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "KT-CJ-0801",
+        "description": "TAPE KINESIOLOGICO BEIGE 5 CM x 5 M NASARA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4413.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 4413.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 4413.0,
+      "costCenter": {
+        "costCenterId": "00F",
+        "name": "MALL APUMANQUE"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-OH-0005",
+        "description": "ORTESIS ESTABILIZADORA DE HOMBRO DERECHA S BLUNDING (REF. HM-132)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 15438.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 15438.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 15438.0,
+      "costCenter": {
+        "costCenterId": "00F",
+        "name": "MALL APUMANQUE"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-OH-0006",
+        "description": "ORTESIS ESTABILIZADORA DE HOMBRO IZQUIERDA S BLUNDING (REF. HM-132)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 15438.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 15438.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 15438.0,
+      "costCenter": {
+        "costCenterId": "00F",
+        "name": "MALL APUMANQUE"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "DE-DL-0001",
+        "description": "DEDAL GEL S LENOX (REF. 8144)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1182.0
+      },
+      "itemDescription": "",
+      "quantity": 20,
+      "originalUnitCost": 1182.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 1182.0,
+      "costCenter": {
+        "costCenterId": "00F",
+        "name": "MALL APUMANQUE"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PA-CU-0006",
+        "description": "PARCHE CURITA REDONDO 22 MM ALL (REF. HYR22LVN) (x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 977.0
+      },
+      "itemDescription": "",
+      "quantity": 15,
+      "originalUnitCost": 977.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 977.0,
+      "costCenter": {
+        "costCenterId": "00F",
+        "name": "MALL APUMANQUE"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "SU-EA-0002",
+        "description": "CLORURO DE SODIO 0,9% 20 ML VITAFARMA (ENVIAR CAJA x 40 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 400.0
+      },
+      "itemDescription": "",
+      "quantity": 200,
+      "originalUnitCost": 400.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 400.0,
+      "costCenter": {
+        "costCenterId": "00F",
+        "name": "MALL APUMANQUE"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0399",
+        "description": "TALONERA FASCITIS PLANTAR MEN 8-13 PROFOOT (REF. 2103)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 8743.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 8743.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 8743.0,
+      "costCenter": {
+        "costCenterId": "00F",
+        "name": "MALL APUMANQUE"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0398",
+        "description": "TALONERA FASCITIS PLANTAR WOMENS 6-10 PROFOOT (REF. 2102)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 8743.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 8743.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 8743.0,
+      "costCenter": {
+        "costCenterId": "00F",
+        "name": "MALL APUMANQUE"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PA-AB-0015",
+        "description": "PAÑAL APOSITO ABENA SAN 8 PREMIUM (x 22 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 14144.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 14144.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 14144.0,
+      "costCenter": {
+        "costCenterId": "00F",
+        "name": "MALL APUMANQUE"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PA-AB-0051",
+        "description": "PAÑAL ABENA PANTS XL3 PREMIUM (x 16 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 30650.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 30650.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 30650.0,
+      "costCenter": {
+        "costCenterId": "00F",
+        "name": "MALL APUMANQUE"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PA-AB-0033",
+        "description": "PAÑAL APOSITO ABENA SAN 3 PREMIUM (x 28 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 9818.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 9818.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 9818.0,
+      "costCenter": {
+        "costCenterId": "00F",
+        "name": "MALL APUMANQUE"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CL-OR-0003",
+        "description": "JABON LIQUIDO DICHLOREXAN 2% 340 ML DIFEMPHARMA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5018.0
+      },
+      "itemDescription": "",
+      "quantity": 8,
+      "originalUnitCost": 5018.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 5018.0,
+      "costCenter": {
+        "costCenterId": "00F",
+        "name": "MALL APUMANQUE"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "IN-DP-1219",
+        "description": "INMOVILIZADOR DEDO PULGAR VERDE 12-14 BLUNDING (REF. BK-11)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3444.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 3444.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 3444.0,
+      "costCenter": {
+        "costCenterId": "00F",
+        "name": "MALL APUMANQUE"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "IN-DP-1221",
+        "description": "INMOVILIZADOR DEDO PULGAR VERDE 4-6 BLUNDING (REF. BK-11)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2569.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 2569.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 2569.0,
+      "costCenter": {
+        "costCenterId": "00F",
+        "name": "MALL APUMANQUE"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "IN-DP-1235",
+        "description": "INMOVILIZADOR DEDO PULGAR ROJO 8-10 BLUNDING (REF. BK-11)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3444.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 3444.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 3444.0,
+      "costCenter": {
+        "costCenterId": "00F",
+        "name": "MALL APUMANQUE"
+      },
+      "lot": null
+    }
+  ]
+}

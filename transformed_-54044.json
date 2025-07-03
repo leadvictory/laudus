@@ -1,0 +1,354 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54044,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "004",
+    "name": "ÑUÑOA"
+  },
+  "issuedDate": "2025-07-02T14:18:57",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "OX-PU-0007",
+        "description": "OXIMETRO PULSO BREMED (REF. BD304-YM103)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 14693.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 14693.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 14693.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CO-AE-0002",
+        "description": "COJIN FLOTACION SECA TPU 41x46x7 CM BLUNDING (REF. BCU-13)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 37487.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 37487.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 37487.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PA-ST-0053",
+        "description": "CORTADOR PASTILLAS BH (REF. 3553) (ENVIAR PAQUETE x 6 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1608.0
+      },
+      "itemDescription": "",
+      "quantity": 12,
+      "originalUnitCost": 1608.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 1608.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0267",
+        "description": "PLANTILLA ANTI STRESS RECORTABLE HOMBRE PROFOOT (REF. 22400)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 7159.0
+      },
+      "itemDescription": "",
+      "quantity": 9,
+      "originalUnitCost": 7159.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 7159.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AR-NE-0005",
+        "description": "ARNES 5 PUNTAS",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10000.0
+      },
+      "itemDescription": "",
+      "quantity": 7,
+      "originalUnitCost": 10000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 10000.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "GU-ES-0003",
+        "description": "GUANTES QUIRURGICOS LATEX ESTERILES T6 TOP GLOVE (REF. ACGQUTG1)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 300.0
+      },
+      "itemDescription": "",
+      "quantity": 100,
+      "originalUnitCost": 300.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 300.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0391",
+        "description": "OXIMETRO PULSO DIGITAL CHOICEMMED (REF. MD300C2)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 19987.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 19987.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 19987.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0415",
+        "description": "OXIMETRO PULSO DIGITAL CHOICEMMED (REF. MD300C29)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 17500.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 17500.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 17500.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "GU-LA-0005",
+        "description": "GUANTES LATEX BLANCO S TRESOR (REF. ACGUESU1) (CAJA x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3562.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 3562.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 3562.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TL-EC-0001",
+        "description": "TALONERA ANTIESCARAS POLIURETANO",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6238.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 6238.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 6238.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AQ-CE-0004",
+        "description": "APOSITO ESPUMA AQUACEL FOAM 10x10 CM CONVATEC (REF. 420633) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6141.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 6141.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 6141.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0506",
+        "description": "APOSITO CICATRIZANTE URGO START PLUS 10x10 CM URGO (REF. 552302)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 26635.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 26635.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 26635.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TL-AT-0053",
+        "description": "TALONERA ANTIESCARAS ESPUMA UNIVERSAL BLUNDING (PAR) (REF. E-730)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 7956.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 7956.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 7956.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0223",
+        "description": "SONDA FOLEY SILICONA 18",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1765.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 1765.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 1765.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0021",
+        "description": "ESPUMA DE LIMPIEZA MOLICARE 400 ML (REF. 995081)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 22500.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 22500.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 22500.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    }
+  ]
+}

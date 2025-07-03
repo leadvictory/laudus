@@ -1,0 +1,332 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54041,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "003",
+    "name": "PUENTE ALTO"
+  },
+  "issuedDate": "2025-07-02T11:43:08",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "BO-OR-0705",
+        "description": "BOLSA ORINA PIERNA URIMED 800 ML 60 CM BBRAUN (REF. 28305)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2125.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 2125.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 2125.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0095",
+        "description": "BASTON CODERA MOVIL STRATTO M.D (REF. ST-0001)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 8235.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 8235.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 8235.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AP-SI-0008",
+        "description": "APOSITO GASA NATURAL 10x20 CM CRANBERRY (REF. AAAP1020)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 192.0
+      },
+      "itemDescription": "",
+      "quantity": 100,
+      "originalUnitCost": 192.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 192.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "FA-JZ-0007",
+        "description": "FAJA ABDOMINAL 4 BANDAS BEIGE XL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5625.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 5625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 5625.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0194",
+        "description": "FAJA ABDOMINAL 4 BANDAS BEIGE XXL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6750.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 6750.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 6750.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "NA-PL-6000",
+        "description": "PLACA CONVEXA MOLDEABLE DURAHESIVE SURFIT NATURA 45 MM (22-33 MM) CONVATEC (REF. 404593) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5208.0
+      },
+      "itemDescription": "",
+      "quantity": 40,
+      "originalUnitCost": 5208.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 5208.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PI-SE-0053",
+        "description": "SEPARADOR PRIMER DEDO GEL M LENOX (REF. 8010)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 857.0
+      },
+      "itemDescription": "",
+      "quantity": 20,
+      "originalUnitCost": 857.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 857.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "RE-RG-0202",
+        "description": "REGATON BASTON 19 MM NEGRO",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1062.0
+      },
+      "itemDescription": "",
+      "quantity": 30,
+      "originalUnitCost": 1062.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 1062.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CO-JF-0001",
+        "description": "PICARON ESPUMA INYECTADA CON FUNDA 8 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 11250.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 11250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 11250.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TO-AN-1000",
+        "description": "TOALLITAS ANTISEPTICAS CON ALCOHOL 70% CRANBERRY",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 887.0
+      },
+      "itemDescription": "",
+      "quantity": 20,
+      "originalUnitCost": 887.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 887.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0408",
+        "description": "ORTESIS MUÑECA CON FERULA PALMAR DORSAL IZQUIERDA M BLUNDING (REF. HM-171)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 7224.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 7224.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 7224.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "MU-IN-0057",
+        "description": "INMOVILIZADOR MUÑECA L BLUNDING (REF. HM-116)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6531.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 6531.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 6531.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "MU-IN-0059",
+        "description": "INMOVILIZADOR MUÑECA XL BLUNDING (REF. HM-116)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 6531.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 6531.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 6531.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CA-VI-0002",
+        "description": "CREMA BARRERA PROTECTORA CAVILON 92 GR 3M (REF. 3392G)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 8639.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 8639.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 8639.0,
+      "costCenter": {
+        "costCenterId": "00C",
+        "name": "PUENTE ALTO"
+      },
+      "lot": null
+    }
+  ]
+}

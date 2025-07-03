@@ -1,0 +1,540 @@
+{
+  "salesWaybillId": -54038,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54038,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 4,
+    "name": "OS PUENTE"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-07-02T11:40:06",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 3,
+    "description": "Puente Alto",
+    "address": "Paseo Manuel Rodriguez 46 local 42",
+    "city": "SANTIAGO",
+    "county": "Puente Alto",
+    "zipCode": "",
+    "state": "",
+    "country": "CHILE"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10946033616",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-07-02T14:27:57"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-07-02T11:40:53",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "PUENTE ALTO"
+  },
+  "items": [
+    {
+      "itemId": 447956,
+      "itemOrder": 447956,
+      "product": {
+        "productId": 12461,
+        "sku": "BL-SC-0202",
+        "description": "SOPORTE CODO TENISTA UNIVERSAL CON GEL BLUNDING (REF. HM-01300)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 5818.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5818.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513120,
+          "fromStep": "O",
+          "fromId": 84910
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447957,
+      "itemOrder": 447957,
+      "product": {
+        "productId": 13159,
+        "sku": "AP-AB-1000",
+        "description": "APOSITO ABD PAD 20x19 CM GHC (REF. ABD-875S) (ENVIAR CAJA x 24 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": true,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 96.0,
+      "originalUnitPrice": 256.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 256.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513121,
+          "fromStep": "O",
+          "fromId": 84911
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447958,
+      "itemOrder": 447958,
+      "product": {
+        "productId": 4313,
+        "sku": "AL-GP-0002",
+        "description": "ALGODON PRENSADO 100 GR FAMILY SET",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 1099.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1099.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513122,
+          "fromStep": "O",
+          "fromId": 84912
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447959,
+      "itemOrder": 447959,
+      "product": {
+        "productId": 10257,
+        "sku": "AL-GP-0004",
+        "description": "ALGODON PRENSADO 50 GR FAMILY SET",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 525.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 525.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513123,
+          "fromStep": "O",
+          "fromId": 84913
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447960,
+      "itemOrder": 447960,
+      "product": {
+        "productId": 12850,
+        "sku": "CI-GL-1000",
+        "description": "TIRAS REACTIVAS TD-4277 URIGHT PLUS (x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 13125.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 13125.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513124,
+          "fromStep": "O",
+          "fromId": 84914
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447962,
+      "itemOrder": 447962,
+      "product": {
+        "productId": 16353,
+        "sku": "CC-CC-0391",
+        "description": "PATO URINARIO CUELLO CORTO MASCULINO AZUL STRATTO M.D (REF. ST-0070)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 2782.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2782.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513126,
+          "fromStep": "O",
+          "fromId": 84916
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447964,
+      "itemOrder": 447964,
+      "product": {
+        "productId": 11193,
+        "sku": "FI-XO-0002",
+        "description": "VENDA GASA NO TEJIDA ADHESIVA FIXOMULL STRETCH 5 CM x 10 M BSN (REF.02036-00)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 5492.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5492.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513128,
+          "fromStep": "O",
+          "fromId": 84918
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447965,
+      "itemOrder": 447965,
+      "product": {
+        "productId": 8853,
+        "sku": "GE-SA-0001",
+        "description": "GEL HIDRATANTE PARA HERIDAS SAF GEL 85 GR CONVATEC (REF. 145730)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 11803.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 11803.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513129,
+          "fromStep": "O",
+          "fromId": 84919
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447966,
+      "itemOrder": 447966,
+      "product": {
+        "productId": 14969,
+        "sku": "AA-AA-0159",
+        "description": "GEL HERIDAS ULMOPLUS 30 GR MEDICAL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 8000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 8000.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513130,
+          "fromStep": "O",
+          "fromId": 84920
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447968,
+      "itemOrder": 447968,
+      "product": {
+        "productId": 12280,
+        "sku": "GA-SA-0037",
+        "description": "GASA NO TEJIDA 10x10 CM CRANBERRY (REF. AACOMP10) (CAJA x 50 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 2862.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2862.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513132,
+          "fromStep": "O",
+          "fromId": 84922
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447969,
+      "itemOrder": 447969,
+      "product": {
+        "productId": 10135,
+        "sku": "PO-VI-0003",
+        "description": "POVIDONA YODADA 10% POVISEPT 30 ML DIFEMPHARMA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 1443.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1443.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513133,
+          "fromStep": "O",
+          "fromId": 84923
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447970,
+      "itemOrder": 447970,
+      "product": {
+        "productId": 12844,
+        "sku": "VA-QN-1000",
+        "description": "VASELINA SOLIDA BLANCA 100 GR QUIMNATURA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 1256.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1256.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513134,
+          "fromStep": "O",
+          "fromId": 84924
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447971,
+      "itemOrder": 447971,
+      "product": {
+        "productId": 16571,
+        "sku": "CC-CC-0567",
+        "description": "VASELINA LIQUIDA ORAL 1 LT DIFEMPHARMA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 7503.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 7503.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513135,
+          "fromStep": "O",
+          "fromId": 84925
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447972,
+      "itemOrder": 447972,
+      "product": {
+        "productId": 15627,
+        "sku": "AA-AA-0452",
+        "description": "ACIDOS GRASOS HIPEROXIGENADOS CON SILICONA 20 ML ABS NOVAMED (REF. 172138.9)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 11250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 11250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513136,
+          "fromStep": "O",
+          "fromId": 84926
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447973,
+      "itemOrder": 447973,
+      "product": {
+        "productId": 14768,
+        "sku": "LI-NO-0003",
+        "description": "ACEITE TOPICO ULCERAS LINOCARE 30 ML PHARMAPLAST (REF. LINO 30)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 5718.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5718.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513137,
+          "fromStep": "O",
+          "fromId": 84927
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

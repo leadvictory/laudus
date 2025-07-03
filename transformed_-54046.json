@@ -1,0 +1,376 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54046,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "004",
+    "name": "ÑUÑOA"
+  },
+  "issuedDate": "2025-07-02T14:20:37",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "TL-MI-0015",
+        "description": "CINTA PLASTICA TRANSPORE 2.5 CM 3M (REF. 1527-1) (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1189.0
+      },
+      "itemDescription": "",
+      "quantity": 36,
+      "originalUnitCost": 1189.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 1189.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "RD-BB-0002",
+        "description": "RODILLERA BAMBU M BLUNDING (REF. BBE-03)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3860.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 3860.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 3860.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "RD-BB-0003",
+        "description": "RODILLERA BAMBU S BLUNDING (REF. BBE-03)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3860.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 3860.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 3860.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CD-BB-0003",
+        "description": "CODERA BAMBU S BLUNDING (REF. BBE-06)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3325.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 3325.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 3325.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CD-BB-0001",
+        "description": "CODERA BAMBU M BLUNDING (REF. BBE-06)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 3325.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 3325.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 3325.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "VE-NO-0005",
+        "description": "VENDA GASA 6 CM x 4 MT BIOMEDIKA (ENVIAR BOLSA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 377.0
+      },
+      "itemDescription": "",
+      "quantity": 36,
+      "originalUnitCost": 377.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 377.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BL-FR-0001",
+        "description": "FAJA PRE PARTO UNIVERSAL BLUNDING (REF. G-308)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 7956.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 7956.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 7956.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "BA-EJ-0002",
+        "description": "BALON EJERCICIO CON BOMBIN 65 CM BLUNDING (REF. BB-07)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 9262.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 9262.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 9262.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "SO-NE-0003",
+        "description": "SONDA NELATON 12",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 265.0
+      },
+      "itemDescription": "",
+      "quantity": 200,
+      "originalUnitCost": 265.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 265.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TO-BE-0003",
+        "description": "TOBILLERA ELASTICADA NEGRA M BIONIC (ENVIAR PAQUETE x 2 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 2526.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 2526.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 2526.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "TN-NS-0001",
+        "description": "VENDA ELASTICA ADHESIVA TENSOPLAST 10 CM x 4.5 M BSN (REF. 71547-00)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 7867.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 7867.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 7867.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PA-AB-0003",
+        "description": "PAÑAL ABENA SLIP L4 PREMIUM (x 18 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 29000.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 29000.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 29000.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CO-JA-0101",
+        "description": "COJIN ABDUCCION DISPLACIA BEBE S ORTYMED",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 9067.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 9067.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 9067.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "FI-XO-0002",
+        "description": "VENDA GASA NO TEJIDA ADHESIVA FIXOMULL STRETCH 5 CM x 10 M BSN (REF.02036-00)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 5492.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 5492.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 5492.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0135",
+        "description": "VENDA GASA NO TEJIDA ADHESIVA FIXOMULL STRETCH 15 CM x 10 M BSN (REF.02038-00)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 16515.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 16515.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 16515.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "IB-SE-0012",
+        "description": "LIGA SEGRETA 70 N.36 T03 IBICI",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 19125.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 19125.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 19125.0,
+      "costCenter": {
+        "costCenterId": "00D",
+        "name": "ÑUÑOA"
+      },
+      "lot": null
+    }
+  ]
+}

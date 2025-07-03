@@ -1,0 +1,506 @@
+{
+  "salesWaybillId": -54041,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54041,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 4,
+    "name": "OS PUENTE"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": null,
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-07-02T11:43:08",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 3,
+    "description": "Puente Alto",
+    "address": "Paseo Manuel Rodriguez 46 local 42",
+    "city": "SANTIAGO",
+    "county": "Puente Alto",
+    "zipCode": "",
+    "state": "",
+    "country": "CHILE"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10946052316",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-07-02T14:26:46"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-07-02T11:44:02",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "PUENTE ALTO"
+  },
+  "items": [
+    {
+      "itemId": 448012,
+      "itemOrder": 448012,
+      "product": {
+        "productId": 4583,
+        "sku": "BO-OR-0705",
+        "description": "BOLSA ORINA PIERNA URIMED 800 ML 60 CM BBRAUN (REF. 28305)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 2125.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2125.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513175,
+          "fromStep": "O",
+          "fromId": 85089
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448013,
+      "itemOrder": 448013,
+      "product": {
+        "productId": 15860,
+        "sku": "CC-CC-0095",
+        "description": "BASTON CODERA MOVIL STRATTO M.D (REF. ST-0001)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 8235.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 8235.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513176,
+          "fromStep": "O",
+          "fromId": 85090
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448015,
+      "itemOrder": 448015,
+      "product": {
+        "productId": 7189,
+        "sku": "AP-SI-0008",
+        "description": "APOSITO GASA NATURAL 10x20 CM CRANBERRY (REF. AAAP1020)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 100.0,
+      "originalUnitPrice": 192.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 192.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513178,
+          "fromStep": "O",
+          "fromId": 85092
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448017,
+      "itemOrder": 448017,
+      "product": {
+        "productId": 3049,
+        "sku": "FA-JZ-0007",
+        "description": "FAJA ABDOMINAL 4 BANDAS BEIGE XL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 5625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5625.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513180,
+          "fromStep": "O",
+          "fromId": 85094
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448018,
+      "itemOrder": 448018,
+      "product": {
+        "productId": 15011,
+        "sku": "AA-AA-0194",
+        "description": "FAJA ABDOMINAL 4 BANDAS BEIGE XXL",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 10.0,
+      "originalUnitPrice": 6750.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6750.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513181,
+          "fromStep": "O",
+          "fromId": 85095
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448019,
+      "itemOrder": 448019,
+      "product": {
+        "productId": 14661,
+        "sku": "NA-PL-6000",
+        "description": "PLACA CONVEXA MOLDEABLE DURAHESIVE SURFIT NATURA 45 MM (22-33 MM) CONVATEC (REF. 404593) (ENVIAR CAJA x 10 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 40.0,
+      "originalUnitPrice": 5208.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5208.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513182,
+          "fromStep": "O",
+          "fromId": 85096
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448020,
+      "itemOrder": 448020,
+      "product": {
+        "productId": 1785,
+        "sku": "PI-SE-0053",
+        "description": "SEPARADOR PRIMER DEDO GEL M LENOX (REF. 8010)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 857.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 857.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513183,
+          "fromStep": "O",
+          "fromId": 85097
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448021,
+      "itemOrder": 448021,
+      "product": {
+        "productId": 8429,
+        "sku": "RE-RG-0202",
+        "description": "REGATON BASTON 19 MM NEGRO",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 30.0,
+      "originalUnitPrice": 1062.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1062.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513184,
+          "fromStep": "O",
+          "fromId": 85098
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448022,
+      "itemOrder": 448022,
+      "product": {
+        "productId": 6067,
+        "sku": "CO-JF-0001",
+        "description": "PICARON ESPUMA INYECTADA CON FUNDA 8 CM",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 11250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 11250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513185,
+          "fromStep": "O",
+          "fromId": 85099
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448024,
+      "itemOrder": 448024,
+      "product": {
+        "productId": 13045,
+        "sku": "TO-AN-1000",
+        "description": "TOALLITAS ANTISEPTICAS CON ALCOHOL 70% CRANBERRY",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 887.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 887.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513187,
+          "fromStep": "O",
+          "fromId": 85101
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448026,
+      "itemOrder": 448026,
+      "product": {
+        "productId": 16389,
+        "sku": "CC-CC-0408",
+        "description": "ORTESIS MUÑECA CON FERULA PALMAR DORSAL IZQUIERDA M BLUNDING (REF. HM-171)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 7224.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 7224.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513189,
+          "fromStep": "O",
+          "fromId": 85103
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448027,
+      "itemOrder": 448027,
+      "product": {
+        "productId": 3025,
+        "sku": "MU-IN-0057",
+        "description": "INMOVILIZADOR MUÑECA L BLUNDING (REF. HM-116)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 6531.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6531.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513190,
+          "fromStep": "O",
+          "fromId": 85104
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448028,
+      "itemOrder": 448028,
+      "product": {
+        "productId": 3031,
+        "sku": "MU-IN-0059",
+        "description": "INMOVILIZADOR MUÑECA XL BLUNDING (REF. HM-116)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 3.0,
+      "originalUnitPrice": 6531.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 6531.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513191,
+          "fromStep": "O",
+          "fromId": 85105
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 448029,
+      "itemOrder": 448029,
+      "product": {
+        "productId": 5543,
+        "sku": "CA-VI-0002",
+        "description": "CREMA BARRERA PROTECTORA CAVILON 92 GR 3M (REF. 3392G)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 8639.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 8639.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513192,
+          "fromStep": "O",
+          "fromId": 85106
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

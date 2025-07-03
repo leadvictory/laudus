@@ -163,7 +163,7 @@ class LaudusAPIsales:
                     # Save the original waybill
                     with open(f"waybill_{salesWaybillId}.json", "w", encoding="utf-8") as f:
                         json.dump(data, f, ensure_ascii=False, indent=2)
-                    print(f"✅ Saved to waybill_{salesWaybillId}.json")
+                    # print(f"✅ Saved to waybill_{salesWaybillId}.json")
 
                     # Create new simplified JSON
                     transformed = {
@@ -210,7 +210,7 @@ class LaudusAPIsales:
 
                     with open(f"transformed_{salesWaybillId}.json", "w", encoding="utf-8") as f:
                         json.dump(transformed, f, ensure_ascii=False, indent=2)
-                    print(f"✅ Saved transformed file to transformed_{salesWaybillId}.json")
+                    # print(f"✅ Saved transformed file to transformed_{salesWaybillId}.json")
 
                     return data
 

@@ -1,0 +1,261 @@
+{
+  "salesWaybillId": -54032,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54032,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 5,
+    "name": "OS QUILIN"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": {
+    "priceListId": 5,
+    "name": "ORTOPEDIA SUIZA"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-07-02T11:09:23",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 4,
+    "description": "Mall Quilin",
+    "address": "Mar Tirreno 3349 Local 1069",
+    "city": "SANTIAGO",
+    "county": "PEÑALOLEN",
+    "zipCode": "",
+    "state": "",
+    "country": ""
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10945845380",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-07-02T14:30:15"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-07-02T11:09:55",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "MALL QUILIN"
+  },
+  "items": [
+    {
+      "itemId": 447870,
+      "itemOrder": 447870,
+      "product": {
+        "productId": 3949,
+        "sku": "AG-OX-0001",
+        "description": "AGUA OXIGENADA SOLUCION VOLUMEN 10 1 LT DIFEMCARE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 1934.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1934.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513036,
+          "fromStep": "O",
+          "fromId": 85122
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447871,
+      "itemOrder": 447871,
+      "product": {
+        "productId": 16287,
+        "sku": "CC-CC-0337",
+        "description": "TOMA PRESION DIGITAL DE BRAZO OMRON (REF. HEM-7142)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 5.0,
+      "originalUnitPrice": 37806.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 37806.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513037,
+          "fromStep": "O",
+          "fromId": 85123
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447872,
+      "itemOrder": 447872,
+      "product": {
+        "productId": 15075,
+        "sku": "AA-AA-0249",
+        "description": "SABANILLA PREPICADA ADVANCE 48 MT TORK (REF. RO55014) (ENVIAR PAQUETE x 2 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 8.0,
+      "originalUnitPrice": 2640.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2640.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513038,
+          "fromStep": "O",
+          "fromId": 85124
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447874,
+      "itemOrder": 447874,
+      "product": {
+        "productId": 13852,
+        "sku": "KI-GU-0001",
+        "description": "KIT GLUCOMETRO + 50 TIRAS +  50 LANCETAS SINOCARE",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 22500.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 22500.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513040,
+          "fromStep": "O",
+          "fromId": 85126
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447875,
+      "itemOrder": 447875,
+      "product": {
+        "productId": 9259,
+        "sku": "FR-AS-0001",
+        "description": "FRASCO EXAMEN ORINA 150 ML",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 15.0,
+      "originalUnitPrice": 306.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 306.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513041,
+          "fromStep": "O",
+          "fromId": 85127
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447876,
+      "itemOrder": 447876,
+      "product": {
+        "productId": 4763,
+        "sku": "CL-OR-0003",
+        "description": "JABON LIQUIDO DICHLOREXAN 2% 340 ML DIFEMPHARMA",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 4.0,
+      "originalUnitPrice": 5018.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 5018.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513042,
+          "fromStep": "O",
+          "fromId": 85128
+        }
+      ],
+      "customFields": {}
+    }
+  ]
+}

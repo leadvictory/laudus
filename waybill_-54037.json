@@ -1,0 +1,562 @@
+{
+  "salesWaybillId": -54037,
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54037,
+  "customer": {
+    "customerId": 336,
+    "name": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "legalName": "IMP Y COM ORTOPEDIA SUIZA SPA",
+    "VATId": "76.194.079-1",
+    "email": "jolea@ortopediasuiza.cl"
+  },
+  "contact": null,
+  "salesman": {
+    "salesmanId": 4,
+    "name": "OS PUENTE"
+  },
+  "dealer": null,
+  "carrier": null,
+  "priceList": null,
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "BODEGA MACUL"
+  },
+  "term": {
+    "termId": "01",
+    "name": "Contado"
+  },
+  "branch": null,
+  "issuedDate": "2025-07-02T11:38:57",
+  "nullDoc": false,
+  "purchaseOrderNumber": "",
+  "deliveryAddress": {
+    "addressId": 3,
+    "description": "Puente Alto",
+    "address": "Paseo Manuel Rodriguez 46 local 42",
+    "city": "SANTIAGO",
+    "county": "Puente Alto",
+    "zipCode": "",
+    "state": "",
+    "country": "CHILE"
+  },
+  "deliveryCost": 0.0,
+  "deliveryNotes": "",
+  "deliveryVehiclePlate": null,
+  "deliverySIIType": "2",
+  "deliverySchedule": "",
+  "cause": null,
+  "bypassCreditLimit": false,
+  "notes": "",
+  "DTE": {
+    "trackId": "10946027716",
+    "documentStatus": "",
+    "uploadStatus": "",
+    "sentToCustomerAt": "2025-07-02T14:28:12"
+  },
+  "isSale": true,
+  "createdBy": {
+    "userId": "05",
+    "name": "Joselyn"
+  },
+  "createdAt": "2025-07-02T11:39:53",
+  "modifiedBy": null,
+  "modifiedAt": null,
+  "customFields": {
+    "local_": "PUENTE ALTO"
+  },
+  "items": [
+    {
+      "itemId": 447938,
+      "itemOrder": 447938,
+      "product": {
+        "productId": 16266,
+        "sku": "VE-NO-0010",
+        "description": "VENDA GASA 10 CM x 4 MT NOBAFIX (ENVIAR CAJA x 20 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 60.0,
+      "originalUnitPrice": 425.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 425.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513103,
+          "fromStep": "O",
+          "fromId": 84859
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447939,
+      "itemOrder": 447939,
+      "product": {
+        "productId": 16793,
+        "sku": "CC-CC-0762",
+        "description": "VENDA GASA ELASTICADA 8 CM x 4 M CRANBERRY (REF. AAVEGA02) (ENVIAR CAJA x 20 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 60.0,
+      "originalUnitPrice": 187.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 187.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513104,
+          "fromStep": "O",
+          "fromId": 84860
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447941,
+      "itemOrder": 447941,
+      "product": {
+        "productId": 9249,
+        "sku": "TL-MI-0015",
+        "description": "CINTA PLASTICA TRANSPORE 2.5 CM 3M (REF. 1527-1) (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 48.0,
+      "originalUnitPrice": 1189.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1189.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513106,
+          "fromStep": "O",
+          "fromId": 84862
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447942,
+      "itemOrder": 447942,
+      "product": {
+        "productId": 7711,
+        "sku": "TL-MI-0002",
+        "description": "CINTA PAPEL BLANCA 2.5 CM GHC (CARRETE CALIPSO) (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 144.0,
+      "originalUnitPrice": 526.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 526.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513107,
+          "fromStep": "O",
+          "fromId": 84863
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447943,
+      "itemOrder": 447943,
+      "product": {
+        "productId": 7575,
+        "sku": "HA-GR-0001",
+        "description": "HAND GRIP TORPEDO",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 2757.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2757.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513108,
+          "fromStep": "O",
+          "fromId": 84864
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447944,
+      "itemOrder": 447944,
+      "product": {
+        "productId": 10155,
+        "sku": "BA-SU-0003",
+        "description": "BAJADA SUERO MACROGOTA 20 GOTAS / 1 ML CRANBERRY (REF. AAEQSUER) (ENVIAR CAJA x 25 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 25.0,
+      "originalUnitPrice": 282.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 282.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513109,
+          "fromStep": "O",
+          "fromId": 84865
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447945,
+      "itemOrder": 447945,
+      "product": {
+        "productId": 8197,
+        "sku": "BL-RS-0013",
+        "description": "RODILLERA CON ORIFICIO ROTULIANO XL BLUNDING (MI-54)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 2.0,
+      "originalUnitPrice": 8669.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 8669.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513110,
+          "fromStep": "O",
+          "fromId": 84866
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447946,
+      "itemOrder": 447946,
+      "product": {
+        "productId": 3251,
+        "sku": "SU-EA-0002",
+        "description": "CLORURO DE SODIO 0,9% 20 ML VITAFARMA (ENVIAR CAJA x 40 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 200.0,
+      "originalUnitPrice": 400.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 400.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513111,
+          "fromStep": "O",
+          "fromId": 84867
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447947,
+      "itemOrder": 447947,
+      "product": {
+        "productId": 2421,
+        "sku": "PA-NA-0010",
+        "description": "APOSITO BLU L (x 20 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 14.0,
+      "originalUnitPrice": 1730.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1730.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513112,
+          "fromStep": "O",
+          "fromId": 84868
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447949,
+      "itemOrder": 447949,
+      "product": {
+        "productId": 16247,
+        "sku": "CC-CC-0295",
+        "description": "CORRECTOR JUANETE SUSIE´S GADGETS (REF. 97436)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 1197.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1197.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513114,
+          "fromStep": "O",
+          "fromId": 84870
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447950,
+      "itemOrder": 447950,
+      "product": {
+        "productId": 1222,
+        "sku": "AL-CO-0001",
+        "description": "ALCOHOL DESINFECTANTE 70° 250 ML DIFEMPHARMA (REF. 2401997)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 36.0,
+      "originalUnitPrice": 1308.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1308.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513115,
+          "fromStep": "O",
+          "fromId": 84871
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447951,
+      "itemOrder": 447951,
+      "product": {
+        "productId": 16857,
+        "sku": "CC-CC-0827",
+        "description": "GUANTES NITRILO AZUL COBALTO M TRESOR (REF. ACGNCLT3) (CAJA x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 3275.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 3275.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513116,
+          "fromStep": "O",
+          "fromId": 84872
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447952,
+      "itemOrder": 447952,
+      "product": {
+        "productId": 11901,
+        "sku": "GU-VI-0002",
+        "description": "GUANTES VINILO M TRESOR (REF. ACGVITL2) (CAJA X 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 2113.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 2113.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513117,
+          "fromStep": "O",
+          "fromId": 84873
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447953,
+      "itemOrder": 447953,
+      "product": {
+        "productId": 16802,
+        "sku": "CC-CC-0772",
+        "description": "BOLSA ORINA ADULTO 2 LT PREMIUM CRANBERRY (REF. AARECOAP)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 20.0,
+      "originalUnitPrice": 1638.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 1638.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513118,
+          "fromStep": "O",
+          "fromId": 84874
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447954,
+      "itemOrder": 447954,
+      "product": {
+        "productId": 14834,
+        "sku": "MU-LY-0001",
+        "description": "MUÑEQUERA LYCRA S",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 6.0,
+      "originalUnitPrice": 4250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 4250.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": [
+        {
+          "traceId": 513119,
+          "fromStep": "O",
+          "fromId": 84875
+        }
+      ],
+      "customFields": {}
+    },
+    {
+      "itemId": 447955,
+      "itemOrder": 447955,
+      "product": {
+        "productId": 16861,
+        "sku": "CC-CC-0831",
+        "description": "VENDA GASA 12 CM x 4 MT ISIMED (ENVIAR BOLSA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "allowUserChangePrices": false,
+        "applyGeneralVATRate": true,
+        "maxDiscount": null
+      },
+      "itemDescription": "",
+      "quantity": 48.0,
+      "originalUnitPrice": 260.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitPrice": 260.0,
+      "discountPercentage": 0.0,
+      "costCenter": null,
+      "lot": null,
+      "traceFrom": null,
+      "customFields": {}
+    }
+  ]
+}

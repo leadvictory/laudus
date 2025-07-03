@@ -1,0 +1,310 @@
+{
+  "docType": {
+    "docTypeId": 52,
+    "name": "Guía de Despacho Electrónica"
+  },
+  "docNumber": 54031,
+  "description": "",
+  "supplier": {
+    "supplierId": 1,
+    "name": "IMPORTADORA NECGROUP SPA",
+    "legalName": "IMPORTADORA NECGROUP SPA",
+    "VATId": "76.278.745-8"
+  },
+  "warehouse": {
+    "warehouseId": "005",
+    "name": "MALL QUILIN"
+  },
+  "issuedDate": "2025-07-02T11:08:30",
+  "nullDoc": false,
+  "notes": "",
+  "isSale": true,
+  "items": [
+    {
+      "product": {
+        "sku": "BO-OL-0005",
+        "description": "BOLSA OLOR DIAMONDS CONVATEC (REF. TR105) (x 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 27250.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 27250.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 27250.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "ES-CA-0002",
+        "description": "ESCABEL 1 PELDAÑO",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": true,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 11875.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 11875.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 11875.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0377",
+        "description": "MEDIA ANTIEMBOLICA TROMBIMED M BLUNDING (REF. E-701)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4625.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 4625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 4625.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0313",
+        "description": "MEDIA ANTIEMBOLICA TROMBIMED L BLUNDING (REF. E-701)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 4625.0
+      },
+      "itemDescription": "",
+      "quantity": 5,
+      "originalUnitCost": 4625.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 4625.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "SE-UN-0003",
+        "description": "SEPARADOR UNIVERSAL GEL S LENOX (REF. 8016)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 670.0
+      },
+      "itemDescription": "",
+      "quantity": 10,
+      "originalUnitCost": 670.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 670.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AL-TO-0003",
+        "description": "TORULAS ALGODON CHICA CRANBERRY (REF. AATOAL05) (BOLSA 100 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 675.0
+      },
+      "itemDescription": "",
+      "quantity": 20,
+      "originalUnitCost": 675.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 675.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "SU-EC-0004",
+        "description": "CLORURO DE SODIO 0.9% 1 LT BBRAUN (ENVIAR CAJA x 12 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1455.0
+      },
+      "itemDescription": "",
+      "quantity": 12,
+      "originalUnitCost": 1455.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 1455.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PA-AB-0005",
+        "description": "PAÑAL ABENA SLIP M4 PREMIUM (x 21 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 26731.0
+      },
+      "itemDescription": "",
+      "quantity": 2,
+      "originalUnitCost": 26731.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 26731.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "PA-NA-0010",
+        "description": "APOSITO BLU L (x 20 UNIDADES)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 1730.0
+      },
+      "itemDescription": "",
+      "quantity": 14,
+      "originalUnitCost": 1730.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 1730.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CC-CC-0146",
+        "description": "COLLAR CERVICAL MIAMI OSSUR BLUNDING (REF. MJS-101)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 77187.0
+      },
+      "itemDescription": "",
+      "quantity": 1,
+      "originalUnitCost": 77187.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 77187.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CO-PO-0001",
+        "description": "CORRECTOR POSTURA INTELIGENTE CON SENSOR BLUNDING (REF. BEQ-17)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 10331.0
+      },
+      "itemDescription": "",
+      "quantity": 4,
+      "originalUnitCost": 10331.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 10331.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "CA-JO-0007",
+        "description": "CALCETA ULTRASHEER 15-20 PUNTA CERRADA HONEY M JOBST (REF. 75166-21)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 13316.0
+      },
+      "itemDescription": "",
+      "quantity": 3,
+      "originalUnitCost": 13316.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 13316.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    },
+    {
+      "product": {
+        "sku": "AA-AA-0267",
+        "description": "PLANTILLA ANTI STRESS RECORTABLE HOMBRE PROFOOT (REF. 22400)",
+        "unitOfMeasure": "UNIDAD",
+        "allowFreeDescription": false,
+        "applyGeneralVATRate": true,
+        "VATRate": 19,
+        "productUnitCost": 7159.0
+      },
+      "itemDescription": "",
+      "quantity": 6,
+      "originalUnitCost": 7159.0,
+      "currencyCode": "CLP",
+      "parityToMainCurrency": 1.0,
+      "unitCost": 7159.0,
+      "costCenter": {
+        "costCenterId": "00E",
+        "name": "MALL QUILIN"
+      },
+      "lot": null
+    }
+  ]
+}
